@@ -1,3 +1,4 @@
-# My Awesome Book
+# 我的Android开发日记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+记录一些Android开发中遇见的坑。   ——2018.3.16
+
