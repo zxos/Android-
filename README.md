@@ -2,5 +2,5 @@
 
 记录一些Android开发中遇见的坑。   ——2018.3.16
 
-\[gitbook\]\([https://zxos.gitbooks.io/androidmark](https://zxos.gitbooks.io/androidmark\)\)
+\[gitbook\]\([https://zxos.gitbooks.io/androidmark](https://zxos.gitbooks.io/androidmark%29\)\)
 
