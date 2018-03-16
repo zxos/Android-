@@ -6,5 +6,5 @@
 
 [github](https://github.com/zxos/AndroidMark)
 
-/github
+
 
