@@ -188,6 +188,12 @@ AR
 
 [lcodecorex /TwinklingRefreshLayout](https://github.com/lcodecorex/TwinklingRefreshLayout)
 
+recyclerView
+
+[wasabeef /recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
+
+[gabrielemariotti /RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
+
 TextView
 
 [Manabu-GT /ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView)           可展开TextView
