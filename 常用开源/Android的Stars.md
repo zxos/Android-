@@ -196,6 +196,8 @@ SeekBar
 
 samples
 
+[zhangchaojiong /BaiduMapClusterSample](https://github.com/zhangchaojiong/BaiduMapClusterSample)
+
 [googlecodelabs /android-testing](https://github.com/googlecodelabs/android-testing)
 
 [googlesamples /android-testing-templates](https://github.com/googlesamples/android-testing-templates)
@@ -217,6 +219,4 @@ samples
 [jondot /awesome-react-native](https://github.com/jondot/awesome-react-native)
 
 [stoneWeb /elm-react-native](https://github.com/stoneWeb/elm-react-native)
-
-
 
