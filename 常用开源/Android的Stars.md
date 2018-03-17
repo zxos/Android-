@@ -56,6 +56,8 @@ UI框架
 
 [lipangit /JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 
+[CarGuo /GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)
+
 [mpv-player /mpv](https://github.com/mpv-player/mpv)
 
 推送
