@@ -284,6 +284,10 @@ SeekBar
 
 ![](/assets/AndroidSwipeLayout.gif)
 
+[umano /AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)
+
+![](/assets/AndroidSlidingUpPanel.png)
+
 其他
 
 [iwgang /CountdownView](https://github.com/iwgang/CountdownView)                          倒计时控件
