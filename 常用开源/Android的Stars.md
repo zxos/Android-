@@ -100,6 +100,10 @@ UI框架
 
 [didi /VirtualAPK](https://github.com/didi/VirtualAPK)
 
+热更新
+
+[TinkerPatch /tinkerpatch-sdk](https://github.com/TinkerPatch/tinkerpatch-sdk)
+
 路由
 
 [alibaba /ARouter](https://github.com/alibaba/ARouter)
