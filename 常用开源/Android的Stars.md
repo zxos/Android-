@@ -100,6 +100,8 @@ UI框架
 
 [TakuSemba /Spotlight](https://github.com/TakuSemba/Spotlight)
 
+[amlcurran /ShowcaseView](https://github.com/amlcurran/ShowcaseView)
+
 插件或组件
 
 [luckybilly /AutoRegister](https://github.com/luckybilly/AutoRegister)                               android中实现自动注册的gradle插件
