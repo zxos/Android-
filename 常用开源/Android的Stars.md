@@ -112,9 +112,15 @@ UI框架
 
 [didi /VirtualAPK](https://github.com/didi/VirtualAPK)
 
+[wequick /Small](https://github.com/wequick/Small)
+
 热更新
 
 [TinkerPatch /tinkerpatch-sdk](https://github.com/TinkerPatch/tinkerpatch-sdk)
+
+事件分发
+
+[cangwang /ModuleBus](https://github.com/cangwang/ModuleBus)
 
 路由
 
