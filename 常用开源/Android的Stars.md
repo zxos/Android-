@@ -244,6 +244,8 @@ recyclerView
 
 TextView
 
+[sdsmdg /RotatingText](https://github.com/sdsmdg/RotatingText)
+
 [Manabu-GT /ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView)           可展开TextView
 
 [rosenpin /FadingTextView](https://github.com/rosenpin/FadingTextView)
