@@ -26,6 +26,12 @@ UI框架
 
 [flutter /flutter](https://github.com/flutter/flutter)
 
+多媒体
+
+[pili-engineering /PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)                  PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK
+
+[lipangit /JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
+
 插件或组件
 
 [luckybilly /AutoRegister](https://github.com/luckybilly/AutoRegister)                               android中实现自动注册的gradle插件
@@ -42,13 +48,23 @@ kotlin
 
 [beiliao-mobile /BadgeNumberManager](https://github.com/beiliao-mobile/BadgeNumberManager)   支持国产主流手机品牌\(华为、小米、OPPO、vivo\)的桌面角标设置。
 
+[leolin310148 /ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)                  桌面小红点信息数
+
+开发组件
+
+[Tencent /RapidView](https://github.com/Tencent/RapidView)
+
 面试或其他资料
 
 [helen-x /AndroidInterview](https://github.com/helen-x/AndroidInterview)
 
 [CyC2018 /Interview-Notebook](https://github.com/CyC2018/Interview-Notebook)
 
+[JackyAndroid /AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A)
+
 [adambard /learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
+
+[LRH1993 /android\_interview](https://github.com/LRH1993/android_interview)
 
 ---
 
@@ -78,13 +94,33 @@ Toast
 
 [ruzhan123 /awaker](https://github.com/ruzhan123/awaker)                                   地理杂志阅读类Android App，项目采用 LiveData + Room + RXJava2 + Retrofit + OKHttp + Material Design + Base + Glide 构建
 
+
+
+samples
+
+[googlesamples /android-ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
+
+[android10 /Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
+
+
+
 ---
 
 # Python
 
+框架
+
+[littlecodersh /ItChat](https://github.com/littlecodersh/ItChat)
+
 机器学习框架
 
 [apache /incubator-mxnet](https://github.com/apache/incubator-mxnet)
+
+学习资料
+
+[exacity /deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese)
+
+[ExtremeMart /DeepLearningBook-CN](https://github.com/ExtremeMart/DeepLearningBook-CN)
 
 
 
