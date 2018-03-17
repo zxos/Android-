@@ -160,6 +160,8 @@ samples
 
 [googlecodelabs /android-testing](https://github.com/googlecodelabs/android-testing)
 
+[googlesamples /android-testing-templates](https://github.com/googlesamples/android-testing-templates)
+
 [googlesamples /android-ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
 
 [android10 /Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)    MVP+Retrofit+Rxjava
