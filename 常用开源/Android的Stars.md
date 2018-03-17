@@ -72,6 +72,8 @@ UI框架
 
 [Qihoo360 /RePlugin](https://github.com/Qihoo360/RePlugin)
 
+[mqzhangw /AndroidComponent](https://github.com/mqzhangw/AndroidComponent)                
+
 路由
 
 [chenenyu /Router](https://github.com/chenenyu/Router)
