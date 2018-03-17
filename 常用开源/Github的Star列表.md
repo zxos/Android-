@@ -46,6 +46,10 @@ UI框架
 
 [luckybilly /AutoRegister](https://github.com/luckybilly/AutoRegister)                               android中实现自动注册的gradle插件
 
+路由
+
+[chenenyu /Router](https://github.com/chenenyu/Router)
+
 字体替换
 
 [chrisjenx /Calligraphy](https://github.com/chrisjenx/Calligraphy)
@@ -103,6 +107,10 @@ Toast
 其他
 
 [iwgang /CountdownView](https://github.com/iwgang/CountdownView)                          倒计时控件
+
+[MatthiasRobbers /shortbread](https://github.com/MatthiasRobbers/shortbread)
+
+![](/assets/ShortBread.png)
 
 ---
 
