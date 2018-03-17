@@ -44,7 +44,7 @@ fragment
 
 [marcosgriselli /ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)
 
-[Hitomis /transferee](https://github.com/Hitomis/transferee)
+[Hitomis /transferee](https://github.com/Hitomis/transferee)                                  一个帮助您完成从缩略图到原图无缝过渡转变的神奇组件
 
 异步
 
