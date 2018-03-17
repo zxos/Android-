@@ -56,6 +56,8 @@ UI框架
 
 [lipangit /JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 
+[mpv-player /mpv](https://github.com/mpv-player/mpv)
+
 推送
 
 [pengyuantao /OnePush](https://github.com/pengyuantao/OnePush)
