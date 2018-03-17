@@ -152,13 +152,15 @@ TextView
 
 ![](/assets/FadingTextView.gif)
 
-ImageView
+switch
 
 [zagum /Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)
 
 ![](/assets/SwitchIcon.gif)
 
 [zcweng /SwitchButton](https://github.com/zcweng/SwitchButton)
+
+![](/assets/SwitchButton.gif)
 
 ViewPager
 
