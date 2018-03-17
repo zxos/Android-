@@ -128,6 +128,10 @@ AR
 
 [DingMouRen /PaletteImageView](https://github.com/DingMouRen/PaletteImageView)
 
+emoji
+
+[rockerhieu /emojicon](https://github.com/rockerhieu/emojicon)
+
 其它
 
 [MZCretin /WifiTransfer-master](https://github.com/MZCretin/WifiTransfer-master)                  Android下WIFI隔空apk安装
