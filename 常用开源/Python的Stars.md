@@ -30,5 +30,7 @@
 
 [rosarior /awesome-django](https://github.com/rosarior/awesome-django)
 
+[jakevdp /PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
 
 

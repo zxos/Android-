@@ -260,6 +260,10 @@ recyclerView
 
 [gabrielemariotti /RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
 
+列表
+
+[cdflynn /bubble-scroll](https://github.com/cdflynn/bubble-scroll)                                        带字母列表
+
 侧滑
 
 [SimonVT /android-menudrawer](https://github.com/SimonVT/android-menudrawer)
