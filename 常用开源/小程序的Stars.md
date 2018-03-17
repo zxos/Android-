@@ -6,8 +6,15 @@
 
 [EastWorld /wechat-app-mall](https://github.com/EastWorld/wechat-app-mall)                    微信小程序商城，微信小程序微店
 
-  
 
 
- 
+---
+
+# 完整项目
+
+[zwwill /yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo)
+
+
+
+
 
