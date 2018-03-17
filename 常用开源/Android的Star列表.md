@@ -102,7 +102,13 @@ TextView
 
 [rosenpin /FadingTextView](https://github.com/rosenpin/FadingTextView)
 
-![](/assets/FadingTextView.png)
+![](/assets/FadingTextView.gif)
+
+ImageView
+
+[zagum /Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)
+
+![](/assets/SwitchIcon.gif)
 
 ViewPager
 
@@ -111,6 +117,12 @@ ViewPager
 Toast
 
 [soarcn /UndoBar](https://github.com/soarcn/UndoBar)                                         底部Toast
+
+布局
+
+[iammert /ScalingLayout](https://github.com/iammert/ScalingLayout)
+
+
 
 其他
 
