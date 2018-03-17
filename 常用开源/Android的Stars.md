@@ -8,6 +8,12 @@
 
 [zhihu /Matisse](https://github.com/zhihu/Matisse)
 
+网络
+
+[Tamicer /Novate](https://github.com/Tamicer/Novate)                                               Android网络框架，基于Retrofit和RxJava打造的链式网络库, 支持okhttp的调用风格，又兼容Retrofit API，并支持rxJava链式操作
+
+
+
 
 
 Rx
