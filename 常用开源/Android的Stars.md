@@ -248,6 +248,8 @@ SeekBar
 
 [LRH1993 /Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin)
 
+[nickbutcher /AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground)
+
 [HurTeng /StormPlane](https://github.com/HurTeng/StormPlane)
 
 [TeamNewPipe /NewPipe](https://github.com/TeamNewPipe/NewPipe)
