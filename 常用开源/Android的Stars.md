@@ -158,7 +158,7 @@ Toast
 
 ![](/assets/ScalingLayout.gif)![](/assets/ScalingLayout_Fab.gif)![](/assets/ScalingLayout_Search.gif)
 
-[bingoogolapple /BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
+[bingoogolapple /BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)           Android Activity 滑动返回。支持微信滑动返回样式、横屏滑动返回、全屏滑动返回
 
 其他
 
