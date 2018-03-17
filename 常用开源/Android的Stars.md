@@ -132,7 +132,7 @@ AR
 
 [zilongshanren /opengl-tutorials](https://github.com/zilongshanren/opengl-tutorials)                     opengl
 
-[linyiqun /DataMiningAlgorithm](https://github.com/linyiqun/DataMiningAlgorithm)
+[linyiqun /DataMiningAlgorithm](https://github.com/linyiqun/DataMiningAlgorithm)                      数据挖掘18大算法实现以及其他相关经典DM算法
 
 ---
 
