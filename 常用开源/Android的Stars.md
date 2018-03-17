@@ -130,6 +130,8 @@ ViewPager
 
 [florent37 /MaterialViewPager](https://github.com/florent37/MaterialViewPager)
 
+[ToxicBakery /ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
+
 Toast
 
 [soarcn /UndoBar](https://github.com/soarcn/UndoBar)                                         底部Toast
