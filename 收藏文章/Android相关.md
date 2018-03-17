@@ -7,6 +7,7 @@
 * [Gradle](#gradle)
 * [RxJava](#rxjava)
 * [其他](#其他)
+* [面试](#面试)
 
 ---
 
@@ -28,7 +29,7 @@
 
 [搞定 RecycleView 自动加载更多、侧滑菜单、添加头部底部](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824224&idx=1&sn=ff9adcb990e535c1c6ebe82982d94e77&chksm=80b78abeb7c003a83eef585709baca77075541892c4dfdfeea91db478390123e983ca43af7e3&scene=21#wechat_redirect)
 
-[拒绝拖拽  使用ConstraintLayout优化你的布局吧](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824132&idx=1&sn=1cf09caa325d83de12b73c615fc9613e&chksm=80b7895ab7c0004c5cbb2175a3da302fc13d612762f56094f13b80e1334e7655dde1ad00083c&scene=21#wechat_redirect)
+[拒绝拖拽  使用ConstraintLayout优化你的布局吧](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824132&idx=1&sn=1cf09caa325d83de12b73c615fc9613e&chksm=80b7895ab7c0004c5cbb2175a3da302fc13d612762f56094f13b80e1334e7655dde1ad00083c&scene=21#wechat_redirect)
 
 [RecyclerView 梳理：点击&长按事件、分割线、拖曳排序、滑动删除](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824011&idx=1&sn=ac22841c0219e07f388fa15495819305&chksm=80b789d5b7c000c38add9c73e87e21feb4956a7b4a2090e333df73bcc155dc67dd422c8cc7d6&scene=21#wechat_redirect)
 
@@ -67,8 +68,7 @@
 
 [Lottie -- 轻松实现动态加载直播礼物动画](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822816&idx=1&sn=ccc5eca1723cd9bf9d32594b85c54b44&chksm=80b78c3eb7c005282136fddb8e448826ba4d344965871b7aecd2ee573789a659a48e85c75a78&scene=21#wechat_redirect)
 
-[Android AutoWrapTextView 解决中英文排版问题](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822680&idx=1&sn=24a4faf2188079d7995fbda7375d2d56&chksm=80b78c86b7c0059090f95fae40791fd9962214331295f2ae30c95289258d6284e7dba3956e4c&scene=21#wechat_redirect)  
-
+[Android AutoWrapTextView 解决中英文排版问题](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822680&idx=1&sn=24a4faf2188079d7995fbda7375d2d56&chksm=80b78c86b7c0059090f95fae40791fd9962214331295f2ae30c95289258d6284e7dba3956e4c&scene=21#wechat_redirect)
 
 ---
 
@@ -218,4 +218,28 @@
 [Android 7.0 行为变更 通过FileProvider在应用间共享文件吧](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823231&idx=1&sn=650093dfbdb04da12f2595f3f54676a9&chksm=80b78ea1b7c007b7dd5a628dc324b6150a801b7209c9cbf3900e7f5930471f3b5177c3761195&scene=21#wechat_redirect)
 
 [Android 两行代码实现换肤 从appcompat-v7原理出发](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822142&idx=1&sn=72d28a19eb26c51c6b8c4073e2671904&chksm=80b78160b7c00876e3c17914767e758130306440a8b0e3e5791ed58a90e4e9b6d084d50a5d8f&scene=21#wechat_redirect)
+
+
+
+---
+
+#### 面试
+
+[从一道面试题开始说起](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824986&idx=1&sn=4aa18659de1c761e73e87805f1dfc88a&chksm=80b7b584b7c03c926e547ed16d0675f3d625af236736b7e814d21600d40993ac6b41f10a1850&scene=21#wechat_redirect)
+
+[超详细Android面试的准备与经历分享 \| 百度\(offer\)](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824578&idx=1&sn=627d4789f1f17c0b8eb40efe993f048d&chksm=80b78b1cb7c0020aab3a09502d1c22b48ce394aa06505f9dbc202c8f9cda07f3a12343710322&scene=21#wechat_redirect)
+
+[我的 Android 面试故事 \| 13家面试记录](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824517&idx=1&sn=4336cd916cf069aad01606aad0fce6ef&chksm=80b78bdbb7c002cdcd3adcf7aa493e0d4f1c594bc6806ba91e68fa55244c819c21ddc72fd87f&scene=21#wechat_redirect)
+
+[我的2017总结的笔记](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824517&idx=1&sn=4336cd916cf069aad01606aad0fce6ef&chksm=80b78bdbb7c002cdcd3adcf7aa493e0d4f1c594bc6806ba91e68fa55244c819c21ddc72fd87f&scene=21#wechat_redirect)
+
+[2017 Android秋招面试总结 && 面试资源推荐](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824295&idx=1&sn=593dcb3f03c5afbec3d616dbf7afa930&chksm=80b78af9b7c003ef872cdaa87e18891acdf62fd247e929b9715cbfea937ceb15600d77c136b1&scene=21#wechat_redirect)
+
+[Android 茫茫9个月求职路 已拿满意offer](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824286&idx=1&sn=6263c302b508b14c23ac8a256291404a&chksm=80b78ac0b7c003d6cf199e63781ab45b4e3a43555f9a81cbdcd019e473073151d762e6a70966&scene=21#wechat_redirect)
+
+[Android工程师之Android面试大纲](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823839&idx=1&sn=0d4c8e50a4887c10ad1795873ed469bc&chksm=80b78801b7c00117bd405f523457e220ad3201ce0633c41c028ba60fecb8824b705b4a74c9cc&scene=21#wechat_redirect)
+
+[（已拿offer）腾讯/百度/今日头条/美团2017Android开发实习生面经](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822790&idx=1&sn=801199ba18f6c14cf82d5d8b01621270&chksm=80b78c18b7c0050eacc29c74905998317a97526cd000b19d16be448abbafc095fda8f58e0623&scene=21#wechat_redirect)
+
+
 
