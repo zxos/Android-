@@ -246,6 +246,8 @@ SeekBar
 
 [HurTeng /StormPlane](https://github.com/HurTeng/StormPlane)
 
+[TeamNewPipe /NewPipe](https://github.com/TeamNewPipe/NewPipe)
+
 samples
 
 [zhangchaojiong /BaiduMapClusterSample](https://github.com/zhangchaojiong/BaiduMapClusterSample)   使用百度map 的地图，高仿ios 相册的Marker 聚合功能
