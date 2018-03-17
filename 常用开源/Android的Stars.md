@@ -272,6 +272,8 @@ SeekBar
 
 ### 完整项目
 
+[nickbutcher /plaid](https://github.com/nickbutcher/plaid)
+
 [signalapp /Signal-Android](https://github.com/signalapp/Signal-Android)
 
 [Kickstarter/oss](https://github.com/kickstarter/android-oss)
