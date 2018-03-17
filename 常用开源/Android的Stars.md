@@ -14,6 +14,8 @@
 
 [google /volley](https://github.com/google/volley)
 
+[Tencent /ncnn](https://github.com/Tencent/ncnn)
+
 下载
 
 [lingochamp /FileDownloader](https://github.com/lingochamp/FileDownloader)
@@ -210,7 +212,7 @@ SeekBar
 
 [iammert /ScalingLayout](https://github.com/iammert/ScalingLayout)
 
-![](/assets/ScalingLayout.gif)![](/assets/ScalingLayout_Fab.gif)![](/assets/ScalingLayout_Search.gif)
+![](/assets/ScalingLayout_Fab.gif)![](/assets/ScalingLayout_Search.gif)
 
 [bingoogolapple /BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)           Android Activity 滑动返回。支持微信滑动返回样式、横屏滑动返回、全屏滑动返回
 
