@@ -198,6 +198,8 @@ SeekBar
 
 [bingoogolapple /BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)           Android Activity 滑动返回。支持微信滑动返回样式、横屏滑动返回、全屏滑动返回
 
+### [daimajia /AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
+
 其他
 
 [iwgang /CountdownView](https://github.com/iwgang/CountdownView)                          倒计时控件
