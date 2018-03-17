@@ -104,6 +104,8 @@ UI框架
 
 [faruktoptas /FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)
 
+[hongyangAndroid /Highlight](https://github.com/hongyangAndroid/Highlight)
+
 插件或组件
 
 [luckybilly /AutoRegister](https://github.com/luckybilly/AutoRegister)                               android中实现自动注册的gradle插件
