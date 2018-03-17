@@ -30,6 +30,8 @@ Rx
 
 [pwittchen /ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork)
 
+[ReactiveX /RxKotlin](https://github.com/ReactiveX/RxKotlin)
+
 fragment
 
 [YoKeyword /Fragmentation](https://github.com/YoKeyword/Fragmentation)
