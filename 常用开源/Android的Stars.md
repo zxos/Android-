@@ -76,6 +76,8 @@ kotlin
 
 [leolin310148 /ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)                  桌面小红点信息数
 
+[huangweicai /OkLibDemo](https://github.com/huangweicai/OkLibDemo)                          OkLib 一个专注于让开发更加简单的工具库
+
 开发组件
 
 [Tencent /RapidView](https://github.com/Tencent/RapidView)
