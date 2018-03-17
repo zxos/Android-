@@ -96,6 +96,8 @@ UI框架
 
 [mqzhangw /AndroidComponent](https://github.com/mqzhangw/AndroidComponent)
 
+[didi /VirtualAPK](https://github.com/didi/VirtualAPK)
+
 路由
 
 [alibaba /ARouter](https://github.com/alibaba/ARouter)
