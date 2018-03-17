@@ -12,8 +12,6 @@
 
 [sfsheng0322 /GlideImageView](https://github.com/sfsheng0322/GlideImageView)
 
-
-
 网络
 
 [Tamicer /Novate](https://github.com/Tamicer/Novate)                                               Android网络框架，基于Retrofit和RxJava打造的链式网络库, 支持okhttp的调用风格，又兼容Retrofit API，并支持rxJava链式操作
@@ -119,6 +117,10 @@ AR
 [Tencent /soter](https://github.com/Tencent/soter)
 
 [uccmawei /FingerprintIdentify](https://github.com/uccmawei/FingerprintIdentify)
+
+阴影
+
+[DingMouRen /PaletteImageView](https://github.com/DingMouRen/PaletteImageView)
 
 其它
 
