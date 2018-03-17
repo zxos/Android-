@@ -14,5 +14,7 @@
 
 [tonybeltramelli /pix2code](https://github.com/tonybeltramelli/pix2code)
 
+[flike /kingshard](https://github.com/flike/kingshard)
+
 [achun /Go-Blog-In-Action](https://github.com/achun/Go-Blog-In-Action) Go语言博客实践
 
