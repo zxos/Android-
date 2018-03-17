@@ -156,6 +156,8 @@ kotlin
 
 [xitu /awesome-kotlin-cn](https://github.com/xitu/awesome-kotlin-cn)
 
+[JetBrains /kotlin](https://github.com/JetBrains/kotlin)
+
 AR
 
 [google-ar /arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk)
