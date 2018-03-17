@@ -282,6 +282,8 @@ ViewPager
 
 [xmuSistone /AndroidPileLayout](https://github.com/xmuSistone/AndroidPileLayout)
 
+[alibaba /UltraViewPager](https://github.com/alibaba/UltraViewPager)
+
 Navigation
 
 [Devlight /NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)
