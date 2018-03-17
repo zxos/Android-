@@ -156,6 +156,8 @@ kotlin
 
 [xitu /awesome-kotlin-cn](https://github.com/xitu/awesome-kotlin-cn)
 
+[mcxiaoke /awesome-kotlin](https://github.com/mcxiaoke/awesome-kotlin)
+
 [JetBrains /kotlin](https://github.com/JetBrains/kotlin)
 
 AR
