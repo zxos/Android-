@@ -86,6 +86,8 @@ UI框架
 
 [xmuSistone /AnimRichEditor](https://github.com/xmuSistone/AnimRichEditor)
 
+[sendtion /XRichText](https://github.com/sendtion/XRichText)
+
 导航
 
 [apl-devs /AppIntro](https://github.com/apl-devs/AppIntro)
