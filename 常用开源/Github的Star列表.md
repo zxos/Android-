@@ -26,15 +26,25 @@ UI框架
 
 [flutter /flutter](https://github.com/flutter/flutter)
 
+[alibaba /Tangram-Android](https://github.com/alibaba/Tangram-Android)                          一套动态化构建 Native 页面的框架
+
 多媒体
 
 [pili-engineering /PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)                  PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK
 
 [lipangit /JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 
+富文本
+
+[xmuSistone /AnimRichEditor](https://github.com/xmuSistone/AnimRichEditor)
+
 插件或组件
 
 [luckybilly /AutoRegister](https://github.com/luckybilly/AutoRegister)                               android中实现自动注册的gradle插件
+
+字体替换
+
+[chrisjenx /Calligraphy](https://github.com/chrisjenx/Calligraphy)
 
 kotlin
 
@@ -101,6 +111,20 @@ samples
 [googlesamples /android-ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
 
 [android10 /Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)    MVP+Retrofit+Rxjava
+
+---
+
+# IOS
+
+图片选择器
+
+[banchichen /TZImagePickerController](https://github.com/banchichen/TZImagePickerController)
+
+
+
+框架
+
+[ibireme /YYKit](https://github.com/ibireme/YYKit)                                             一组功能丰富的 iOS 组件。
 
 ---
 
