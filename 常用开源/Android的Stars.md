@@ -14,6 +14,10 @@ fragment
 
 [JustKiddingBaby /FragmentRigger](https://github.com/JustKiddingBaby/FragmentRigger)
 
+动画
+
+[marcosgriselli /ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)
+
 异步
 
 [koush /AndroidAsync](https://github.com/koush/AndroidAsync)
@@ -121,8 +125,6 @@ Toast
 布局
 
 [iammert /ScalingLayout](https://github.com/iammert/ScalingLayout)
-
-
 
 其他
 
