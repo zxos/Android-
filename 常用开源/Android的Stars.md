@@ -144,6 +144,8 @@ AR
 
 [fengjundev /Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader)             一个通过动态加载本地皮肤包进行换肤的皮肤框架
 
+[facebook /facebook-android-sdk](https://github.com/facebook/facebook-android-sdk)
+
 开发组件
 
 [Tencent /RapidView](https://github.com/Tencent/RapidView)
@@ -269,6 +271,8 @@ SeekBar
 ---
 
 ### 完整项目
+
+[Kickstarter/oss](https://github.com/kickstarter/android-oss)
 
 [TeamNB /FakeBiliBili](https://github.com/TeamNB/FakeBiliBili)                                仿BiliBili客户端
 
