@@ -308,7 +308,7 @@ SeekBar
 
 [naman14 /Timber](https://github.com/naman14/Timber)                                      Material Design Music Player
 
-[psaravan /JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer)
+[psaravan /JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer)                    A free, powerful and elegant music player for Android.
 
 [google /iosched](https://github.com/google/iosched)
 
