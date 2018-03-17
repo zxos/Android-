@@ -312,6 +312,8 @@ SeekBar
 
 [notHide /Hide-Music-Player](https://github.com/notHide/Hide-Music-Player)
 
+[xiongwei-git /AndroidVideoPlayer](https://github.com/xiongwei-git/AndroidVideoPlayer)
+
 [google /iosched](https://github.com/google/iosched)
 
 [pockethub /PocketHub](https://github.com/pockethub/PocketHub)
