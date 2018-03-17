@@ -6,5 +6,7 @@
 
 [CloudyKit /jet](https://github.com/CloudyKit/jet)
 
+[hyper0x /awesome-go-China](https://github.com/hyper0x/awesome-go-China)
+
 [achun /Go-Blog-In-Action](https://github.com/achun/Go-Blog-In-Action) Go语言博客实践
 
