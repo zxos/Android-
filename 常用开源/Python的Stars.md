@@ -22,5 +22,7 @@
 
 [deepmind /learning-to-learn](https://github.com/deepmind/learning-to-learn)
 
+[deepmind /pysc2](https://github.com/deepmind/pysc2)
+
 
 
