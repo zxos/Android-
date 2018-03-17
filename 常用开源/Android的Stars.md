@@ -60,6 +60,8 @@ webView相关
 
 [sqlcipher /sqlcipher](https://github.com/sqlcipher/sqlcipher)
 
+[Tencent /wcdb](https://github.com/Tencent/wcdb)
+
 UI框架
 
 [flutter /flutter](https://github.com/flutter/flutter)
