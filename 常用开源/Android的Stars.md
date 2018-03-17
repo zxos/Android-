@@ -70,6 +70,8 @@ UI框架
 
 [CarGuo /GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)
 
+[google /ExoPlayer](https://github.com/google/ExoPlayer)
+
 [mpv-player /mpv](https://github.com/mpv-player/mpv)
 
 照相
@@ -153,8 +155,6 @@ emoji
 [beiliao-mobile /BadgeNumberManager](https://github.com/beiliao-mobile/BadgeNumberManager)   支持国产主流手机品牌\(华为、小米、OPPO、vivo\)的桌面角标设置。
 
 [leolin310148 /ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)                  桌面小红点信息数
-
-
 
 [Tencent /VasSonic](https://github.com/Tencent/VasSonic)                                     首屏加速
 
