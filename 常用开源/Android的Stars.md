@@ -96,6 +96,10 @@ UI框架
 
 [sendtion /XRichText](https://github.com/sendtion/XRichText)
 
+通知
+
+[wenmingvs /NotifyUtil](https://github.com/wenmingvs/NotifyUtil)
+
 导航
 
 [apl-devs /AppIntro](https://github.com/apl-devs/AppIntro)
