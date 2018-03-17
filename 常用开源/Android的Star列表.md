@@ -130,9 +130,5 @@ samples
 
 [android10 /Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)    MVP+Retrofit+Rxjava
 
----
-
-# 
-
 
 
