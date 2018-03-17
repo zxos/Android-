@@ -182,6 +182,8 @@ SeekBar
 
 ![](/assets/ShortBread.png)
 
+[loopeer /CardStackView](https://github.com/loopeer/CardStackView)
+
 ---
 
 ### 完整项目
