@@ -12,6 +12,10 @@
 
 [Tamicer /Novate](https://github.com/Tamicer/Novate)                                               Android网络框架，基于Retrofit和RxJava打造的链式网络库, 支持okhttp的调用风格，又兼容Retrofit API，并支持rxJava链式操作
 
+下载
+
+[lingochamp /FileDownloader](https://github.com/lingochamp/FileDownloader)
+
 Rx
 
 [trello /RxLifecycle](https://github.com/trello/RxLifecycle)
