@@ -158,6 +158,8 @@ kotlin
 
 [mcxiaoke /awesome-kotlin](https://github.com/mcxiaoke/awesome-kotlin)
 
+[huanglizhuo /kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese)
+
 [JetBrains /kotlin](https://github.com/JetBrains/kotlin)
 
 AR
