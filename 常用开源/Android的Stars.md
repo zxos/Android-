@@ -130,6 +130,8 @@ Toast
 
 [iammert /ScalingLayout](https://github.com/iammert/ScalingLayout)
 
+![](/assets/ScalingLayout.gif)![](/assets/ScalingLayout_Fab.gif)![](/assets/ScalingLayout_Search.gif)
+
 其他
 
 [iwgang /CountdownView](https://github.com/iwgang/CountdownView)                          倒计时控件
