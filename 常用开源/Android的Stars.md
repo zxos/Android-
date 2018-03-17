@@ -160,6 +160,10 @@ Toast
 
 [RmondJone /LockTableView](https://github.com/RmondJone/LockTableView)                  Android自定义表格，支持锁双向表头，自适应列宽，自适应行高,快速集成。
 
+SeekBar
+
+[woxingxiao /BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar)
+
 布局
 
 [iammert /ScalingLayout](https://github.com/iammert/ScalingLayout)
