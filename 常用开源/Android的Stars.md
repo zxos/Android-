@@ -72,7 +72,7 @@ UI框架
 
 [Qihoo360 /RePlugin](https://github.com/Qihoo360/RePlugin)
 
-[mqzhangw /AndroidComponent](https://github.com/mqzhangw/AndroidComponent)                
+[mqzhangw /AndroidComponent](https://github.com/mqzhangw/AndroidComponent)
 
 路由
 
@@ -85,6 +85,10 @@ UI框架
 kotlin
 
 [android /android-ktx](https://github.com/android/android-ktx)
+
+AR
+
+[google-ar /arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk)
 
 其它
 
