@@ -70,6 +70,8 @@ UI框架
 
 [luojilab /DDComponentForAndroid](https://github.com/luojilab/DDComponentForAndroid)             一套完整有效的android组件化方案，支持组件的组件完全隔离、单独调试、集成调试、组件交互、UI跳转、动态加载卸载等功能
 
+[Qihoo360 /RePlugin](https://github.com/Qihoo360/RePlugin)
+
 路由
 
 [chenenyu /Router](https://github.com/chenenyu/Router)
@@ -163,8 +165,6 @@ Toast
 [MatthiasRobbers /shortbread](https://github.com/MatthiasRobbers/shortbread)
 
 ![](/assets/ShortBread.png)
-
-
 
 ---
 
