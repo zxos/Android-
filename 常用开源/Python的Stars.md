@@ -12,8 +12,6 @@
 
 [apache /incubator-mxnet](#)
 
-
-
 [deepmind /pysc2](#)
 
 学习资料
@@ -25,6 +23,8 @@
 [mli /gluon-tutorials-zh](https://github.com/mli/gluon-tutorials-zh)
 
 [deepmind /learning-to-learn](https://github.com/deepmind/learning-to-learn)
+
+[PAIR-code /deeplearnjs](https://github.com/PAIR-code/deeplearnjs)
 
 
 
