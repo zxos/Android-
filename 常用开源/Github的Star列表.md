@@ -4,6 +4,30 @@
 
 [orhanobut /logger](https://github.com/orhanobut/logger)
 
+Rx
+
+[trello /RxLifecycle](https://github.com/trello/RxLifecycle)
+
+fragment
+
+[YoKeyword /Fragmentation](https://github.com/YoKeyword/Fragmentation)
+
+异步
+
+[koush /AndroidAsync](https://github.com/koush/AndroidAsync)
+
+其它
+
+[MZCretin /WifiTransfer-master](https://github.com/MZCretin/WifiTransfer-master)                  Android下WIFI隔空apk安装
+
+UI框架
+
+[flutter /flutter](https://github.com/flutter/flutter)
+
+面试
+
+[helen-x /AndroidInterview](https://github.com/helen-x/AndroidInterview)
+
 ---
 
 ### UI控件
@@ -18,11 +42,17 @@ ViewPager
 
 Toast
 
-[soarcn /UndoBar](https://github.com/soarcn/UndoBar)                                         底部Toast 
-
-
+[soarcn /UndoBar](https://github.com/soarcn/UndoBar)                                         底部Toast
 
 其他
 
-[iwgang /CountdownView](https://github.com/iwgang/CountdownView)                          倒计时控件                                      
+[iwgang /CountdownView](https://github.com/iwgang/CountdownView)                          倒计时控件
+
+---
+
+### 完整项目
+
+[TeamNB /FakeBiliBili](https://github.com/TeamNB/FakeBiliBili)                                仿BiliBili客户端
+
+
 
