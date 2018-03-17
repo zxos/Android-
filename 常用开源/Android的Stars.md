@@ -158,6 +158,8 @@ ImageView
 
 ![](/assets/SwitchIcon.gif)
 
+[zcweng /SwitchButton](https://github.com/zcweng/SwitchButton)
+
 ViewPager
 
 [ongakuer /CircleIndicator](https://github.com/ongakuer/CircleIndicator)                          指示器
