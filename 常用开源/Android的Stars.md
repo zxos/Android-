@@ -286,6 +286,8 @@ Navigation
 
 [Devlight /NavigationTabBar](https://github.com/Devlight/NavigationTabBar)
 
+[githubwing /ByeBurger](https://github.com/githubwing/ByeBurger)
+
 FabButton
 
 [Krupen /FabulousFilter](https://github.com/Krupen/FabulousFilter)
