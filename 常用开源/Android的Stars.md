@@ -154,6 +154,8 @@ kotlin
 
 [Kotlin /anko](https://github.com/Kotlin/anko)
 
+[xitu /awesome-kotlin-cn](https://github.com/xitu/awesome-kotlin-cn)
+
 AR
 
 [google-ar /arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk)
