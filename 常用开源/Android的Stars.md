@@ -12,10 +12,6 @@
 
 [Tamicer /Novate](https://github.com/Tamicer/Novate)                                               Android网络框架，基于Retrofit和RxJava打造的链式网络库, 支持okhttp的调用风格，又兼容Retrofit API，并支持rxJava链式操作
 
-
-
-
-
 Rx
 
 [trello /RxLifecycle](https://github.com/trello/RxLifecycle)
@@ -161,6 +157,8 @@ Toast
 [ruzhan123 /awaker](https://github.com/ruzhan123/awaker)                                   地理杂志阅读类Android App，项目采用 LiveData + Room + RXJava2 + Retrofit + OKHttp + Material Design + Base + Glide 构建
 
 samples
+
+[googlecodelabs /android-testing](https://github.com/googlecodelabs/android-testing)
 
 [googlesamples /android-ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
 
