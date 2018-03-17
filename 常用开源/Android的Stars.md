@@ -132,6 +132,8 @@ AR
 
 [zilongshanren /opengl-tutorials](https://github.com/zilongshanren/opengl-tutorials)                     opengl
 
+[linyiqun /DataMiningAlgorithm](https://github.com/linyiqun/DataMiningAlgorithm)
+
 ---
 
 ### UI控件
