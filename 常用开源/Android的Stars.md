@@ -324,6 +324,8 @@ SeekBar
 
 [w446108264 /XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard)
 
+[chiragjain /Emoticons-Keyboard](https://github.com/chiragjain/Emoticons-Keyboard)
+
 日历
 
 [prolificinteractive /material-calendarview](https://github.com/prolificinteractive/material-calendarview)
