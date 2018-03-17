@@ -1,5 +1,3 @@
-
-
 [Android屏幕刷新机制解析](https://mp.weixin.qq.com/s/OfeHn8Gf3MBaDvxs-DOzNg)
 
 [轻松掌握Notification的各种用法](https://mp.weixin.qq.com/s/2TaWICQ4nWV3TuPG71CBGw)
@@ -38,8 +36,6 @@
 
 [Android 两行代码实现换肤 从appcompat-v7原理出发](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822142&idx=1&sn=72d28a19eb26c51c6b8c4073e2671904&chksm=80b78160b7c00876e3c17914767e758130306440a8b0e3e5791ed58a90e4e9b6d084d50a5d8f&scene=21#wechat_redirect)
 
- 
-
 ---
 
 UI控件
@@ -68,8 +64,6 @@ UI控件
 
 [Android语音识别之模糊匹配 特定需求的语音识别优化](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822596&idx=1&sn=80972db3e075aa9fb3e22a6dc16645fd&chksm=80b7835ab7c00a4c805550fa13d57ac0562d1d2ec45e2d12d3b9c7b7f87ab3cebe9e4a2c4b91&scene=21#wechat_redirect)
 
-
-
 ---
 
 架构相关
@@ -80,6 +74,56 @@ UI控件
 
 [隆重推出 Android KTX，让 Kotlin 的开发更美妙！](https://mp.weixin.qq.com/s/2T7-FhCdnBnWxxBBV00ktQ)
 
+[美团猫眼电影android模块化实战](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824936&idx=1&sn=3ff975672fe98f2e5f8a1fd3de5a42b7&chksm=80b7b476b7c03d6062ffa49bfd204ce1870b70cee7e6bde1f2da1159654475f7bdec8bc578b6&scene=21#wechat_redirect)
+
+[Android 混淆查缺补漏](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824879&idx=1&sn=f7d6830cb10046ff61bb461a15353e34&chksm=80b7b431b7c03d271d1d836b586a29f813d738d9b7774075f8b50e7ab0215052c3e075ab71c4&scene=21#wechat_redirect)
+
+[Android 应用架构组件（Architecture Components）实践](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824549&idx=1&sn=e029b57fd8fb90e091df00b00c190c09&chksm=80b78bfbb7c002edfc0e86514f00d5110ff4295dd14cb15c4e569d8c9de96aac0eecd4871545&scene=21#wechat_redirect)
+
+[如何打造一个 Android 编译时注解框架](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823777&idx=1&sn=e4e0b9a1e6a7d41849155d078f018a3a&chksm=80b788ffb7c001e93e74a626b4306625d1619957992411268a4d15672f3f08c2722ae8042a2a&scene=21#wechat_redirect)
+
+[Android插件化快速入门与实例解析（VirtualApk）](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823736&idx=1&sn=1ae0d1c6616876078deb524e7cdf89e2&chksm=80b788a6b7c001b01c6ee589f1f5c78eb25e2e4791591d1433049aa195219fb1f8d79da6fe21&scene=21#wechat_redirect)
+
+[Android 项目最新架构](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823732&idx=1&sn=07921ef85f0d989c706d3ae35eb0051a&chksm=80b788aab7c001bce1e2e410491422df7c31cc5b89b04806b976de9667b2967689d65cf7bc12&scene=21#wechat_redirect)
+
+[Android注解快速入门和实用解析](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823685&idx=1&sn=6ce37ce7835c950cd1174a695f8e930c&chksm=80b7889bb7c0018d0cf21d96315bebf3300cb7aa652da25ccd76564cdc8b5ad539955ee09530&scene=21#wechat_redirect)  
+[Google新推Lifecycle-aware Components 源码分析](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823681&idx=1&sn=126ac4ef73ad6bf7c0df7d248e7cb685&chksm=80b7889fb7c00189a4a1fca86048e03156fa24c12db8aad00d7df83c65db4db30f0835265070&scene=21#wechat_redirect)
+
+[封装并实现统一的图片加载架构](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823490&idx=1&sn=073d98a1de5837c33875e66a0ec05aa7&chksm=80b78fdcb7c006cae47601546e8b2def5644b3ea9a30675faec129015f6366a2490e2ec500f1&scene=21#wechat_redirect)
+
+[深度 \| 滴滴插件化方案 VirtualApk 源码解析](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823488&idx=1&sn=2976c8ddc0c206149b14c527260f7766&chksm=80b78fdeb7c006c8a9585db794c51e799049ec50d23c4d738c78d77454f6b0291227a00e2def&scene=21#wechat_redirect)
+
+[Android 热修复 Tinker Gradle Plugin解析](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823120&idx=1&sn=0e55edb7ed4f22b826f890abe8fcfef5&chksm=80b78d4eb7c0045895acf26bdecef22e0f807428cb3b06d881c4c1c5aa44ae1d85448b310839&scene=21#wechat_redirect)
+
+---
+
+性能优化
+
+[  
+全方位带你彻底搞懂Android内存泄露 \| 案例分析](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824585&idx=1&sn=c2d83d5877c5ab96c253cc191a922541&chksm=80b78b17b7c00201c75cae32aa84552e1526a2bd64c89b5a634246f21d41a62cdc5ee5b5822f&scene=21#wechat_redirect)
+
+[必知必会 \| Android 性能优化的方面方面都在这儿](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824552&idx=1&sn=a634748d786072ecb083e46f27362d87&chksm=80b78bf6b7c002e09b949b7fbc14b9ae0eb97d8794aca6fa6d42f80afcd27d07947641bab083&scene=21#wechat_redirect)
+
+[手把手教你在Android Studio 3.0上分析内存泄漏](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824544&idx=1&sn=2fc3cc16806bd1ddd9902ccef2cd12f5&chksm=80b78bfeb7c002e822314661aa0df8e8d7981fb2ff3bc362c129bbf2952a87ff59a6213b821c&scene=21#wechat_redirect)
+
+[让 Support-Annotations帮你发现潜在的问题吧](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824291&idx=1&sn=4ce785be687537ebcfd7b1baeb2fce62&chksm=80b78afdb7c003eb23bd885751cec7623039d7dca902b71b1f83079745b2674bf9b606d8cc36&scene=21#wechat_redirect)
+
+[Android 你可能忽略的提高敲代码效率的方式](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823537&idx=1&sn=b9fe7c0bcc9c3b95f32e989b50fbc08a&chksm=80b78fefb7c006f975c8f4cf4cd5e92a59a47eea1229b399838712e131e0c9513ed0fdecb294&scene=21#wechat_redirect)
+
+[AndroidStudio 插件 之 Findbugs 安装与简单使用教程](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823229&idx=1&sn=f7fd7affe7b331b620492dc3b76ef07e&chksm=80b78ea3b7c007b5e57ea8155a463e9fc22c9bd8c7e93df9a2de62678e3eea65f1153b6f1ce2&scene=21#wechat_redirect)
+
+[Android性能优化-电量优化](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823025&idx=1&sn=561e345e918900af610b1b10377934e8&chksm=80b78defb7c004f90bc516ad9b5183d2d4f2f3e4972570e0040b0b8a72d7501f438b9d6a8fa6&scene=21#wechat_redirect)
+
+[Android性能优化-内存泄漏的8个Case](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822597&idx=1&sn=462b116f97623f239ecf667d3bdef446&chksm=80b7835bb7c00a4d4cbc9f7e19829d9a99f3cf58c1bc43dace16ffec58c98668927c9fa8dcda&scene=21#wechat_redirect)
+
+[Android性能优化系列之App启动优化](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822284&idx=1&sn=d6b30ab442f417cbd992e784945c7799&chksm=80b78212b7c00b049243a474933e7a3f356c8b6fca1e8d67a9fcf654cef095c0c28f6a51e31c&scene=21#wechat_redirect)
+
+[Android性能优化系列之内存优化](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822272&idx=1&sn=a1d7956dd8437d4bb28e47fab814a7ed&chksm=80b7821eb7c00b08eb8de256529a7cbd153ca1064612eef88fe912ba9ecb11763baacc279ccb&scene=21#wechat_redirect)
+
+[Android UI性能优化 检测应用中的UI卡顿](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822205&idx=1&sn=6b8e78bc1d71eb79a199667cf132acf7&chksm=80b782a3b7c00bb5c12437556fca68136c75409855e9252e395b545621319edf23959942b67c&scene=21#wechat_redirect)
+
+[Android性能优化系列 之 apk瘦身](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822043&idx=1&sn=0c9c1a9382cc148799dc9f34a2c80cd4&chksm=80b78105b7c00813773062b1a5632313d382b31d4e1720643bb65b324c377eacd5a8d84f4d3f&scene=21#wechat_redirect)
+
 ---
 
 Gradle
@@ -87,11 +131,9 @@ Gradle
 [掌控 Android Gradle](https://mp.weixin.qq.com/s/koLCMrXqfinpv_b51wzMQw)[  
 教你如何一套源码编译多个APP，不同的签名，包名，界面，字段...](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824805&idx=1&sn=d3102e022334b60305d42c2da317384d&chksm=80b7b4fbb7c03ded87b2d366a3cab88752292ae850c94e52b16f343fc32ff9fedf541767136f&scene=21#wechat_redirect)
 
-[Android 必备而又容易忽视的知识  Gradle的高级用法](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823843&idx=1&sn=b37cdf30f2e1938b0ac88cf4fc1eb331&chksm=80b7883db7c0012bfd66cefc3669f25d3ebda8b840b592d7c7d439d0e730061735ecdebf0de6&scene=21#wechat_redirect)
+[Android 必备而又容易忽视的知识  Gradle的高级用法](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823843&idx=1&sn=b37cdf30f2e1938b0ac88cf4fc1eb331&chksm=80b7883db7c0012bfd66cefc3669f25d3ebda8b840b592d7c7d439d0e730061735ecdebf0de6&scene=21#wechat_redirect)
 
 [Android 利用Gradle实现差异化构建](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822765&idx=1&sn=027fa74bd88050f34bbcf9d4bef5d39e&chksm=80b78cf3b7c005e57306a46dd849da6912d5aee990438d0733b5e9c242481ff81b997d94c03c&scene=21#wechat_redirect)
 
 [Android 自己动手生成 Apk 了解Apk生成的种种细节](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822381&idx=1&sn=d38f210256276f3b759e4c23ccc7896d&chksm=80b78273b7c00b656b6b6f54ac54d6735600f54139dbe21a138afcdedeea424ec4d5e35262de&scene=21#wechat_redirect)
-
-
 
