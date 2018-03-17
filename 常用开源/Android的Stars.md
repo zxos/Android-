@@ -44,6 +44,8 @@ fragment
 
 [marcosgriselli /ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)
 
+[Hitomis /transferee](https://github.com/Hitomis/transferee)
+
 异步
 
 [koush /AndroidAsync](https://github.com/koush/AndroidAsync)
