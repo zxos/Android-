@@ -12,6 +12,8 @@
 
 [Tamicer /Novate](https://github.com/Tamicer/Novate)                                               Android网络框架，基于Retrofit和RxJava打造的链式网络库, 支持okhttp的调用风格，又兼容Retrofit API，并支持rxJava链式操作
 
+[google /volley](https://github.com/google/volley)
+
 下载
 
 [lingochamp /FileDownloader](https://github.com/lingochamp/FileDownloader)
@@ -109,6 +111,8 @@ AR
 [leolin310148 /ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)                  桌面小红点信息数
 
 [huangweicai /OkLibDemo](https://github.com/huangweicai/OkLibDemo)                          OkLib 一个专注于让开发更加简单的工具库
+
+[Tencent /VasSonic](https://github.com/Tencent/VasSonic)                                     首屏加速
 
 开发组件
 
