@@ -6,6 +6,8 @@
 
 [scrapy /scrapy](https://github.com/scrapy/scrapy)
 
+[pallets /flask](https://github.com/pallets/flask)
+
 机器学习框架
 
 [apache /incubator-mxnet](#)
