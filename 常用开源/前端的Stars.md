@@ -4,5 +4,7 @@
 
 [marmelab /ng-admin](https://github.com/marmelab/ng-admin)
 
+[akveo /ngx-admin](https://github.com/akveo/ngx-admin)
+
 [bxm0927 /vue-meituan](https://github.com/bxm0927/vue-meituan)                   基于Vue 全家桶 \(2.x\)制作的美团外卖APP
 
