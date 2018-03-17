@@ -198,6 +198,8 @@ SeekBar
 
 布局
 
+[ksoichiro /Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
+
 [iammert /ScalingLayout](https://github.com/iammert/ScalingLayout)
 
 ![](/assets/ScalingLayout.gif)![](/assets/ScalingLayout_Fab.gif)![](/assets/ScalingLayout_Search.gif)
