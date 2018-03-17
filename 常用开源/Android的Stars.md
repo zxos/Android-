@@ -124,6 +124,8 @@ AR
 
 [Tencent /VasSonic](https://github.com/Tencent/VasSonic)                                     首屏加速
 
+[fengjundev /Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader)
+
 开发组件
 
 [Tencent /RapidView](https://github.com/Tencent/RapidView)
