@@ -124,7 +124,7 @@ AR
 
 [Tencent /VasSonic](https://github.com/Tencent/VasSonic)                                     首屏加速
 
-[fengjundev /Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader)
+[fengjundev /Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader)             一个通过动态加载本地皮肤包进行换肤的皮肤框架
 
 开发组件
 
