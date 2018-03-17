@@ -144,6 +144,12 @@ Toast
 
 [soarcn /UndoBar](https://github.com/soarcn/UndoBar)                                         底部Toast
 
+表格
+
+[lungerWang /BiDirTable](https://github.com/lungerWang/BiDirTable)                           可双向滑动的表格
+
+[RmondJone /LockTableView](https://github.com/RmondJone/LockTableView)                  Android自定义表格，支持锁双向表头，自适应列宽，自适应行高,快速集成。
+
 布局
 
 [iammert /ScalingLayout](https://github.com/iammert/ScalingLayout)
@@ -158,7 +164,7 @@ Toast
 
 ![](/assets/ShortBread.png)
 
-[lungerWang /BiDirTable](https://github.com/lungerWang/BiDirTable)                           可双向滑动的表格
+
 
 ---
 
