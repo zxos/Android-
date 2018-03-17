@@ -74,6 +74,10 @@ UI框架
 
 [xmuSistone /AnimRichEditor](https://github.com/xmuSistone/AnimRichEditor)
 
+导航
+
+[apl-devs /AppIntro](https://github.com/apl-devs/AppIntro)
+
 插件或组件
 
 [luckybilly /AutoRegister](https://github.com/luckybilly/AutoRegister)                               android中实现自动注册的gradle插件
@@ -199,6 +203,8 @@ SeekBar
 布局
 
 [ksoichiro /Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
+
+![](/assets/ObservableScrollView.gif)
 
 [iammert /ScalingLayout](https://github.com/iammert/ScalingLayout)
 
