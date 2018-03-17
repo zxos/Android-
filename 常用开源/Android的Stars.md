@@ -320,6 +320,8 @@ SeekBar
 
 其他
 
+[deano2390 /MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView)
+
 [lguipeng /BubbleView](https://github.com/lguipeng/BubbleView)
 
 [iwgang /CountdownView](https://github.com/iwgang/CountdownView)                          倒计时控件
