@@ -280,6 +280,8 @@ ViewPager
 
 [ToxicBakery /ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
 
+[xmuSistone /AndroidPileLayout](https://github.com/xmuSistone/AndroidPileLayout)
+
 Navigation
 
 [Devlight /NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)
