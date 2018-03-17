@@ -308,6 +308,8 @@ SeekBar
 
 [naman14 /Timber](https://github.com/naman14/Timber)                                      Material Design Music Player
 
+[psaravan /JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer)
+
 [google /iosched](https://github.com/google/iosched)
 
 [pockethub /PocketHub](https://github.com/pockethub/PocketHub)
