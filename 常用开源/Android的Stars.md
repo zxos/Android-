@@ -256,11 +256,13 @@ Toast
 
 [soarcn /UndoBar](https://github.com/soarcn/UndoBar)                                         底部Toast
 
-表格
+表格统计图等
 
 [lungerWang /BiDirTable](https://github.com/lungerWang/BiDirTable)                           可双向滑动的表格
 
 [RmondJone /LockTableView](https://github.com/RmondJone/LockTableView)                  Android自定义表格，支持锁双向表头，自适应列宽，自适应行高,快速集成。
+
+[PhilJay /MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 
 SeekBar
 
