@@ -314,6 +314,8 @@ SeekBar
 
 [xiongwei-git /AndroidVideoPlayer](https://github.com/xiongwei-git/AndroidVideoPlayer)
 
+[TheFinestArtist /YouTubePlayerActivity](https://github.com/TheFinestArtist/YouTubePlayerActivity)
+
 [google /iosched](https://github.com/google/iosched)
 
 [pockethub /PocketHub](https://github.com/pockethub/PocketHub)
