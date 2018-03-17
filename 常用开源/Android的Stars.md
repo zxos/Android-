@@ -158,6 +158,8 @@ Toast
 
 ![](/assets/ScalingLayout.gif)![](/assets/ScalingLayout_Fab.gif)![](/assets/ScalingLayout_Search.gif)
 
+[bingoogolapple /BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
+
 其他
 
 [iwgang /CountdownView](https://github.com/iwgang/CountdownView)                          倒计时控件
