@@ -320,6 +320,8 @@ SeekBar
 
 其他
 
+[lguipeng /BubbleView](https://github.com/lguipeng/BubbleView)
+
 [iwgang /CountdownView](https://github.com/iwgang/CountdownView)                          倒计时控件
 
 [MatthiasRobbers /shortbread](https://github.com/MatthiasRobbers/shortbread)
