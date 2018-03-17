@@ -92,6 +92,10 @@ AR
 
 [google-ar /arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk)
 
+指纹认证
+
+[Tencent /soter](https://github.com/Tencent/soter)
+
 其它
 
 [MZCretin /WifiTransfer-master](https://github.com/MZCretin/WifiTransfer-master)                  Android下WIFI隔空apk安装
