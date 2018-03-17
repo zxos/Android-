@@ -38,6 +38,8 @@ webView相关
 
 [lzyzsd /JsBridge](https://github.com/lzyzsd/JsBridge)
 
+[NightWhistler /HtmlSpanner](https://github.com/NightWhistler/HtmlSpanner)                    Android HTML rendering library with CSS support
+
 数据库
 
 [objectbox /objectbox-java](https://github.com/objectbox/objectbox-java)
