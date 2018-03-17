@@ -200,6 +200,8 @@ SeekBar
 
 [daimajia /AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
 
+![](/assets/AndroidSwipeLayout.gif)
+
 其他
 
 [iwgang /CountdownView](https://github.com/iwgang/CountdownView)                          倒计时控件
