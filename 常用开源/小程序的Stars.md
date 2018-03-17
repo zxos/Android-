@@ -4,3 +4,10 @@
 
 [chemzqm /wept](https://github.com/chemzqm/wept)                                        微信小程序 web 端实时运行工具
 
+[EastWorld /wechat-app-mall](https://github.com/EastWorld/wechat-app-mall)                    微信小程序商城，微信小程序微店
+
+  
+
+
+ 
+
