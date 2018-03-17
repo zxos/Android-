@@ -62,6 +62,10 @@ UI框架
 
 [mpv-player /mpv](https://github.com/mpv-player/mpv)
 
+照相
+
+[Yalantis /CameraModule](https://github.com/Yalantis/CameraModule)
+
 推送
 
 [pengyuantao /OnePush](https://github.com/pengyuantao/OnePush)
@@ -81,6 +85,8 @@ UI框架
 [mqzhangw /AndroidComponent](https://github.com/mqzhangw/AndroidComponent)
 
 路由
+
+[alibaba /ARouter](https://github.com/alibaba/ARouter)
 
 [chenenyu /Router](https://github.com/chenenyu/Router)
 
