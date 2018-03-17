@@ -276,6 +276,10 @@ SeekBar
 
 [prolificinteractive /material-calendarview](https://github.com/prolificinteractive/material-calendarview)
 
+颜色选择器
+
+[QuadFlask /colorpicker](https://github.com/QuadFlask/colorpicker)
+
 布局
 
 [ksoichiro /Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
