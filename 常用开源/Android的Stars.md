@@ -272,6 +272,8 @@ SeekBar
 
 ### 完整项目
 
+[signalapp /Signal-Android](https://github.com/signalapp/Signal-Android)
+
 [Kickstarter/oss](https://github.com/kickstarter/android-oss)
 
 [TeamNB /FakeBiliBili](https://github.com/TeamNB/FakeBiliBili)                                仿BiliBili客户端
