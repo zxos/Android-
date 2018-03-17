@@ -196,7 +196,7 @@ SeekBar
 
 samples
 
-[zhangchaojiong /BaiduMapClusterSample](https://github.com/zhangchaojiong/BaiduMapClusterSample)
+[zhangchaojiong /BaiduMapClusterSample](https://github.com/zhangchaojiong/BaiduMapClusterSample)   使用百度map 的地图，高仿ios 相册的Marker 聚合功能
 
 [googlecodelabs /android-testing](https://github.com/googlecodelabs/android-testing)
 
