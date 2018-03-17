@@ -2,7 +2,7 @@
 
 [Android屏幕刷新机制解析](https://mp.weixin.qq.com/s/OfeHn8Gf3MBaDvxs-DOzNg)
 
-[轻松掌握Notification的各种用法](https://www.jianshu.com/p/514eb6193a06)
+[轻松掌握Notification的各种用法](https://mp.weixin.qq.com/s/2TaWICQ4nWV3TuPG71CBGw)
 
 ---
 
