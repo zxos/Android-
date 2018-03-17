@@ -84,6 +84,8 @@ UI框架
 
 [mpv-player /mpv](https://github.com/mpv-player/mpv)
 
+[akshay2211 /MusicWave](https://github.com/akshay2211/MusicWave)
+
 照相
 
 [Yalantis /CameraModule](https://github.com/Yalantis/CameraModule)
