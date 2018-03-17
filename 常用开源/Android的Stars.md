@@ -66,7 +66,7 @@ UI框架
 
 [luckybilly /AutoRegister](https://github.com/luckybilly/AutoRegister)                               android中实现自动注册的gradle插件
 
-[luojilab /DDComponentForAndroid](https://github.com/luojilab/DDComponentForAndroid)             
+[luojilab /DDComponentForAndroid](https://github.com/luojilab/DDComponentForAndroid)             一套完整有效的android组件化方案，支持组件的组件完全隔离、单独调试、集成调试、组件交互、UI跳转、动态加载卸载等功能
 
 路由
 
