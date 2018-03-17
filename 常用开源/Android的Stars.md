@@ -190,6 +190,8 @@ SeekBar
 
 [MiCode /Notes](https://github.com/MiCode/Notes)                                          小米便签社区开源版
 
+[MiCode /SoundRecorder](https://github.com/MiCode/SoundRecorder)                          MIUI录音机社区开源版
+
 samples
 
 [googlecodelabs /android-testing](https://github.com/googlecodelabs/android-testing)
