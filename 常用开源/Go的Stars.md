@@ -18,3 +18,7 @@
 
 [achun /Go-Blog-In-Action](https://github.com/achun/Go-Blog-In-Action) Go语言博客实践
 
+[hackstoic /golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects)
+
+
+
