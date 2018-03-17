@@ -100,6 +100,10 @@ TextView
 
 [Manabu-GT /ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView)           可展开TextView
 
+[rosenpin /FadingTextView](https://github.com/rosenpin/FadingTextView)
+
+![](/assets/FadingTextView.png)
+
 ViewPager
 
 [ongakuer /CircleIndicator](https://github.com/ongakuer/CircleIndicator)                          指示器
@@ -129,6 +133,4 @@ samples
 [googlesamples /android-ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
 
 [android10 /Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)    MVP+Retrofit+Rxjava
-
-
 
