@@ -132,7 +132,7 @@ AR
 
 [Tencent /RapidView](https://github.com/Tencent/RapidView)
 
-[nisrulz /packagehunter](https://github.com/nisrulz/packagehunter)      
+[nisrulz /packagehunter](https://github.com/nisrulz/packagehunter)                              所有App包信息
 
 面试或其他资料
 
