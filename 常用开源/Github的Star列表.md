@@ -94,15 +94,11 @@ Toast
 
 [ruzhan123 /awaker](https://github.com/ruzhan123/awaker)                                   地理杂志阅读类Android App，项目采用 LiveData + Room + RXJava2 + Retrofit + OKHttp + Material Design + Base + Glide 构建
 
-
-
 samples
 
 [googlesamples /android-ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
 
-[android10 /Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
-
-
+[android10 /Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)    MVP+Retrofit+Rxjava
 
 ---
 
@@ -121,6 +117,4 @@ samples
 [exacity /deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese)
 
 [ExtremeMart /DeepLearningBook-CN](https://github.com/ExtremeMart/DeepLearningBook-CN)
-
-
 
