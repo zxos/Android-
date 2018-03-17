@@ -4,6 +4,8 @@
 
 [littlecodersh /ItChat](#)
 
+[scrapy /scrapy](https://github.com/scrapy/scrapy)
+
 机器学习框架
 
 [apache /incubator-mxnet](#)
