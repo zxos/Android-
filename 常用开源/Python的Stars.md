@@ -26,11 +26,9 @@
 
 [PAIR-code /deeplearnjs](https://github.com/PAIR-code/deeplearnjs)
 
-
-
-
-
 [zmrenwu /django-blog-tutorial](https://github.com/zmrenwu/django-blog-tutorial)
+
+[rosarior /awesome-django](https://github.com/rosarior/awesome-django)
 
 
 
