@@ -310,6 +310,8 @@ SeekBar
 
 [psaravan /JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer)                    A free, powerful and elegant music player for Android.
 
+[notHide /Hide-Music-Player](https://github.com/notHide/Hide-Music-Player)
+
 [google /iosched](https://github.com/google/iosched)
 
 [pockethub /PocketHub](https://github.com/pockethub/PocketHub)
