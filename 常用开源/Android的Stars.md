@@ -120,6 +120,8 @@ ViewPager
 
 [ongakuer /CircleIndicator](https://github.com/ongakuer/CircleIndicator)                          指示器
 
+[florent37 /MaterialViewPager](https://github.com/florent37/MaterialViewPager)
+
 Toast
 
 [soarcn /UndoBar](https://github.com/soarcn/UndoBar)                                         底部Toast
