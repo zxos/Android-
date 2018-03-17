@@ -8,5 +8,7 @@
 
 [hyper0x /awesome-go-China](https://github.com/hyper0x/awesome-go-China)
 
+[gonum /gonum](https://github.com/gonum/gonum)
+
 [achun /Go-Blog-In-Action](https://github.com/achun/Go-Blog-In-Action) Go语言博客实践
 
