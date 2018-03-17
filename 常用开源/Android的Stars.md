@@ -218,6 +218,8 @@ FabButton
 
 [Krupen /FabulousFilter](https://github.com/Krupen/FabulousFilter)
 
+![](/assets/FabulousFilter.gif)
+
 Toast
 
 [soarcn /UndoBar](https://github.com/soarcn/UndoBar)                                         底部Toast
