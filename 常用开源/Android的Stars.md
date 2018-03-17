@@ -58,6 +58,8 @@ webView相关
 
 [pingcap /docs-cn](https://github.com/pingcap/docs-cn)                                     TiDB
 
+[sqlcipher /sqlcipher](https://github.com/sqlcipher/sqlcipher)
+
 UI框架
 
 [flutter /flutter](https://github.com/flutter/flutter)
