@@ -188,7 +188,7 @@ SeekBar
 
 [ruzhan123 /awaker](https://github.com/ruzhan123/awaker)                                   地理杂志阅读类Android App，项目采用 LiveData + Room + RXJava2 + Retrofit + OKHttp + Material Design + Base + Glide 构建
 
-[MiCode /Notes](https://github.com/MiCode/Notes)
+[MiCode /Notes](https://github.com/MiCode/Notes)                                          小米便签社区开源版
 
 samples
 
