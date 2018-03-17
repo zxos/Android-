@@ -137,3 +137,19 @@ Gradle
 
 [Android 自己动手生成 Apk 了解Apk生成的种种细节](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822381&idx=1&sn=d38f210256276f3b759e4c23ccc7896d&chksm=80b78273b7c00b656b6b6f54ac54d6735600f54139dbe21a138afcdedeea424ec4d5e35262de&scene=21#wechat_redirect)
 
+---
+
+RxJava
+
+[手把手带你入门神秘的 RxJava](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824984&idx=1&sn=36a2d6b973fbb383f6d7201c844db9c3&chksm=80b7b586b7c03c9088298ad3f0e138bc388c4497c050ab867288a149f4ea781ad4d40191d435&scene=21#wechat_redirect)
+
+[这是一份全面 & 详细 的RxJava操作符 使用攻略](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824891&idx=1&sn=d86b4c2215247d78bfa0b60207ae2fe6&chksm=80b7b425b7c03d336e240c7b885b5a326f3c589f22d40a17561938468963bb5321e8413d480c&scene=21#wechat_redirect)
+
+[RxJava2 学习资料推荐](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823932&idx=1&sn=198b18f2f9359e2eee1ffc8703d31905&chksm=80b78862b7c001741916c681d070ca3c1a58eef5632ea394797029d0335f312816afecf87e7d&scene=21#wechat_redirect)
+
+[这可能是最好的RxJava 2.x 教程（完结版）](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823617&idx=1&sn=09fce6bbdc139f7a29e0abb4a4d954a7&chksm=80b78f5fb7c006490c394d1a44b06ca458109bd5c6b021b409642f921a7eb8d60d4c5f6dddea&scene=21#wechat_redirect)
+
+[深度 \| 重新理解响应式编程](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823410&idx=1&sn=dfe80ee133db7bba43ed6d47579057bd&chksm=80b78e6cb7c0077aaf10ae04c56a7c5c181b79d960e9cff9385744896e8f0be8c4d2138426ef&scene=21#wechat_redirect)
+
+
+
