@@ -112,6 +112,8 @@ AR
 
 [Tencent /soter](https://github.com/Tencent/soter)
 
+[uccmawei /FingerprintIdentify](https://github.com/uccmawei/FingerprintIdentify)
+
 其它
 
 [MZCretin /WifiTransfer-master](https://github.com/MZCretin/WifiTransfer-master)                  Android下WIFI隔空apk安装
