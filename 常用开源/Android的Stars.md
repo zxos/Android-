@@ -66,6 +66,8 @@ UI框架
 
 [luckybilly /AutoRegister](https://github.com/luckybilly/AutoRegister)                               android中实现自动注册的gradle插件
 
+[luojilab /DDComponentForAndroid](https://github.com/luojilab/DDComponentForAndroid)
+
 路由
 
 [chenenyu /Router](https://github.com/chenenyu/Router)
