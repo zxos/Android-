@@ -4,6 +4,8 @@
 
 [orhanobut /logger](https://github.com/orhanobut/logger)
 
+[seiginonakama /BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx)
+
 图片选择器
 
 [zhihu /Matisse](https://github.com/zhihu/Matisse)
