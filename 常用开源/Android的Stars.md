@@ -250,6 +250,10 @@ SeekBar
 
 [woxingxiao /BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar)
 
+键盘
+
+[w446108264 /XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard)
+
 布局
 
 [ksoichiro /Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
