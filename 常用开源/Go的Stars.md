@@ -1,5 +1,7 @@
 # Go
 
+[ivpusic /neo](https://github.com/ivpusic/neo)
+
 [devfeel /dotweb](https://github.com/devfeel/dotweb)
 
 [it512 /sqlt](https://github.com/it512/sqlt)
