@@ -14,6 +14,10 @@
 
 [sfsheng0322 /GlideImageView](https://github.com/sfsheng0322/GlideImageView)
 
+图片处理
+
+[Sunzxyong/Tiny](https://github.com/Sunzxyong/Tiny)
+
 网络
 
 [Tamicer /Novate](https://github.com/Tamicer/Novate)                                               Android网络框架，基于Retrofit和RxJava打造的链式网络库, 支持okhttp的调用风格，又兼容Retrofit API，并支持rxJava链式操作
@@ -47,6 +51,8 @@ fragment
 [Hitomis /transferee](https://github.com/Hitomis/transferee)                                  一个帮助您完成从缩略图到原图无缝过渡转变的神奇组件
 
 [facebook/rebound](https://github.com/facebook/rebound)
+
+[JakeWharton/NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
 
 异步
 
@@ -91,6 +97,8 @@ UI框架
 [mpv-player /mpv](https://github.com/mpv-player/mpv)
 
 [akshay2211 /MusicWave](https://github.com/akshay2211/MusicWave)
+
+[mabeijianxi/small-video-record](https://github.com/mabeijianxi/small-video-record)
 
 照相
 
@@ -146,6 +154,10 @@ UI框架
 
 [TinkerPatch /tinkerpatch-sdk](https://github.com/TinkerPatch/tinkerpatch-sdk)
 
+内存泄漏
+
+[square/leakcanary](https://github.com/square/leakcanary)
+
 事件分发
 
 [cangwang /ModuleBus](https://github.com/cangwang/ModuleBus)
@@ -155,6 +167,8 @@ UI框架
 [alibaba /ARouter](https://github.com/alibaba/ARouter)
 
 [chenenyu /Router](https://github.com/chenenyu/Router)
+
+[campusappcn/AndRouter](https://github.com/campusappcn/AndRouter)
 
 权限
 
@@ -266,6 +280,10 @@ emoji
 
 [WeMobileDev /article](https://github.com/WeMobileDev/article)
 
+[android-cn/android-discuss](https://github.com/android-cn/android-discuss)
+
+[f2prateek/dart](https://github.com/f2prateek/dart)
+
 ---
 
 ### UI控件
@@ -284,6 +302,8 @@ recyclerView
 
 [gabrielemariotti /RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
 
+[hongyangAndroid/baseAdapter](https://github.com/hongyangAndroid/baseAdapter)
+
 列表
 
 [cdflynn /bubble-scroll](https://github.com/cdflynn/bubble-scroll)                                        带字母列表
@@ -299,6 +319,8 @@ TextView
 [Manabu-GT /ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView)           可展开TextView
 
 [rosenpin /FadingTextView](https://github.com/rosenpin/FadingTextView)
+
+[chenBingX/SuperTextView](https://github.com/chenBingX/SuperTextView)
 
 switch
 
@@ -367,6 +389,10 @@ SeekBar
 
 [ome450901/SimpleRatingBar](https://github.com/ome450901/SimpleRatingBar)
 
+卡片View
+
+[BakerJQ/Android-InfiniteCards](https://github.com/BakerJQ/Android-InfiniteCards)
+
 布局
 
 [ksoichiro /Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
@@ -398,6 +424,10 @@ SeekBar
 [yuqirong/CardSwipeLayout](https://github.com/yuqirong/CardSwipeLayout)                 探探效果
 
 [wensefu/StackCardsView](https://github.com/wensefu/StackCardsView)                 探探效果
+
+[DingMouRen/FallingView](https://github.com/DingMouRen/FallingView)                 雪花飘落效果
+
+[AlexLiuSheng/BadgeView](https://github.com/AlexLiuSheng/BadgeView)                 小红点
 
 ---
 
@@ -474,4 +504,6 @@ samples
 [jondot /awesome-react-native](https://github.com/jondot/awesome-react-native)
 
 [stoneWeb /elm-react-native](https://github.com/stoneWeb/elm-react-native)
+
+[airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp)
 
