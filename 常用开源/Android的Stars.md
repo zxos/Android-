@@ -343,6 +343,10 @@ SeekBar
 
 [QuadFlask /colorpicker](https://github.com/QuadFlask/colorpicker)
 
+评分条
+
+[ome450901/SimpleRatingBar](https://github.com/ome450901/SimpleRatingBar)
+
 布局
 
 [ksoichiro /Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
