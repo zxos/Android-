@@ -1,5 +1,17 @@
 # Python
 
+[biolab /orange3](https://github.com/biolab/orange3)
+
+[nilearn /nilearn](https://github.com/nilearn/nilearn)
+
+[pymc-devs /pymc](https://github.com/pymc-devs/pymc)
+
+[pybrain /pybrain](https://github.com/pybrain/pybrain)
+
+[mila-udem /fuel](https://github.com/mila-udem/fuel)
+
+[PyMVPA /PyMVPA](https://github.com/PyMVPA/PyMVPA)
+
 [spotify /annoy](https://github.com/spotify/annoy)
 
 [DEAP /deap](https://github.com/DEAP/deap)
