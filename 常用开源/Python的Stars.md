@@ -1,5 +1,7 @@
 # Python
 
+[DEAP /deap](https://github.com/DEAP/deap)
+
 [clips /pattern](https://github.com/clips/pattern)
 
 [docker /compose](https://github.com/docker/compose)
