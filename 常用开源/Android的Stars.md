@@ -96,6 +96,8 @@ UI框架
 
 [alibaba /Tangram-Android](https://github.com/alibaba/Tangram-Android)                          一套动态化构建 Native 页面的框架
 
+[apache/incubator-weex](https://github.com/apache/incubator-weex)
+
 多媒体
 
 [pili-engineering /PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)                  PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK
@@ -451,6 +453,8 @@ SeekBar
 
 [hugeterry/CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout)
 
+[nex3z/FlowLayout](https://github.com/nex3z/FlowLayout)
+
 其他
 
 [deano2390 /MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView)
@@ -478,6 +482,8 @@ SeekBar
 ---
 
 ### 完整项目
+
+[JessYanCoding/MVPArms](https://github.com/JessYanCoding/MVPArms)
 
 [laotan7237/EasyReader](https://github.com/laotan7237/EasyReader)
 
@@ -524,6 +530,8 @@ Kotlin
 [nickbutcher /AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground)
 
 samples
+
+[googlesamples/android-testing](https://github.com/googlesamples/android-testing)
 
 [rengwuxian/RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples)
 
