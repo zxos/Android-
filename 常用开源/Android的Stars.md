@@ -124,6 +124,8 @@ UI框架
 
 [binIoter /GuideView](https://github.com/binIoter/GuideView)
 
+[russelarms/OffsetAnimator](https://github.com/russelarms/OffsetAnimator)
+
 插件或组件
 
 [luckybilly /AutoRegister](https://github.com/luckybilly/AutoRegister)                               android中实现自动注册的gradle插件
