@@ -1,5 +1,7 @@
 # Python
 
+[spotify /annoy](https://github.com/spotify/annoy)
+
 [DEAP /deap](https://github.com/DEAP/deap)
 
 [clips /pattern](https://github.com/clips/pattern)
