@@ -6,6 +6,8 @@
 
 [seiginonakama /BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx)
 
+[Blankj/ALog](https://github.com/Blankj/ALog)
+
 图片选择器
 
 [zhihu /Matisse](https://github.com/zhihu/Matisse)
@@ -41,6 +43,8 @@ Rx
 [pwittchen /ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork)
 
 [ReactiveX /RxKotlin](https://github.com/ReactiveX/RxKotlin)
+
+[AndroidKnife/RxBus](https://github.com/AndroidKnife/RxBus)
 
 fragment
 
@@ -107,6 +111,8 @@ UI框架
 [mabeijianxi/small-video-record](https://github.com/mabeijianxi/small-video-record)
 
 [PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice)
+
+[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
 
 照相
 
@@ -205,6 +211,8 @@ IM
 文件选择器
 
 [iPaulPro /aFileChooser](https://github.com/iPaulPro/aFileChooser)
+
+[leonHua/LFilePicker](https://github.com/leonHua/LFilePicker)
 
 二维码
 
@@ -504,6 +512,8 @@ Kotlin
 [nickbutcher /AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground)
 
 samples
+
+[rengwuxian/RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples)
 
 [googlecodelabs /android-lifecycles](https://github.com/googlecodelabs/android-lifecycles)
 
