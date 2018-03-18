@@ -16,6 +16,8 @@
 
 [sfsheng0322 /GlideImageView](https://github.com/sfsheng0322/GlideImageView)
 
+[square/picasso](https://github.com/square/picasso)
+
 图片处理
 
 [Sunzxyong/Tiny](https://github.com/Sunzxyong/Tiny)
@@ -272,6 +274,8 @@ emoji
 
 [facebook /facebook-android-sdk](https://github.com/facebook/facebook-android-sdk)
 
+[square/wire](https://github.com/square/wire)                   Clean, lightweight protocol buffers for Android and Java.
+
 开发组件
 
 [Tencent /RapidView](https://github.com/Tencent/RapidView)
@@ -279,6 +283,8 @@ emoji
 [nisrulz /packagehunter](https://github.com/nisrulz/packagehunter)                              所有App包信息
 
 [JakeWharton/scalpel](https://github.com/JakeWharton/scalpel)
+
+[square/spoon](https://github.com/square/spoon)
 
 面试或其他资料
 
@@ -382,6 +388,8 @@ Navigation
 
 [githubwing /ByeBurger](https://github.com/githubwing/ByeBurger)
 
+[Yalantis/JellyToolbar](https://github.com/Yalantis/JellyToolbar)
+
 FabButton
 
 [Krupen /FabulousFilter](https://github.com/Krupen/FabulousFilter)
@@ -414,6 +422,8 @@ SeekBar
 日历
 
 [prolificinteractive /material-calendarview](https://github.com/prolificinteractive/material-calendarview)
+
+[square/android-times-square](https://github.com/square/android-times-square)
 
 颜色选择器
 
