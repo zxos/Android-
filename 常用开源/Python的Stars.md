@@ -4,6 +4,8 @@
 
 [nilearn /nilearn](https://github.com/nilearn/nilearn)
 
+[NervanaSystems /neon](https://github.com/NervanaSystems/neon)
+
 [pymc-devs /pymc](https://github.com/pymc-devs/pymc)
 
 [pybrain /pybrain](https://github.com/pybrain/pybrain)
