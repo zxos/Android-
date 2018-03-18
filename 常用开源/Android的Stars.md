@@ -46,6 +46,8 @@ fragment
 
 [Hitomis /transferee](https://github.com/Hitomis/transferee)                                  一个帮助您完成从缩略图到原图无缝过渡转变的神奇组件
 
+[facebook/rebound](https://github.com/facebook/rebound)
+
 异步
 
 [koush /AndroidAsync](https://github.com/koush/AndroidAsync)
@@ -153,6 +155,20 @@ UI框架
 [alibaba /ARouter](https://github.com/alibaba/ARouter)
 
 [chenenyu /Router](https://github.com/chenenyu/Router)
+
+权限
+
+[k0shk0sh/PermissionHelper](https://github.com/k0shk0sh/PermissionHelper)
+
+[Karumi/Dexter](https://github.com/Karumi/Dexter)
+
+[htbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions)
+
+[permissions-dispatcher/PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
+
+IM
+
+[jpush/aurora-imui](https://github.com/jpush/aurora-imui)
 
 字体替换
 
@@ -302,6 +318,8 @@ ViewPager
 
 [alibaba /UltraViewPager](https://github.com/alibaba/UltraViewPager)
 
+[JakeWharton/ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
+
 Navigation
 
 [Devlight /NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)
@@ -372,6 +390,14 @@ SeekBar
 [MatthiasRobbers /shortbread](https://github.com/MatthiasRobbers/shortbread)
 
 [loopeer /CardStackView](https://github.com/loopeer/CardStackView)
+
+[karonl/InDoorSurfaceView](https://github.com/karonl/InDoorSurfaceView)                         无依赖第三方库的室内户型图交互组件库
+
+[Diolor/Swipecards](https://github.com/Diolor/Swipecards)                   探探效果
+
+[yuqirong/CardSwipeLayout](https://github.com/yuqirong/CardSwipeLayout)                 探探效果
+
+[wensefu/StackCardsView](https://github.com/wensefu/StackCardsView)                 探探效果
 
 ---
 
