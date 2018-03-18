@@ -1,5 +1,7 @@
 # Python
 
+[clips /pattern](https://github.com/clips/pattern)
+
 [docker /compose](https://github.com/docker/compose)
 
 [wensefu /StackCardsView](https://github.com/wensefu/StackCardsView)
