@@ -469,6 +469,8 @@ SeekBar
 
 ### 完整项目
 
+[laotan7237/EasyReader](https://github.com/laotan7237/EasyReader)
+
 [hejunlin2013/TVSample](https://github.com/hejunlin2013/TVSample)                   TV项目
 
 [naman14 /Timber](https://github.com/naman14/Timber)                                      Material Design Music Player
