@@ -106,6 +106,8 @@ UI框架
 
 [mabeijianxi/small-video-record](https://github.com/mabeijianxi/small-video-record)
 
+[PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice)
+
 照相
 
 [Yalantis /CameraModule](https://github.com/Yalantis/CameraModule)
