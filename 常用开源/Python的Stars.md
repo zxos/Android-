@@ -36,9 +36,9 @@
 
 [jakevdp /PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-
-
 [aymericdamien /TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+
+[MorvanZhou /tutorials](https://github.com/MorvanZhou/tutorials)
 
 
 
