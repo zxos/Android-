@@ -6,6 +6,8 @@
 
 [NervanaSystems /neon](https://github.com/NervanaSystems/neon)
 
+[chainer /chainer](https://github.com/chainer/chainer)
+
 [numenta /nupic](https://github.com/numenta/nupic)
 
 [pymc-devs /pymc](https://github.com/pymc-devs/pymc)
