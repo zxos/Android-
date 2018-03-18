@@ -282,8 +282,6 @@ TextView
 
 [rosenpin /FadingTextView](https://github.com/rosenpin/FadingTextView)
 
-![](/assets/FadingTextView.gif)
-
 switch
 
 [zagum /Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)
