@@ -286,11 +286,7 @@ switch
 
 [zagum /Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)
 
-![](/assets/SwitchIcon.gif)
-
 [zcweng /SwitchButton](https://github.com/zcweng/SwitchButton)
-
-![](/assets/SwitchButton.gif)
 
 ViewPager
 
@@ -316,7 +312,6 @@ FabButton
 
 [Krupen /FabulousFilter](https://github.com/Krupen/FabulousFilter)
 
-![](/assets/FabulousFilter.gif)
 
 Toast
 
@@ -352,21 +347,13 @@ SeekBar
 
 [ksoichiro /Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
 
-![](/assets/ObservableScrollView.gif)
-
 [iammert /ScalingLayout](https://github.com/iammert/ScalingLayout)
-
-![](/assets/ScalingLayout_Fab.gif)![](/assets/ScalingLayout_Search.gif)
 
 [bingoogolapple /BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)           Android Activity 滑动返回。支持微信滑动返回样式、横屏滑动返回、全屏滑动返回
 
 [daimajia /AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
 
-![](/assets/AndroidSwipeLayout.gif)
-
 [umano /AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)
-
-![](/assets/AndroidSlidingUpPanel.png)
 
 其他
 
@@ -378,11 +365,7 @@ SeekBar
 
 [MatthiasRobbers /shortbread](https://github.com/MatthiasRobbers/shortbread)
 
-![](/assets/ShortBread.png)
-
 [loopeer /CardStackView](https://github.com/loopeer/CardStackView)
-
-![](/assets/CardStackView.gif)
 
 ---
 
