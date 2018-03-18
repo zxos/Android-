@@ -26,6 +26,10 @@
 
 [Tencent /ncnn](https://github.com/Tencent/ncnn)
 
+[yanzhenjie/NoHttp](https://github.com/yanzhenjie/NoHttp)
+
+[jgilfelt/chuck](https://github.com/jgilfelt/chuck)                 抓包
+
 下载
 
 [lingochamp /FileDownloader](https://github.com/lingochamp/FileDownloader)
@@ -78,6 +82,8 @@ webView相关
 
 [Tencent /wcdb](https://github.com/Tencent/wcdb)
 
+[LitePalFramework/LitePal](https://github.com/LitePalFramework/LitePal)
+
 UI框架
 
 [flutter /flutter](https://github.com/flutter/flutter)
@@ -103,6 +109,10 @@ UI框架
 照相
 
 [Yalantis /CameraModule](https://github.com/Yalantis/CameraModule)
+
+[florent37/CameraFragment](https://github.com/florent37/CameraFragment)
+
+[CJT2325/CameraView](https://github.com/CJT2325/CameraView)                 仿微信拍照Android控件（轻触拍照，长按摄像）
 
 推送
 
@@ -180,6 +190,8 @@ UI框架
 
 [permissions-dispatcher/PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
 
+[yanzhenjie/AndPermission](https://github.com/yanzhenjie/AndPermission)
+
 IM
 
 [jpush/aurora-imui](https://github.com/jpush/aurora-imui)
@@ -191,6 +203,10 @@ IM
 文件选择器
 
 [iPaulPro /aFileChooser](https://github.com/iPaulPro/aFileChooser)
+
+二维码
+
+[bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)
 
 kotlin
 
@@ -252,6 +268,8 @@ emoji
 
 [nisrulz /packagehunter](https://github.com/nisrulz/packagehunter)                              所有App包信息
 
+[JakeWharton/scalpel](https://github.com/JakeWharton/scalpel)
+
 面试或其他资料
 
 [helen-x /AndroidInterview](https://github.com/helen-x/AndroidInterview)
@@ -295,6 +313,8 @@ emoji
 [liaohuqiu /android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
 
 [lcodecorex /TwinklingRefreshLayout](https://github.com/lcodecorex/TwinklingRefreshLayout)
+
+[bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)
 
 recyclerView
 
@@ -342,6 +362,8 @@ ViewPager
 
 [JakeWharton/ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
 
+[rubensousa/ViewPagerCards](https://github.com/rubensousa/ViewPagerCards)
+
 Navigation
 
 [Devlight /NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)
@@ -370,6 +392,8 @@ Toast
 SeekBar
 
 [woxingxiao /BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar)
+
+[rubensousa/PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar)                   视频进度条
 
 键盘
 
@@ -405,6 +429,8 @@ SeekBar
 
 [umano /AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)
 
+[hugeterry/CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout)
+
 其他
 
 [deano2390 /MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView)
@@ -432,6 +458,8 @@ SeekBar
 ---
 
 ### 完整项目
+
+[hejunlin2013/TVSample](https://github.com/hejunlin2013/TVSample)                   TV项目
 
 [naman14 /Timber](https://github.com/naman14/Timber)                                      Material Design Music Player
 
