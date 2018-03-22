@@ -52,6 +52,8 @@
 
 [shaohui10086/AdvancedLuban](https://github.com/shaohui10086/AdvancedLuban)
 
+[wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations)
+
 网络
 
 [Tamicer /Novate](https://github.com/Tamicer/Novate)                                               Android网络框架，基于Retrofit和RxJava打造的链式网络库, 支持okhttp的调用风格，又兼容Retrofit API，并支持rxJava链式操作
@@ -71,6 +73,8 @@
 [jeasonlzy/okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo)
 
 [facebook/network-connection-class](https://github.com/facebook/network-connection-class)
+
+[lecho/hellocharts-android](https://github.com/lecho/hellocharts-android)
 
 下载
 
@@ -102,6 +106,8 @@ fragment
 
 [JustKiddingBaby /FragmentRigger](https://github.com/JustKiddingBaby/FragmentRigger)
 
+[DesarrolloAntonio/FragmentTransactionExtended](https://github.com/DesarrolloAntonio/FragmentTransactionExtended)
+
 动画
 
 [marcosgriselli /ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)
@@ -122,6 +128,8 @@ fragment
 
 [traex/RippleEffect](https://github.com/traex/RippleEffect)                     水波纹
 
+[skyfishjy/android-ripple-background](https://github.com/skyfishjy/android-ripple-background)           水波纹
+
 [danielzeller/Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-)
 
 [ghuiii/AnimationWithoutCode](https://github.com/ghuiii/AnimationWithoutCode)
@@ -133,6 +141,8 @@ fragment
 [ImmortalZ/TransitionHelper](https://github.com/ImmortalZ/TransitionHelper)
 
 [romannurik/AndroidIconAnimator](https://github.com/romannurik/AndroidIconAnimator)
+
+[asyl/ArcAnimator](https://github.com/asyl/ArcAnimator)
 
 异步
 
@@ -174,6 +184,10 @@ webView相关
 
 [pardom/ActiveAndroid](https://github.com/pardom/ActiveAndroid)
 
+[Raizlabs/DBFlow](https://github.com/Raizlabs/DBFlow)
+
+[square/sqlbrite](https://github.com/square/sqlbrite)
+
 UI框架
 
 [flutter /flutter](https://github.com/flutter/flutter)
@@ -211,6 +225,8 @@ UI框架
 [andremion/Music-Player](https://github.com/andremion/Music-Player)
 
 [ryanhoo/StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer)
+
+[yixia/VitamioBundle](https://github.com/yixia/VitamioBundle)
 
 照相
 
@@ -314,6 +330,8 @@ UI框架
 
 [greenrobot/EventBus](https://github.com/greenrobot/EventBus)
 
+[square/otto](https://github.com/square/otto)
+
 路由
 
 [alibaba /ARouter](https://github.com/alibaba/ARouter)
@@ -411,6 +429,8 @@ emoji
 [Trinea/android-common](https://github.com/Trinea/android-common)
 
 [limedroid/XDroid](https://github.com/limedroid/XDroid)
+
+[Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)
 
 其它
 
@@ -534,6 +554,14 @@ emoji
 
 [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 
+[ychow/ionic-guide](https://github.com/ychow/ionic-guide)                   Ionic 中文指南
+
+[lightSky/Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
+
+[codepath/android_guides](https://github.com/codepath/android_guides)
+
+[hehonghui/android-tech-frontier](https://github.com/hehonghui/android-tech-frontier)
+
 ---
 
 ### UI控件
@@ -582,6 +610,7 @@ recyclerView
 
 [xuehuayous/WrapRecyclerView](https://github.com/xuehuayous/WrapRecyclerView)
 
+
 列表
 
 [cdflynn /bubble-scroll](https://github.com/cdflynn/bubble-scroll)                                        带字母列表
@@ -597,6 +626,9 @@ TextView
 [chenBingX/SuperTextView](https://github.com/chenBingX/SuperTextView)
 
 [robinhood/ticker](https://github.com/robinhood/ticker)
+
+[jaredrummler/HtmlBuilder](https://github.com/jaredrummler/HtmlBuilder)                     Build valid HTML for Android TextView
+
 
 ImageView
 
@@ -779,6 +811,8 @@ SeekBar&loading
 [BurnieLau/Time-Selector](https://github.com/BurnieLau/Time-Selector)
 
 [dengshiwei/CalendarComponent](https://github.com/dengshiwei/CalendarComponent)
+
+[Kelin-Hong/ScrollablePanel](https://github.com/Kelin-Hong/ScrollablePanel)
 
 颜色选择器
 
