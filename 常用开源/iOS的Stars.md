@@ -16,6 +16,8 @@
 
 [imlifengfeng /iOSBlogAndTools](https://github.com/imlifengfeng/iOSBlogAndTools)
 
+[numbbbbb /the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
+
 ---
 
 # UI控件
