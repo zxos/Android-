@@ -76,6 +76,8 @@
 
 [lecho/hellocharts-android](https://github.com/lecho/hellocharts-android)
 
+[square/okhttp](https://github.com/square/okhttp)
+
 下载
 
 [lingochamp /FileDownloader](https://github.com/lingochamp/FileDownloader)
@@ -562,6 +564,8 @@ emoji
 
 [hehonghui/android-tech-frontier](https://github.com/hehonghui/android-tech-frontier)
 
+[SmartisanTech/android](https://github.com/SmartisanTech/android)
+
 ---
 
 ### UI控件
@@ -629,6 +633,7 @@ TextView
 
 [jaredrummler/HtmlBuilder](https://github.com/jaredrummler/HtmlBuilder)                     Build valid HTML for Android TextView
 
+[facebook/TextLayoutBuilder](https://github.com/facebook/TextLayoutBuilder)
 
 ImageView
 
@@ -655,6 +660,8 @@ SVG
 [BigBadaboom/androidsvg](https://github.com/BigBadaboom/androidsvg)
 
 [lypeer/GoogleClock](https://github.com/lypeer/GoogleClock)
+
+[MegatronKing/SVG-Android](https://github.com/MegatronKing/SVG-Android)
 
 dialog
 
