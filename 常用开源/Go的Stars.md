@@ -1,5 +1,13 @@
 # Go
 
+[astaxie /build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+
+[revel /revel](https://github.com/revel/revel)
+
+[moby /moby](https://github.com/moby/moby)
+
+[nsf /gocode](https://github.com/nsf/gocode)
+
 [avelino /awesome-go](https://github.com/avelino/awesome-go)
 
 [ivpusic /neo](https://github.com/ivpusic/neo)
