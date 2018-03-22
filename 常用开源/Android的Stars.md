@@ -84,6 +84,10 @@
 
 [lingochamp /FileDownloader](https://github.com/lingochamp/FileDownloader)
 
+缓存
+
+[yangfuhai/ASimpleCache](https://github.com/yangfuhai/ASimpleCache)
+
 Rx
 
 [trello /RxLifecycle](https://github.com/trello/RxLifecycle)
@@ -103,6 +107,8 @@ Rx
 [JakeWharton/retrofit2-rxjava2-adapter](https://github.com/JakeWharton/retrofit2-rxjava2-adapter)
 
 [JakeWharton/RxBinding](https://github.com/JakeWharton/RxBinding)
+
+[VictorAlbertos/RxCache](https://github.com/VictorAlbertos/RxCache)
 
 fragment
 
@@ -250,6 +256,8 @@ UI框架
 
 [Skykai521/StickerCamera](https://github.com/Skykai521/StickerCamera)
 
+[google/cameraview](https://github.com/google/cameraview)
+
 推送
 
 [pengyuantao /OnePush](https://github.com/pengyuantao/OnePush)
@@ -326,6 +334,10 @@ UI框架
 
 [eleme/Amigo](https://github.com/eleme/Amigo)
 
+[Meituan-Dianping/Robust](https://github.com/Meituan-Dianping/Robust)
+
+[alibaba/atlas](https://github.com/alibaba/atlas)
+
 内存泄漏
 
 [square/leakcanary](https://github.com/square/leakcanary)
@@ -373,6 +385,8 @@ IM
 [iPaulPro /aFileChooser](https://github.com/iPaulPro/aFileChooser)
 
 [leonHua/LFilePicker](https://github.com/leonHua/LFilePicker)
+
+[DroidNinja/Android-FilePicker](https://github.com/DroidNinja/Android-FilePicker)
 
 二维码
 
@@ -439,6 +453,8 @@ emoji
 [Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)
 
 [l123456789jy/Lazy](https://github.com/l123456789jy/Lazy)
+
+[hongyangAndroid/AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)               Android屏幕适配方案
 
 其它
 
@@ -574,6 +590,10 @@ emoji
 
 [AlloyTeam/Mars](https://github.com/AlloyTeam/Mars)                         腾讯移动Web前端知识库
 
+[wenmingvs/AndroidProcess](https://github.com/wenmingvs/AndroidProcess)                 判断App位于前台或者后台的6种方法
+
+[phodal/ideabook](https://github.com/phodal/ideabook)                       一个全栈增长工程师的练手项目集
+
 ---
 
 ### UI控件
@@ -631,6 +651,8 @@ recyclerView
 [Aspsine/IRecyclerView](https://github.com/Aspsine/IRecyclerView)
 
 [cymcsg/UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView)
+
+[mcxtzhang/ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager)                 一些自定义的LayoutManager，仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等
 
 列表
 
@@ -732,6 +754,8 @@ ViewPager
 
 [githubwing/ZoomHeader](https://github.com/githubwing/ZoomHeader)
 
+[cpoopc/ScrollableLayout](https://github.com/cpoopc/ScrollableLayout)
+
 Navigation&menu
 
 [Devlight /NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)
@@ -763,6 +787,8 @@ Navigation&menu
 [Yalantis/SearchFilter](https://github.com/Yalantis/SearchFilter)
 
 [Nightonke/BoomMenu](https://github.com/Nightonke/BoomMenu)
+
+[Aspsine/FragmentNavigator](https://github.com/Aspsine/FragmentNavigator)
 
 FloatingButton
 
@@ -866,6 +892,10 @@ SeekBar&loading
 
 [zaaach/CityPicker](https://github.com/zaaach/CityPicker)
 
+[Carbs0126/NumberPickerView](https://github.com/Carbs0126/NumberPickerView)
+
+[jjobes/SlideDateTimePicker](https://github.com/jjobes/SlideDateTimePicker)
+
 评分条
 
 [ome450901/SimpleRatingBar](https://github.com/ome450901/SimpleRatingBar)
@@ -901,6 +931,8 @@ SeekBar&loading
 [ShamylZakariya/FlyoutMenus](https://github.com/ShamylZakariya/FlyoutMenus)
 
 [githubwing/ThreeDLayout](https://github.com/githubwing/ThreeDLayout)                       让你的view拥有3D效果！
+
+[ikew0ng/SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
 
 其他
 
