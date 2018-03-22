@@ -2,6 +2,8 @@
 
 [exercism /go](https://github.com/exercism/go)
 
+[constabulary /gb](https://github.com/constabulary/gb)
+
 [lxn /walk](https://github.com/lxn/walk)
 
 [labstack /echo](https://github.com/labstack/echo)
