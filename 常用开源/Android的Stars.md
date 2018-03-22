@@ -28,6 +28,8 @@
 
 [jeasonlzy/ImagePicker](https://github.com/jeasonlzy/ImagePicker)
 
+[crazycodeboy/TakePhoto](https://github.com/crazycodeboy/TakePhoto)
+
 图片加载
 
 [sfsheng0322 /GlideImageView](https://github.com/sfsheng0322/GlideImageView)
@@ -93,6 +95,8 @@
 缓存
 
 [yangfuhai/ASimpleCache](https://github.com/yangfuhai/ASimpleCache)
+
+[JakeWharton/DiskLruCache](https://github.com/JakeWharton/DiskLruCache)
 
 Rx
 
@@ -336,6 +340,8 @@ UI框架
 
 [wequick /Small](https://github.com/wequick/Small)
 
+[ljqloveyou123/LiujiaqiAndroid](https://github.com/ljqloveyou123/LiujiaqiAndroid)               插件化系列详解，并附上可运行demo
+
 热更新
 
 [TinkerPatch /tinkerpatch-sdk](https://github.com/TinkerPatch/tinkerpatch-sdk)
@@ -473,6 +479,8 @@ emoji
 [l123456789jy/Lazy](https://github.com/l123456789jy/Lazy)
 
 [hongyangAndroid/AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)               Android屏幕适配方案
+
+[yangfuhai/afinal](https://github.com/yangfuhai/afinal)
 
 支付
 
@@ -626,6 +634,10 @@ emoji
 
 [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
+[zjw-swun/AppMethodOrder](https://github.com/zjw-swun/AppMethodOrder)                   一个能让你了解所有函数调用顺序以及函数耗时的Android库（无需侵入式代码）
+
+[evernote/android-job](https://github.com/evernote/android-job)
+
 ---
 
 ### UI控件
@@ -685,6 +697,18 @@ recyclerView
 [cymcsg/UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView)
 
 [mcxtzhang/ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager)                 一些自定义的LayoutManager，仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等
+
+[drakeet/MultiType](https://github.com/drakeet/MultiType)
+
+[danylovolokh/LondonEyeLayoutManager](https://github.com/danylovolokh/LondonEyeLayoutManager)
+
+[Chacojack/HiveLayoutManager](https://github.com/Chacojack/HiveLayoutManager)
+
+[BelooS/ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager)
+
+[Azoft/CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager)
+
+[Cleveroad/FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
 
 列表
 
@@ -791,6 +815,8 @@ ViewPager
 [cpoopc/ScrollableLayout](https://github.com/cpoopc/ScrollableLayout)
 
 [jeasonlzy/HeaderViewPager](https://github.com/jeasonlzy/HeaderViewPager)                       具有共同头部的 ViewPager，支持与ListView，GridView，ScrollView，WebView，RecyclerView 嵌套使用。具有连续的滑动事件 和 滑动监听， 支持下拉刷新。
+
+[yarolegovich/DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)
 
 Navigation&menu
 
@@ -1022,6 +1048,8 @@ SeekBar&loading
 
 ### 完整项目
 
+[moezbhatti/qksms](https://github.com/moezbhatti/qksms)
+
 [GcsSloop/diycode](https://github.com/GcsSloop/diycode)
 
 [drakeet/Meizhi](https://github.com/drakeet/Meizhi)
@@ -1109,6 +1137,8 @@ Kotlin
 [nickbutcher /AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground)
 
 samples
+
+[googlesamples/android-PictureInPicture](https://github.com/googlesamples/android-PictureInPicture)
 
 [mcxtzhang/SupportDemos](https://github.com/mcxtzhang/SupportDemos)                     本工程最初仅为DiffUtil的一个Demo，后发展为讲解Google Android Support包内那些常用or冷门有用的工具类的合集。
 
