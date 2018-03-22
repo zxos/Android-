@@ -82,3 +82,11 @@
 
 [JustFollowUs /Machine-Learning](https://github.com/JustFollowUs/Machine-Learning)
 
+[jekil /awesome-hacking](https://github.com/jekil/awesome-hacking)
+
+[vinta /awesome-python](https://github.com/vinta/awesome-python)
+
+[kevinhughes27 /TensorKart](https://github.com/kevinhughes27/TensorKart)
+
+
+
