@@ -124,6 +124,8 @@ fragment
 
 [ImmortalZ/TransitionHelper](https://github.com/ImmortalZ/TransitionHelper)
 
+[romannurik/AndroidIconAnimator](https://github.com/romannurik/AndroidIconAnimator)
+
 异步
 
 [koush/AndroidAsync](https://github.com/koush/AndroidAsync)
@@ -400,6 +402,8 @@ emoji
 
 [Trinea/android-common](https://github.com/Trinea/android-common)
 
+[limedroid/XDroid](https://github.com/limedroid/XDroid)
+
 其它
 
 [MZCretin /WifiTransfer-master](https://github.com/MZCretin/WifiTransfer-master)                  Android下WIFI隔空apk安装
@@ -655,6 +659,8 @@ ViewPager
 [chengdazhi/DecentBanner](https://github.com/chengdazhi/DecentBanner)
 
 [Devlight/InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)
+
+[githubwing/ZoomHeader](https://github.com/githubwing/ZoomHeader)
 
 Navigation&menu
 
@@ -929,6 +935,16 @@ Kotlin
 [nickbutcher /AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground)
 
 samples
+
+[googlesamples/android-MultiWindowPlayground](https://github.com/googlesamples/android-MultiWindowPlayground)
+
+[googlesamples/android-ActiveNotifications](https://github.com/googlesamples/android-ActiveNotifications)
+
+[googlesamples/android-MessagingService](https://github.com/googlesamples/android-MessagingService)
+
+[googlesamples/android-DirectBoot](https://github.com/googlesamples/android-DirectBoot)
+
+[googlesamples/android-ScopedDirectoryAccess](https://github.com/googlesamples/android-ScopedDirectoryAccess)
 
 [bkiers/retrofit-oauth](https://github.com/bkiers/retrofit-oauth)
 
