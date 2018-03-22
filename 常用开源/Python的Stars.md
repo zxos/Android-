@@ -2,6 +2,8 @@
 
 [brilee /MuGo](https://github.com/brilee/MuGo)
 
+[maguowei /starred](https://github.com/maguowei/starred)
+
 [Theano /Theano](https://github.com/Theano/Theano)
 
 [RaRe-Technologies /gensim](https://github.com/RaRe-Technologies/gensim)
@@ -111,6 +113,4 @@
 [donnemartin /data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
 [scikit-learn /scikit-learn](https://github.com/scikit-learn/scikit-learn)
-
-
 
