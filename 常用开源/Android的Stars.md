@@ -16,6 +16,14 @@
 
 [D-clock/AndroidAlbum](https://github.com/D-clock/AndroidAlbum)
 
+[YancyYe/ImageSelector](https://github.com/YancyYe/ImageSelector)
+
+[habzy/GridImagePicker](https://github.com/habzy/GridImagePicker)
+
+[lovetuzitong/MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector)
+
+[FinalTeam/RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)                         Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
+
 图片加载
 
 [sfsheng0322 /GlideImageView](https://github.com/sfsheng0322/GlideImageView)
@@ -24,11 +32,21 @@
 
 [bumptech/glide](https://github.com/bumptech/glide)
 
+[nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+
+[CyberAgent/android-gpuimage](https://github.com/CyberAgent/android-gpuimage)
+
 图片处理
 
 [Sunzxyong/Tiny](https://github.com/Sunzxyong/Tiny)
 
 [Yalantis/uCrop](https://github.com/Yalantis/uCrop)
+
+[jdamcd/android-crop](https://github.com/jdamcd/android-crop)
+
+[Curzibn/Luban](https://github.com/Curzibn/Luban)
+
+[ArthurHub/Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)
 
 网络
 
@@ -88,6 +106,8 @@ fragment
 
 [JeasonWong/Particle](https://github.com/JeasonWong/Particle)                粒子动画
 
+[booncol/Pulsator4Droid](https://github.com/booncol/Pulsator4Droid)                水波纹
+
 异步
 
 [koush/AndroidAsync](https://github.com/koush/AndroidAsync)
@@ -105,6 +125,10 @@ webView相关
 [pwnall /chromeview](https://github.com/pwnall/chromeview)
 
 [pedant/safe-java-js-webview-bridge](https://github.com/pedant/safe-java-js-webview-bridge)
+
+[JackyAndroid/AndroidChromium](https://github.com/JackyAndroid/AndroidChromium)
+
+[square/duktape-android](https://github.com/square/duktape-android)
 
 数据库
 
@@ -158,6 +182,8 @@ UI框架
 
 [Bilibili/DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)
 
+[andremion/Music-Player](https://github.com/andremion/Music-Player)
+
 照相
 
 [Yalantis /CameraModule](https://github.com/Yalantis/CameraModule)
@@ -165,6 +191,14 @@ UI框架
 [florent37/CameraFragment](https://github.com/florent37/CameraFragment)
 
 [CJT2325/CameraView](https://github.com/CJT2325/CameraView)                 仿微信拍照Android控件（轻触拍照，长按摄像）
+
+[JeroenMols/LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)
+
+[wuhaoyu1990/MagicCamera](https://github.com/wuhaoyu1990/MagicCamera)
+
+[afollestad/material-camera](https://github.com/afollestad/material-camera)
+
+[Skykai521/StickerCamera](https://github.com/Skykai521/StickerCamera)
 
 推送
 
@@ -188,6 +222,10 @@ UI框架
 
 [laobie/StatusBarUtil](https://github.com/laobie/StatusBarUtil)
 
+[niorgai/StatusBarCompat](https://github.com/niorgai/StatusBarCompat)
+
+[jgilfelt/SystemBarTint](https://github.com/jgilfelt/SystemBarTint)
+
 导航
 
 [apl-devs /AppIntro](https://github.com/apl-devs/AppIntro)
@@ -207,6 +245,8 @@ UI框架
 [russelarms/OffsetAnimator](https://github.com/russelarms/OffsetAnimator)
 
 [iammert/MaterialIntroView](https://github.com/iammert/MaterialIntroView)
+
+[TangoAgency/material-intro-screen](https://github.com/TangoAgency/material-intro-screen)
 
 插件或组件
 
@@ -235,6 +275,8 @@ UI框架
 事件分发
 
 [cangwang /ModuleBus](https://github.com/cangwang/ModuleBus)
+
+[greenrobot/EventBus](https://github.com/greenrobot/EventBus)
 
 路由
 
@@ -306,6 +348,8 @@ emoji
 
 [rockerhieu /emojicon](https://github.com/rockerhieu/emojicon)
 
+[rockerhieu/emojiconize](https://github.com/rockerhieu/emojiconize)
+
 基础框架
 
 [huangweicai /OkLibDemo](#)                           OkLib 一个专注于让开发更加简单的工具库
@@ -325,6 +369,8 @@ emoji
 [google/guava](https://github.com/google/guava)
 
 [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
+
+[Trinea/android-common](https://github.com/Trinea/android-common)
 
 其它
 
@@ -350,6 +396,10 @@ emoji
 
 [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations)
 
+[alibaba/fastjson](https://github.com/alibaba/fastjson)
+
+[tarek360/Instacapture](https://github.com/tarek360/Instacapture)                截屏
+
 图标
 
 [material-design-icons](https://github.com/google/material-design-icons)
@@ -369,6 +419,8 @@ emoji
 [facebook/stetho](https://github.com/facebook/stetho)
 
 [GavinCT/AndroidMultiChannelBuildTool](https://github.com/GavinCT/AndroidMultiChannelBuildTool)                 安卓多渠道打包工具
+
+[markzhai/AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor)                     是一个Android平台的一个非侵入式的性能监控组件
 
 服务器
 
@@ -420,6 +472,8 @@ emoji
 
 [xitu/gold-miner](https://github.com/xitu/gold-miner)
 
+[madongqiang2201/views](https://github.com/madongqiang2201/views)               自定义View
+
 ---
 
 ### UI控件
@@ -445,6 +499,10 @@ emoji
 [dinuscxj/RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)
 
 [Yalantis/pull-to-make-soup](https://github.com/Yalantis/pull-to-make-soup)
+
+[Yalantis/Phoenix](https://github.com/Yalantis/Phoenix)
+
+[race604/FlyRefresh](https://github.com/race604/FlyRefresh)
 
 recyclerView
 
@@ -482,9 +540,23 @@ TextView
 
 ImageView
 
+[hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView)
+
+[chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)
+
 [bm-x/PhotoView](https://github.com/bm-x/PhotoView)
 
 [Cutta/GifView](https://github.com/Cutta/GifView)
+
+[nimengbo/StickerView](https://github.com/nimengbo/StickerView)
+
+[biokys/cropimage](https://github.com/biokys/cropimage)
+
+[ojas-webonise/ImageViewTouch](https://github.com/ojas-webonise/ImageViewTouch)
+
+[aryarohit07/PicassoFaceDetectionTransformation](https://github.com/aryarohit07/PicassoFaceDetectionTransformation)
+
+[chengdazhi/StyleImageView](https://github.com/chengdazhi/StyleImageView)
 
 dialog
 
@@ -497,6 +569,8 @@ checkbox
 button
 
 [zcweng/ToggleButton](https://github.com/zcweng/ToggleButton)
+
+[ChadCSong/ShineButton](https://github.com/ChadCSong/ShineButton)
 
 switch
 
@@ -542,11 +616,9 @@ Navigation
 
 [keklikhasan/LDrawer](https://github.com/keklikhasan/LDrawer)
 
-[Yalantis/Phoenix](https://github.com/Yalantis/Phoenix)
-
-[race604/FlyRefresh](https://github.com/race604/FlyRefresh)
-
 [jfeinstein10/SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)
+
+[Hitomis/SpinMenu](https://github.com/Hitomis/SpinMenu)
 
 FabButton
 
@@ -616,8 +688,6 @@ SeekBar&loading
 
 [helloJp/WheelView](https://github.com/helloJp/WheelView)
 
-
-
 评分条
 
 [ome450901/SimpleRatingBar](https://github.com/ome450901/SimpleRatingBar)
@@ -647,6 +717,8 @@ SeekBar&loading
 [nex3z/FlowLayout](https://github.com/nex3z/FlowLayout)
 
 [AAkira/ExpandableLayout](https://github.com/AAkira/ExpandableLayout)
+
+[ShamylZakariya/FlyoutMenus](https://github.com/ShamylZakariya/FlyoutMenus)
 
 其他
 
@@ -687,6 +759,12 @@ SeekBar&loading
 ---
 
 ### 完整项目
+
+[JustWayward/BookReader](https://github.com/JustWayward/BookReader)                     "任阅" 网络小说阅读器，追书推荐收藏、书籍/标签检索、模拟翻书的翻页效果、缓存书籍、日夜间模式、书签、txt/pdf/epub书籍阅读、Wifi传书~
+
+[lguipeng/Notes](https://github.com/lguipeng/Notes)
+
+[Qixingchen/MD-BiliBili](https://github.com/Qixingchen/MD-BiliBili)
 
 [Dimon94/GanWuMei](https://github.com/Dimon94/GanWuMei)                             干货集中营Android客户端
 
