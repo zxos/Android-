@@ -184,6 +184,8 @@ UI框架
 
 [andremion/Music-Player](https://github.com/andremion/Music-Player)
 
+[ryanhoo/StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer)
+
 照相
 
 [Yalantis /CameraModule](https://github.com/Yalantis/CameraModule)
@@ -271,6 +273,8 @@ UI框架
 [Tencent/tinker](https://github.com/Tencent/tinker)
 
 [kot32go/dynamic-load-view](https://github.com/kot32go/dynamic-load-view)                   能够动态加载外部apk中的View以及资源，能够热修复线上View，以及模块化更新。
+
+[eleme/Amigo](https://github.com/eleme/Amigo)
 
 内存泄漏
 
@@ -404,6 +408,8 @@ emoji
 
 [tarek360/Instacapture](https://github.com/tarek360/Instacapture)                截屏
 
+[Sunzxyong/Recovery](https://github.com/Sunzxyong/Recovery)
+
 图标
 
 [material-design-icons](https://github.com/google/material-design-icons)
@@ -425,6 +431,8 @@ emoji
 [GavinCT/AndroidMultiChannelBuildTool](https://github.com/GavinCT/AndroidMultiChannelBuildTool)                 安卓多渠道打包工具
 
 [markzhai/AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor)                     是一个Android平台的一个非侵入式的性能监控组件
+
+[zhoubowen-sky/LingDong](https://github.com/zhoubowen-sky/LingDong)                 “面对面文件快传”，Android端灵动快传，安卓互传文件，局域网，无网传输文件
 
 服务器
 
@@ -478,6 +486,8 @@ emoji
 
 [madongqiang2201/views](https://github.com/madongqiang2201/views)               自定义View
 
+[GcsSloop/AndroidNote](https://github.com/GcsSloop/AndroidNote)
+
 ---
 
 ### UI控件
@@ -522,13 +532,11 @@ recyclerView
 
 [dinuscxj/PullZoomRecyclerView](https://github.com/dinuscxj/PullZoomRecyclerView)
 
+[elye/loaderviewlibrary](https://github.com/elye/loaderviewlibrary)
+
 列表
 
 [cdflynn /bubble-scroll](https://github.com/cdflynn/bubble-scroll)                                        带字母列表
-
-侧滑
-
-[SimonVT /android-menudrawer](https://github.com/SimonVT/android-menudrawer)
 
 TextView
 
@@ -561,6 +569,12 @@ ImageView
 [aryarohit07/PicassoFaceDetectionTransformation](https://github.com/aryarohit07/PicassoFaceDetectionTransformation)
 
 [chengdazhi/StyleImageView](https://github.com/chengdazhi/StyleImageView)
+
+SVG
+
+[BigBadaboom/androidsvg](https://github.com/BigBadaboom/androidsvg)
+
+[lypeer/GoogleClock](https://github.com/lypeer/GoogleClock)
 
 dialog
 
@@ -623,6 +637,10 @@ Navigation
 [jfeinstein10/SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)
 
 [Hitomis/SpinMenu](https://github.com/Hitomis/SpinMenu)
+
+[mzule/FantasySlide](https://github.com/mzule/FantasySlide)
+
+[SimonVT /android-menudrawer](https://github.com/SimonVT/android-menudrawer)
 
 FabButton
 
@@ -763,6 +781,10 @@ SeekBar&loading
 ---
 
 ### 完整项目
+
+[Werb/GankWithZhihu](https://github.com/Werb/GankWithZhihu)             阅读类
+
+[salRoid/Filmy](https://github.com/salRoid/Filmy)                   多媒体例子
 
 [hefuyicoder/ZhihuDaily](https://github.com/hefuyicoder/ZhihuDaily)
 
