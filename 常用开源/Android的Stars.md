@@ -638,6 +638,8 @@ TextView
 
 [facebook/TextLayoutBuilder](https://github.com/facebook/TextLayoutBuilder)
 
+[nntuyen/text-decorator](https://github.com/nntuyen/text-decorator)
+
 ImageView
 
 [hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView)
