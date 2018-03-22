@@ -74,3 +74,7 @@
 
 [jikexueyuanwiki /tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
 
+[ZuzooVn /machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+
+
+
