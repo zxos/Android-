@@ -1022,6 +1022,8 @@ SeekBar&loading
 
 ### 完整项目
 
+[GcsSloop/diycode](https://github.com/GcsSloop/diycode)
+
 [drakeet/Meizhi](https://github.com/drakeet/Meizhi)
 
 [sealtalk/sealtalk-android](https://github.com/sealtalk/sealtalk-android)
@@ -1107,6 +1109,8 @@ Kotlin
 [nickbutcher /AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground)
 
 samples
+
+[mcxtzhang/SupportDemos](https://github.com/mcxtzhang/SupportDemos)                     本工程最初仅为DiffUtil的一个Demo，后发展为讲解Google Android Support包内那些常用or冷门有用的工具类的合集。
 
 [googlesamples/android-MultiWindowPlayground](https://github.com/googlesamples/android-MultiWindowPlayground)
 
