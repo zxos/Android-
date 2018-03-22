@@ -2,6 +2,14 @@
 
 [brilee /MuGo](https://github.com/brilee/MuGo)
 
+[Theano /Theano](https://github.com/Theano/Theano)
+
+[RaRe-Technologies /gensim](https://github.com/RaRe-Technologies/gensim)
+
+[chainer /chainer](#)
+
+[statsmodels /statsmodels](https://github.com/statsmodels/statsmodels)
+
 [tensorflow /models](#)
 
 [biolab /orange3](https://github.com/biolab/orange3)
@@ -54,6 +62,8 @@
 
 [tensorflow /tensorflow](https://github.com/tensorflow/tensorflow)
 
+[BVLC /caffe](https://github.com/BVLC/caffe)
+
 学习资料
 
 [exacity /deeplearningbook-chinese](#)
@@ -95,6 +105,12 @@
 [vnpy /vnpy](https://github.com/vnpy/vnpy)                                         基于python的开源量化交易平台开发框架
 
 [jobbole /awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
+
+[lisa-lab /pylearn2](https://github.com/lisa-lab/pylearn2)
+
+[donnemartin /data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+
+[scikit-learn /scikit-learn](https://github.com/scikit-learn/scikit-learn)
 
 
 
