@@ -26,6 +26,8 @@
 
 [FinalTeam/RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)                         Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
+[jeasonlzy/ImagePicker](https://github.com/jeasonlzy/ImagePicker)
+
 图片加载
 
 [sfsheng0322 /GlideImageView](https://github.com/sfsheng0322/GlideImageView)
@@ -81,6 +83,8 @@
 [Tencent/mars](https://github.com/Tencent/mars)
 
 [hongyangAndroid/okhttputils](https://github.com/hongyangAndroid/okhttputils)
+
+[loopj/android-async-http](https://github.com/loopj/android-async-http)
 
 下载
 
@@ -216,6 +220,8 @@ UI框架
 
 [easemob/easeui](https://github.com/easemob/easeui)
 
+[Malinskiy/android-material-icons](https://github.com/Malinskiy/android-material-icons)
+
 多媒体
 
 [pili-engineering /PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)                  PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK
@@ -277,6 +283,8 @@ UI框架
 [wasabeef/richeditor-android](https://github.com/wasabeef/richeditor-android)
 
 [zzhoujay/RichText](https://github.com/zzhoujay/RichText)
+
+[JoanZapata/android-iconify](https://github.com/JoanZapata/android-iconify)
 
 通知
 
@@ -376,6 +384,8 @@ UI框架
 
 [yanzhenjie/AndPermission](https://github.com/yanzhenjie/AndPermission)
 
+[googlesamples/easypermissions](https://github.com/googlesamples/easypermissions)
+
 IM
 
 [jpush/aurora-imui](https://github.com/jpush/aurora-imui)
@@ -397,6 +407,8 @@ IM
 二维码
 
 [bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)
+
+[zxing/zxing](https://github.com/zxing/zxing)
 
 kotlin
 
@@ -716,6 +728,8 @@ ImageView
 
 [chengdazhi/StyleImageView](https://github.com/chengdazhi/StyleImageView)
 
+[laobie/NineGridImageView](https://github.com/laobie/NineGridImageView)
+
 SVG
 
 [BigBadaboom/androidsvg](https://github.com/BigBadaboom/androidsvg)
@@ -775,6 +789,8 @@ ViewPager
 [githubwing/ZoomHeader](https://github.com/githubwing/ZoomHeader)
 
 [cpoopc/ScrollableLayout](https://github.com/cpoopc/ScrollableLayout)
+
+[jeasonlzy/HeaderViewPager](https://github.com/jeasonlzy/HeaderViewPager)                       具有共同头部的 ViewPager，支持与ListView，GridView，ScrollView，WebView，RecyclerView 嵌套使用。具有连续的滑动事件 和 滑动监听， 支持下拉刷新。
 
 Navigation&menu
 
@@ -1005,6 +1021,8 @@ SeekBar&loading
 ---
 
 ### 完整项目
+
+[drakeet/Meizhi](https://github.com/drakeet/Meizhi)
 
 [sealtalk/sealtalk-android](https://github.com/sealtalk/sealtalk-android)
 
