@@ -30,6 +30,8 @@
 
 [icindy /wxParse](https://github.com/icindy/wxParse)                             微信小程序富文本解析自定义组件，支持HTML及markdown解析
 
+[MyGitHubFork /WebBasicCommonDemos](https://github.com/MyGitHubFork/WebBasicCommonDemos)
+
 [Bilibili /flv.js](https://github.com/Bilibili/flv.js)
 
 [liujians /Wa-UI](https://github.com/liujians/Wa-UI)                                  针对微信小程序整合的一套UI库
