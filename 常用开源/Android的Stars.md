@@ -610,6 +610,10 @@ emoji
 
 [lizhangqu/CoreLink](https://github.com/lizhangqu/CoreLink)
 
+[JStumpp/awesome-android](https://github.com/JStumpp/awesome-android)
+
+[sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
 ---
 
 ### UI控件
