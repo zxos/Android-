@@ -146,6 +146,8 @@ fragment
 
 [asyl/ArcAnimator](https://github.com/asyl/ArcAnimator)
 
+[lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations)
+
 异步
 
 [koush/AndroidAsync](https://github.com/koush/AndroidAsync)
@@ -663,6 +665,8 @@ SVG
 [lypeer/GoogleClock](https://github.com/lypeer/GoogleClock)
 
 [MegatronKing/SVG-Android](https://github.com/MegatronKing/SVG-Android)
+
+[geftimov/android-pathview](https://github.com/geftimov/android-pathview)
 
 dialog
 
