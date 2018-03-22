@@ -90,5 +90,7 @@
 
 [francistao /LearningNotes](https://github.com/francistao/LearningNotes)
 
+[jtoy /awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
+
 
 
