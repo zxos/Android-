@@ -22,9 +22,13 @@
 
 [square/picasso](https://github.com/square/picasso)
 
+[bumptech/glide](https://github.com/bumptech/glide)
+
 图片处理
 
 [Sunzxyong/Tiny](https://github.com/Sunzxyong/Tiny)
+
+[Yalantis/uCrop](https://github.com/Yalantis/uCrop)
 
 网络
 
@@ -62,6 +66,8 @@ Rx
 
 [ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
 
+[JakeWharton/retrofit2-rxjava2-adapter](https://github.com/JakeWharton/retrofit2-rxjava2-adapter)
+
 fragment
 
 [YoKeyword /Fragmentation](https://github.com/YoKeyword/Fragmentation)
@@ -79,6 +85,8 @@ fragment
 [JakeWharton/NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
 
 [XunMengWinter/CircularAnim](https://github.com/XunMengWinter/CircularAnim)
+
+[JeasonWong/Particle](https://github.com/JeasonWong/Particle)                粒子动画
 
 异步
 
@@ -171,6 +179,10 @@ UI框架
 通知
 
 [wenmingvs /NotifyUtil](https://github.com/wenmingvs/NotifyUtil)
+
+沉浸模式
+
+[laobie/StatusBarUtil](https://github.com/laobie/StatusBarUtil)
 
 导航
 
@@ -302,7 +314,11 @@ emoji
 
 [google/dagger](https://github.com/google/dagger)
 
+[google/tiger](https://github.com/google/tiger)
+
 [meikoz/Basic](https://github.com/meikoz/Basic)
+
+[google/guava](https://github.com/google/guava)
 
 其它
 
@@ -326,6 +342,8 @@ emoji
 
 [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
 
+[androidannotations/androidannotations](https://github.com/androidannotations/androidannotations)
+
 图标
 
 [material-design-icons](https://github.com/google/material-design-icons)
@@ -343,6 +361,8 @@ emoji
 [square/spoon](https://github.com/square/spoon)
 
 [facebook/stetho](https://github.com/facebook/stetho)
+
+[GavinCT/AndroidMultiChannelBuildTool](https://github.com/GavinCT/AndroidMultiChannelBuildTool)                 安卓多渠道打包工具
 
 服务器
 
@@ -388,7 +408,11 @@ emoji
 
 [Trinea/android-open-project](https://github.com/Trinea/android-open-project)
 
+[zhujun2730/Android-Learning-Resources](https://github.com/zhujun2730/Android-Learning-Resources)
+
 [msandroid/Face-recognition](https://github.com/msandroid/Face-recognition)                     人脸识别
+
+[xitu/gold-miner](https://github.com/xitu/gold-miner)
 
 ---
 
@@ -413,6 +437,8 @@ emoji
 [johannilsson/android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh)
 
 [dinuscxj/RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)
+
+[Yalantis/pull-to-make-soup](https://github.com/Yalantis/pull-to-make-soup)
 
 recyclerView
 
@@ -486,6 +512,8 @@ ViewPager
 
 [chengdazhi/DecentBanner](https://github.com/chengdazhi/DecentBanner)
 
+[Devlight/InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)
+
 Navigation
 
 [Devlight /NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)
@@ -514,10 +542,6 @@ FabButton
 
 [futuresimple/android-floating-action-button](https://github.com/futuresimple/android-floating-action-button)
 
-loading
-
-[ybq/Android-SpinKit](https://github.com/ybq/Android-SpinKit)
-
 Toast
 
 [soarcn /UndoBar](https://github.com/soarcn/UndoBar)                                         底部Toast
@@ -531,6 +555,8 @@ Toast
 [RmondJone /LockTableView](https://github.com/RmondJone/LockTableView)                  Android自定义表格，支持锁双向表头，自适应列宽，自适应行高,快速集成。
 
 [PhilJay /MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+
+[ZuYun/Jgraph](https://github.com/ZuYun/Jgraph)
 
 SeekBar&loading
 
@@ -547,6 +573,10 @@ SeekBar&loading
 [dinuscxj/LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable)
 
 [52inc/Scoops](https://github.com/52inc/Scoops)
+
+[ybq/Android-SpinKit](https://github.com/ybq/Android-SpinKit)
+
+[ldoublem/RingProgress](https://github.com/ldoublem/RingProgress)
 
 键盘
 
@@ -640,9 +670,13 @@ SeekBar&loading
 
 [qifengdeqingchen/SeatTable](https://github.com/qifengdeqingchen/SeatTable)                 电影票在线选座
 
+[baoyachi/StepView](https://github.com/baoyachi/StepView)                   订单流程图
+
 ---
 
 ### 完整项目
+
+[Dimon94/GanWuMei](https://github.com/Dimon94/GanWuMei)                             干货集中营Android客户端
 
 [TakWolf/CNode-Material-Design](https://github.com/TakWolf/CNode-Material-Design)           CNode 社区第三方 Android 客户端，原生 App，Material Design 风格，支持夜间模式。
 
@@ -695,6 +729,8 @@ Kotlin
 [nickbutcher /AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground)
 
 samples
+
+[bkiers/retrofit-oauth](https://github.com/bkiers/retrofit-oauth)
 
 [captain-miao/AndroidAgeraTutorial](https://github.com/captain-miao/AndroidAgeraTutorial)
 
