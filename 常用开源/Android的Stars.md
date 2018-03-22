@@ -8,9 +8,13 @@
 
 [Blankj/ALog](https://github.com/Blankj/ALog)
 
+[mattprecious/telescope](https://github.com/mattprecious/telescope)
+
 图片选择器
 
 [zhihu /Matisse](https://github.com/zhihu/Matisse)
+
+[D-clock/AndroidAlbum](https://github.com/D-clock/AndroidAlbum)
 
 图片加载
 
@@ -34,6 +38,8 @@
 
 [jgilfelt/chuck](https://github.com/jgilfelt/chuck)                 抓包
 
+[mcxiaoke/android-volley](https://github.com/mcxiaoke/android-volley)
+
 下载
 
 [lingochamp /FileDownloader](https://github.com/lingochamp/FileDownloader)
@@ -47,6 +53,8 @@ Rx
 [ReactiveX /RxKotlin](https://github.com/ReactiveX/RxKotlin)
 
 [AndroidKnife/RxBus](https://github.com/AndroidKnife/RxBus)
+
+[Piasy/RxAndroidAudio](https://github.com/Piasy/RxAndroidAudio)
 
 fragment
 
@@ -158,6 +166,8 @@ UI框架
 
 [russelarms/OffsetAnimator](https://github.com/russelarms/OffsetAnimator)
 
+[iammert/MaterialIntroView](https://github.com/iammert/MaterialIntroView)
+
 插件或组件
 
 [luckybilly /AutoRegister](https://github.com/luckybilly/AutoRegister)                               android中实现自动注册的gradle插件
@@ -260,6 +270,10 @@ emoji
 
 [xiaoyaoyou1212 /BLE](https://github.com/xiaoyaoyou1212/BLE)
 
+[wyouflf/xUtils3](https://github.com/wyouflf/xUtils3)
+
+[JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
+
 其它
 
 [MZCretin /WifiTransfer-master](https://github.com/MZCretin/WifiTransfer-master)                  Android下WIFI隔空apk安装
@@ -278,6 +292,10 @@ emoji
 
 [square/wire](https://github.com/square/wire)                   Clean, lightweight protocol buffers for Android and Java.
 
+[jOOQ/jOOR](https://github.com/jOOQ/jOOR)                   反射
+
+[cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
+
 开发组件
 
 [Tencent /RapidView](https://github.com/Tencent/RapidView)
@@ -287,6 +305,10 @@ emoji
 [JakeWharton/scalpel](https://github.com/JakeWharton/scalpel)
 
 [square/spoon](https://github.com/square/spoon)
+
+服务器
+
+[jetty-project/i-jetty](https://github.com/jetty-project/i-jetty)
 
 面试或其他资料
 
@@ -320,6 +342,16 @@ emoji
 
 [f2prateek/dart](https://github.com/f2prateek/dart)
 
+[tangqi92/Android-Tips](https://github.com/tangqi92/Android-Tips)
+
+[xuyisheng/AndroidHeroes](https://github.com/xuyisheng/AndroidHeroes)
+
+[zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide)
+
+[Trinea/android-open-project](https://github.com/Trinea/android-open-project)
+
+[msandroid/Face-recognition](https://github.com/msandroid/Face-recognition)                     人脸识别
+
 ---
 
 ### UI控件
@@ -334,6 +366,12 @@ emoji
 
 [bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)
 
+[tuesda/CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)
+
+[chrisbanes/Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh)
+
+[Maxwin-z/XListView-Android](https://github.com/Maxwin-z/XListView-Android)
+
 recyclerView
 
 [wasabeef /recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
@@ -341,6 +379,8 @@ recyclerView
 [gabrielemariotti /RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
 
 [hongyangAndroid/baseAdapter](https://github.com/hongyangAndroid/baseAdapter)
+
+[ZhaoKaiQiang/ParticleLayout](https://github.com/ZhaoKaiQiang/ParticleLayout)                               左滑粒子效果
 
 列表
 
@@ -360,6 +400,18 @@ TextView
 
 [chenBingX/SuperTextView](https://github.com/chenBingX/SuperTextView)
 
+ImageView
+
+[bm-x/PhotoView](https://github.com/bm-x/PhotoView)
+
+checkbox
+
+[andyxialm/SmoothCheckBox](https://github.com/andyxialm/SmoothCheckBox)
+
+button
+
+[zcweng/ToggleButton](https://github.com/zcweng/ToggleButton)
+
 switch
 
 [zagum /Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)
@@ -367,6 +419,8 @@ switch
 [zcweng /SwitchButton](https://github.com/zcweng/SwitchButton)
 
 ViewPager
+
+[saiwu-bigkoo/Android-ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)
 
 [ongakuer /CircleIndicator](https://github.com/ongakuer/CircleIndicator)                          指示器
 
@@ -392,14 +446,30 @@ Navigation
 
 [Yalantis/JellyToolbar](https://github.com/Yalantis/JellyToolbar)
 
+[mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
+
+[mxn21/FlowingDrawer](https://github.com/mxn21/FlowingDrawer)
+
+[keklikhasan/LDrawer](https://github.com/keklikhasan/LDrawer)
+
+[Yalantis/Phoenix](https://github.com/Yalantis/Phoenix)
+
+[race604/FlyRefresh](https://github.com/race604/FlyRefresh)
+
+[jfeinstein10/SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)
+
 FabButton
 
 [Krupen /FabulousFilter](https://github.com/Krupen/FabulousFilter)
+
+[futuresimple/android-floating-action-button](https://github.com/futuresimple/android-floating-action-button)
 
 
 Toast
 
 [soarcn /UndoBar](https://github.com/soarcn/UndoBar)                                         底部Toast
+
+[pyricau/frenchtoast](https://github.com/pyricau/frenchtoast)
 
 表格统计图等
 
@@ -414,6 +484,10 @@ SeekBar
 [woxingxiao /BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar)
 
 [rubensousa/PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar)                   视频进度条
+
+[feeeei/CircleSeekbar](https://github.com/feeeei/CircleSeekbar)
+
+[timqi/SectorProgressView](https://github.com/timqi/SectorProgressView)
 
 键盘
 
@@ -431,6 +505,14 @@ SeekBar
 
 [QuadFlask /colorpicker](https://github.com/QuadFlask/colorpicker)
 
+选择器
+
+[chathudan/CountryCodePicker](https://github.com/chathudan/CountryCodePicker)
+
+[DavidPizarro/PickerUI](https://github.com/DavidPizarro/PickerUI)
+
+[Bigkoo/Android-PickerView](https://github.com/Bigkoo/Android-PickerView)
+
 评分条
 
 [ome450901/SimpleRatingBar](https://github.com/ome450901/SimpleRatingBar)
@@ -438,6 +520,10 @@ SeekBar
 卡片View
 
 [BakerJQ/Android-InfiniteCards](https://github.com/BakerJQ/Android-InfiniteCards)
+
+拖拽
+
+[elevenetc/DraggableView](https://github.com/elevenetc/DraggableView)
 
 布局
 
@@ -454,6 +540,8 @@ SeekBar
 [hugeterry/CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout)
 
 [nex3z/FlowLayout](https://github.com/nex3z/FlowLayout)
+
+[AAkira/ExpandableLayout](https://github.com/AAkira/ExpandableLayout)
 
 其他
 
@@ -478,6 +566,10 @@ SeekBar
 [DingMouRen/FallingView](https://github.com/DingMouRen/FallingView)                 雪花飘落效果
 
 [AlexLiuSheng/BadgeView](https://github.com/AlexLiuSheng/BadgeView)                 小红点
+
+[plattysoft/Leonids](https://github.com/plattysoft/Leonids)                     粒子效果
+
+[HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror)                   镜子
 
 ---
 
@@ -550,6 +642,8 @@ samples
 [googlesamples /android-ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
 
 [android10 /Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)    MVP+Retrofit+Rxjava
+
+[lurbas/ViperArchitectureExample](https://github.com/lurbas/ViperArchitectureExample)
 
 ---
 
