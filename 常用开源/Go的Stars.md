@@ -1,5 +1,21 @@
 # Go
 
+[exercism /go](https://github.com/exercism/go)
+
+[golang /net](https://github.com/golang/net)
+
+[golang /tools](https://github.com/golang/tools)
+
+[coreos /fleet](https://github.com/coreos/fleet)
+
+[flynn /flynn](https://github.com/flynn/flynn)
+
+[dropbox /godropbox](https://github.com/dropbox/godropbox)
+
+[hashicorp /consul](https://github.com/hashicorp/consul)
+
+[hashicorp /terraform](https://github.com/hashicorp/terraform)
+
 [google /go-github](https://github.com/google/go-github)
 
 [cockroachdb /cockroach](https://github.com/cockroachdb/cockroach)
@@ -53,4 +69,22 @@
 [hackstoic /golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects)
 
 [gorilla /mux](https://github.com/gorilla/mux)
+
+[smartystreets /goconvey](https://github.com/smartystreets/goconvey)
+
+[nsqio /nsq](https://github.com/nsqio/nsq)
+
+[sjwhitworth /golearn](https://github.com/sjwhitworth/golearn)
+
+[coreos /etcd](https://github.com/coreos/etcd)
+
+[drone /drone](https://github.com/drone/drone)
+
+[hashicorp /packer](https://github.com/hashicorp/packer)
+
+[syncthing /syncthing](https://github.com/syncthing/syncthing)
+
+[kubernetes /kubernetes](https://github.com/kubernetes/kubernetes)
+
+
 
