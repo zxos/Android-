@@ -10,6 +10,8 @@
 
 [mattprecious/telescope](https://github.com/mattprecious/telescope)
 
+[elvishew/xLog](https://github.com/elvishew/xLog)
+
 图片选择器
 
 [zhihu /Matisse](https://github.com/zhihu/Matisse)
@@ -115,6 +117,10 @@ fragment
 [JeasonWong/Particle](https://github.com/JeasonWong/Particle)                粒子动画
 
 [booncol/Pulsator4Droid](https://github.com/booncol/Pulsator4Droid)                水波纹
+
+[siriscac/RippleView](https://github.com/siriscac/RippleView)                   水波纹
+
+[traex/RippleEffect](https://github.com/traex/RippleEffect)                     水波纹
 
 [danielzeller/Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-)
 
