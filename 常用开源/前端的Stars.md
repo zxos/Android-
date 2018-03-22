@@ -16,3 +16,7 @@
 
 [bxm0927 /vue-meituan](https://github.com/bxm0927/vue-meituan)                   基于Vue 全家桶 \(2.x\)制作的美团外卖APP
 
+[icindy /wxParse](https://github.com/icindy/wxParse)                             微信小程序富文本解析自定义组件，支持HTML及markdown解析
+
+
+
