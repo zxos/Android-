@@ -4,6 +4,14 @@
 
 [lxn /walk](https://github.com/lxn/walk)
 
+[labstack /echo](https://github.com/labstack/echo)
+
+[gin-gonic /gin](https://github.com/gin-gonic/gin)
+
+[astaxie /beego](https://github.com/astaxie/beego)
+
+[beego /products](https://github.com/beego/products)
+
 [hyper0x /goc2p](https://github.com/hyper0x/goc2p)
 
 [google /gxui](https://github.com/google/gxui)
