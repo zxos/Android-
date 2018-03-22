@@ -2,6 +2,10 @@
 
 [notedown /wxopen](https://github.com/notedown/wxopen)
 
+[vuematerial /vue-material](https://github.com/vuematerial/vue-material)
+
+[yarnpkg /yarn](https://github.com/yarnpkg/yarn)
+
 [ElemeFE /element](https://github.com/ElemeFE/element)
 
 [markdown-it /markdown-it](https://github.com/markdown-it/markdown-it)
