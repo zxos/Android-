@@ -1,5 +1,7 @@
 # Python
 
+[tensorflow /models](#)
+
 [biolab /orange3](https://github.com/biolab/orange3)
 
 [nilearn /nilearn](https://github.com/nilearn/nilearn)
@@ -47,8 +49,6 @@
 [caffe2 /caffe2](https://github.com/caffe2/caffe2)
 
 [tensorflow /tensorflow](https://github.com/tensorflow/tensorflow)
-
-[tensorflow /models](https://github.com/tensorflow/models)
 
 学习资料
 
