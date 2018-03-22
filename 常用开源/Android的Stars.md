@@ -524,6 +524,8 @@ emoji
 
 [jetty-project/i-jetty](https://github.com/jetty-project/i-jetty)
 
+[yanzhenjie/AndServer](https://github.com/yanzhenjie/AndServer)
+
 面试或其他资料
 
 [helen-x /AndroidInterview](https://github.com/helen-x/AndroidInterview)
@@ -949,6 +951,10 @@ SeekBar&loading
 [githubwing/ThreeDLayout](https://github.com/githubwing/ThreeDLayout)                       让你的view拥有3D效果！
 
 [ikew0ng/SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
+
+[google/flexbox-layout](https://github.com/google/flexbox-layout)
+
+[alibaba/vlayout](https://github.com/alibaba/vlayout)
 
 其他
 
