@@ -4,6 +4,8 @@
 
 [ElemeFE /element](https://github.com/ElemeFE/element)
 
+[markdown-it /markdown-it](https://github.com/markdown-it/markdown-it)
+
 [Coding /Coding-iOS](https://github.com/Coding/Coding-iOS)
 
 [huang303513 /NodejsVuePractice](https://github.com/huang303513/NodejsVuePractice)
