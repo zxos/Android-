@@ -610,6 +610,8 @@ button
 
 [ChadCSong/ShineButton](https://github.com/ChadCSong/ShineButton)
 
+[uin3566/AllAngleExpandableButton](https://github.com/uin3566/AllAngleExpandableButton)
+
 switch
 
 [zagum /Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)
@@ -666,11 +668,13 @@ Navigation&menu
 
 [dongjunkun/DropDownMenu](https://github.com/dongjunkun/DropDownMenu)               一个实用的多条件筛选菜单
 
-FabButton
+FloatingButton
 
 [Krupen /FabulousFilter](https://github.com/Krupen/FabulousFilter)
 
 [futuresimple/android-floating-action-button](https://github.com/futuresimple/android-floating-action-button)
+
+[UFreedom/FloatingView](https://github.com/UFreedom/FloatingView)
 
 Toast
 
