@@ -90,6 +90,8 @@ Rx
 
 [JakeWharton/retrofit2-rxjava2-adapter](https://github.com/JakeWharton/retrofit2-rxjava2-adapter)
 
+[JakeWharton/RxBinding](https://github.com/JakeWharton/RxBinding)
+
 fragment
 
 [YoKeyword /Fragmentation](https://github.com/YoKeyword/Fragmentation)
@@ -111,6 +113,8 @@ fragment
 [JeasonWong/Particle](https://github.com/JeasonWong/Particle)                粒子动画
 
 [booncol/Pulsator4Droid](https://github.com/booncol/Pulsator4Droid)                水波纹
+
+[danielzeller/Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-)
 
 异步
 
@@ -493,6 +497,8 @@ emoji
 [GcsSloop/AndroidNote](https://github.com/GcsSloop/AndroidNote)
 
 [XXApple/AndroidLibs](https://github.com/XXApple/AndroidLibs)
+
+[lidong1665/AndroidRapidLibrary](https://github.com/lidong1665/AndroidRapidLibrary)
 
 ---
 
