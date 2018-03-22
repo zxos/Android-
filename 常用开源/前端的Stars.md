@@ -44,3 +44,5 @@
 
 [liujians /Wa-UI](https://github.com/liujians/Wa-UI)                                  针对微信小程序整合的一套UI库
 
+[bhnddowinf/vuejs2-learn](https://github.com/bhnddowinf/vuejs2-learn)
+
