@@ -1067,3 +1067,13 @@ samples
 [facebook/react](https://github.com/facebook/react)
 
 [gaearon/redux-thunk](https://github.com/gaearon/redux-thunk)
+
+[wwayne/react-native-nba-app](https://github.com/wwayne/react-native-nba-app)
+
+[xiekw2010/react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed)
+
+[stage88/react-weather](https://github.com/stage88/react-weather)
+
+[attentiveness/reading](https://github.com/attentiveness/reading)
+
+[fbsamples/f8app](https://github.com/fbsamples/f8app)
