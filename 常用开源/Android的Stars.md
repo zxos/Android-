@@ -122,6 +122,8 @@ webView相关
 
 [greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)
 
+[pardom/ActiveAndroid](https://github.com/pardom/ActiveAndroid)
+
 UI框架
 
 [flutter /flutter](https://github.com/flutter/flutter)
@@ -129,6 +131,8 @@ UI框架
 [alibaba /Tangram-Android](https://github.com/alibaba/Tangram-Android)                          一套动态化构建 Native 页面的框架
 
 [apache/incubator-weex](https://github.com/apache/incubator-weex)
+
+[easemob/easeui](https://github.com/easemob/easeui)
 
 多媒体
 
