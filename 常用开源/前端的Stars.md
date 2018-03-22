@@ -4,6 +4,8 @@
 
 [ElemeFE /element](https://github.com/ElemeFE/element)
 
+[huang303513 /NodejsVuePractice](https://github.com/huang303513/NodejsVuePractice)
+
 [yuche /vue-strap](https://github.com/yuche/vue-strap)
 
 [vuejs /vue](https://github.com/vuejs/vue)
