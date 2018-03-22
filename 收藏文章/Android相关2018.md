@@ -129,6 +129,8 @@
 
 [测试框架Robolectric3.0：数据篇](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485426&idx=1&sn=6f53ab0ed5368aef7c284e3239a90253&chksm=96cda6bfa1ba2fa90a886b77cf6ecdc97c2ee5d17fe8f10b7c293c1e5e91fa2e8021dd89626e&scene=21#wechat_redirect)
 
+美团外卖Android平台化架构演进实践
+
 ---
 
 #### 性能优化
@@ -185,11 +187,11 @@
 
 [深度 \| 重新理解响应式编程](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823410&idx=1&sn=dfe80ee133db7bba43ed6d47579057bd&chksm=80b78e6cb7c0077aaf10ae04c56a7c5c181b79d960e9cff9385744896e8f0be8c4d2138426ef&scene=21#wechat_redirect)
 
-[图解RxJava2\(一\)  ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488909&idx=1&sn=fef481b374ffa61ec497c85dbbfc3894&chksm=96cdb4c0a1ba3dd6fde4866470b8e1d9897f9a9fae28ae5d0fa1a40cec996828f175864408a9&scene=21#wechat_redirect)
+[图解RxJava2\(一\)  ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488909&idx=1&sn=fef481b374ffa61ec497c85dbbfc3894&chksm=96cdb4c0a1ba3dd6fde4866470b8e1d9897f9a9fae28ae5d0fa1a40cec996828f175864408a9&scene=21#wechat_redirect)
 
-[图解RxJava2\(二\) ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247489050&idx=1&sn=4b9edc057cc6913dae1580e24d911e37&chksm=96cdb757a1ba3e41ee902bb12ee437ab3d93b64a5fefe030c5aa82184a6ebc63ec669178d6a1&scene=21#wechat_redirect)
+[图解RxJava2\(二\) ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247489050&idx=1&sn=4b9edc057cc6913dae1580e24d911e37&chksm=96cdb757a1ba3e41ee902bb12ee437ab3d93b64a5fefe030c5aa82184a6ebc63ec669178d6a1&scene=21#wechat_redirect)
 
-[图解RxJava2\(三\) ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247489109&idx=1&sn=29dcacb34782d774fa1206d7b5e50b6b&chksm=96cdb718a1ba3e0e19f7952b931f34abac422250160cacb764e3e36377f1a6bf47df13aefa8b&scene=21#wechat_redirect)
+[图解RxJava2\(三\) ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247489109&idx=1&sn=29dcacb34782d774fa1206d7b5e50b6b&chksm=96cdb718a1ba3e0e19f7952b931f34abac422250160cacb764e3e36377f1a6bf47df13aefa8b&scene=21#wechat_redirect)
 
 [图解HashMap\(一\)](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488560&idx=1&sn=86d5b138ade517144ad99d602564eae1&chksm=96cdb57da1ba3c6be523c6502a577f6fd51b1e2ff7e39ac20117b8530e6e33a84a5cdcf43a1b&scene=21#wechat_redirect)
 
@@ -273,11 +275,11 @@
 
 [你的Android应用稳定吗？](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485605&idx=1&sn=c3df77f766984df658191b7d6a5214d1&chksm=96cda9e8a1ba20fedb3e93cf2e74d09702c7a172bf16a8161431992d9e7b7a9ec941702e6628&scene=21#wechat_redirect)
 
-[Android彻底组件化源码分析    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486804&idx=1&sn=664b30f6bdbd55f3b8be706a9a4fe092&chksm=96cdac19a1ba250f6567e45d8495838e953dfd22d8eca309413535b4f192695dc7cca6deea6f&scene=21#wechat_redirect)
+[Android彻底组件化源码分析    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486804&idx=1&sn=664b30f6bdbd55f3b8be706a9a4fe092&chksm=96cdac19a1ba250f6567e45d8495838e953dfd22d8eca309413535b4f192695dc7cca6deea6f&scene=21#wechat_redirect)
 
-[Android彻底组件化方案实践     ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486803&idx=1&sn=884fed93567022e3ac9731df6fc4660a&chksm=96cdac1ea1ba2508aebd69c2b5ae28ff271032806f34a42b2bf5928ea79106bcc71749567714&scene=21#wechat_redirect)
+[Android彻底组件化方案实践     ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486803&idx=1&sn=884fed93567022e3ac9731df6fc4660a&chksm=96cdac1ea1ba2508aebd69c2b5ae28ff271032806f34a42b2bf5928ea79106bcc71749567714&scene=21#wechat_redirect)
 
-[2017 Android插件化框架总结    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486927&idx=1&sn=29e7439c220387f34df232f04ab283ac&chksm=96cdac82a1ba2594182dc87498d621bc884c665b44ebe9271cbee1861aaf64d7641cae50b5d2&scene=21#wechat_redirect)
+[2017 Android插件化框架总结    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486927&idx=1&sn=29e7439c220387f34df232f04ab283ac&chksm=96cdac82a1ba2594182dc87498d621bc884c665b44ebe9271cbee1861aaf64d7641cae50b5d2&scene=21#wechat_redirect)
 
 [是什么造成你的应用内存泄漏？](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487177&idx=1&sn=3bdf6a7e1230b30fc29940dc597be514&chksm=96cdaf84a1ba269210d1213089d4a9e4ec2ffccd3a363945f2cd211760243cdcb76e98cbf406&scene=21#wechat_redirect)
 
@@ -287,8 +289,7 @@
 
 [Android网络请求改造之路](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247483707&idx=1&sn=232459663871c699d570a77f753ab7cd&chksm=96cda076a1ba29600b089ae11a249752812ac8c4b1fbed9d5c8671b992361453414c7667a9ec&scene=21#wechat_redirect)
 
-[Gradle 构建:从入门到实战](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247483668&idx=1&sn=ff2612a607378053cbe8476e94af5a4f&chksm=96cda059a1ba294f715cc3b126541127bee9da877c7f2ad982e82c85f5e35e6a21a5934994d7&scene=21#wechat_redirect)  
-
+[Gradle 构建:从入门到实战](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247483668&idx=1&sn=ff2612a607378053cbe8476e94af5a4f&chksm=96cda059a1ba294f715cc3b126541127bee9da877c7f2ad982e82c85f5e35e6a21a5934994d7&scene=21#wechat_redirect)
 
 [Android动画实现详解](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484543&idx=1&sn=e4b34982a2c193b384e73e15d741a76e&chksm=96cda532a1ba2c24dc4356cb4928d7e95b36858df0abe2be915aff547c76b327a5623251f2df&scene=21#wechat_redirect)
 
@@ -304,27 +305,27 @@
 
 [如何实现日夜间主题切换功能？](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486465&idx=1&sn=7878c347c8617f0d9a9f1f789eec7a03&chksm=96cdad4ca1ba245a36184f2847a3cb49e95b91b05aa9d55f27a870974d7a8b83ff76b2d785ed&scene=21#wechat_redirect)
 
-[物联网来了，你还不会蓝牙开发？ ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486605&idx=1&sn=ac80b25046438a5dce28193c4810c04b&chksm=96cdadc0a1ba24d6955a9e8160582c004e2d99a6963ac20316e8acfd2ef8f01c87f56caebe43&scene=21#wechat_redirect)
+[物联网来了，你还不会蓝牙开发？ ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486605&idx=1&sn=ac80b25046438a5dce28193c4810c04b&chksm=96cdadc0a1ba24d6955a9e8160582c004e2d99a6963ac20316e8acfd2ef8f01c87f56caebe43&scene=21#wechat_redirect)
 
-[这个列表实现很复杂？不存在   ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486573&idx=1&sn=df5719345a413fe8de4c15e30085d23c&chksm=96cdad20a1ba2436aa696b6d1918cc6473f37ecaa10eb82f8271cb6ab7efcc84ce57332a7164&scene=21#wechat_redirect)
+[这个列表实现很复杂？不存在   ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486573&idx=1&sn=df5719345a413fe8de4c15e30085d23c&chksm=96cdad20a1ba2436aa696b6d1918cc6473f37ecaa10eb82f8271cb6ab7efcc84ce57332a7164&scene=21#wechat_redirect)
 
 [手动找Bug?快用自动化测试提高效率吧！](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487150&idx=1&sn=2f25036ea03e4599d60aa9fc57e1a55e&chksm=96cdafe3a1ba26f5c25e0f309df042f5010a52384f12354b16b56a75e48bd4dbff51ec7c619d&scene=21#wechat_redirect)
 
-[Android 4.4.2引入的超炫动画库    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487125&idx=1&sn=b3cdac76e37bc4bb234a53cd5f03b527&chksm=96cdafd8a1ba26ceae06a75ace639f9dcd6bd1bec329536ceea6582c6e356a0f9a464f4ddb44&scene=21#wechat_redirect)
+[Android 4.4.2引入的超炫动画库    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487125&idx=1&sn=b3cdac76e37bc4bb234a53cd5f03b527&chksm=96cdafd8a1ba26ceae06a75ace639f9dcd6bd1bec329536ceea6582c6e356a0f9a464f4ddb44&scene=21#wechat_redirect)
 
 [Material Design 过渡动画实现及流程分析](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487254&idx=1&sn=d1ade5026b2fe1ca232b59840ad52ce8&chksm=96cdae5ba1ba274d49e813783ed9f51b7695ec2ce7f24d6a9075a20be517c22d59c18efce34e&scene=21#wechat_redirect)
 
-[2017年的25个新Android开源库    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487974&idx=1&sn=eeae43cbbf99a2ad3c38ccf3b0bef097&chksm=96cdb0aba1ba39bd9279748efa67ef8fe2c3a7601d9083d983f9f8cc7e61d9777a73b56401f8&scene=21#wechat_redirect)
+[2017年的25个新Android开源库    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487974&idx=1&sn=eeae43cbbf99a2ad3c38ccf3b0bef097&chksm=96cdb0aba1ba39bd9279748efa67ef8fe2c3a7601d9083d983f9f8cc7e61d9777a73b56401f8&scene=21#wechat_redirect)
 
-[Android启动页黑屏及最优解决方案    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487886&idx=1&sn=6fbe4d971e873ee351aef213eedba0ae&chksm=96cdb0c3a1ba39d5a4ed82973ff326675a2cd32516e4465cf276dec2029fc6458e4539a26833&scene=21#wechat_redirect)
+[Android启动页黑屏及最优解决方案    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487886&idx=1&sn=6fbe4d971e873ee351aef213eedba0ae&chksm=96cdb0c3a1ba39d5a4ed82973ff326675a2cd32516e4465cf276dec2029fc6458e4539a26833&scene=21#wechat_redirect)
 
-[Android中的注解与反射你知道吗？    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487786&idx=1&sn=a6b647885f2eb5cb7202c378502fb761&chksm=96cdb067a1ba3971a6b6cb29e505f2e65b7329d685e98b5171ff6295e3e44de28ba3f61e0396&scene=21#wechat_redirect)
+[Android中的注解与反射你知道吗？    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487786&idx=1&sn=a6b647885f2eb5cb7202c378502fb761&chksm=96cdb067a1ba3971a6b6cb29e505f2e65b7329d685e98b5171ff6295e3e44de28ba3f61e0396&scene=21#wechat_redirect)
 
-[如何简单高效的学会Smali语法?    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487635&idx=1&sn=407576fc688f4bef4bb689fd5c025e33&chksm=96cdb1dea1ba38c890fb00d652ace4787f3627b5c977a074a33a7195c8337f81643bf12f3f6b&scene=21#wechat_redirect)
+[如何简单高效的学会Smali语法?    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487635&idx=1&sn=407576fc688f4bef4bb689fd5c025e33&chksm=96cdb1dea1ba38c890fb00d652ace4787f3627b5c977a074a33a7195c8337f81643bf12f3f6b&scene=21#wechat_redirect)
 
-[Android Gradle 使用大全    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487574&idx=1&sn=4e5a0aef6366ae5c809a4abc448fc209&chksm=96cdb11ba1ba380d564971ba18b8a397466620200675515fa3f4bed8dcd3267f4e9d9f02469d&scene=21#wechat_redirect)
+[Android Gradle 使用大全    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487574&idx=1&sn=4e5a0aef6366ae5c809a4abc448fc209&chksm=96cdb11ba1ba380d564971ba18b8a397466620200675515fa3f4bed8dcd3267f4e9d9f02469d&scene=21#wechat_redirect)
 
-[Android与Python爱之初体验    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488220&idx=1&sn=834f2b928d2852ebdc4db1439ee0e08b&chksm=96cdb391a1ba3a87c2bc4e0bf0921acd28469be06de9bb14f63002dfa7eeab5fe1a4e21fac15&scene=21#wechat_redirect)
+[Android与Python爱之初体验    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488220&idx=1&sn=834f2b928d2852ebdc4db1439ee0e08b&chksm=96cdb391a1ba3a87c2bc4e0bf0921acd28469be06de9bb14f63002dfa7eeab5fe1a4e21fac15&scene=21#wechat_redirect)
 
 [探讨Android6.0及以上系统保活](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488201&idx=1&sn=bffe823d4536b86a8135448c04f4556c&chksm=96cdb384a1ba3a925d8bcb907ee1d01b5984a5d06cf8d78ca06d97d286e500088e14a30b6ea8&scene=21#wechat_redirect)
 
@@ -332,23 +333,23 @@
 
 [Jenkins+Github+蒲公英/Fir.im+邮件通知](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488151&idx=1&sn=f329687505b416cd898c843ca558b693&chksm=96cdb3daa1ba3acc19b083824005fc9e5b0e5b01486fa8da052804d01ad9124afac4df4884f1&scene=21#wechat_redirect)
 
-[百度地图街景实现，看这篇就够了    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488089&idx=1&sn=9fe1697810c3727d501bfb8c93ed3973&chksm=96cdb314a1ba3a026fc0d2686ca14174d4288193f1cafec2c16e7a1a356bccf336e6f3d70b7d&scene=21#wechat_redirect)
+[百度地图街景实现，看这篇就够了    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488089&idx=1&sn=9fe1697810c3727d501bfb8c93ed3973&chksm=96cdb314a1ba3a026fc0d2686ca14174d4288193f1cafec2c16e7a1a356bccf336e6f3d70b7d&scene=21#wechat_redirect)
 
-[关于Android中图片大小、内存占用的研究与分析    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488311&idx=1&sn=e9fa0f336b62832b6b65fc62ade6c770&chksm=96cdb27aa1ba3b6ced3848b3ab7974c248dd5498c4dd94655174477724d3dc7cbd4118e25e8b&scene=21#wechat_redirect)
+[关于Android中图片大小、内存占用的研究与分析    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488311&idx=1&sn=e9fa0f336b62832b6b65fc62ade6c770&chksm=96cdb27aa1ba3b6ced3848b3ab7974c248dd5498c4dd94655174477724d3dc7cbd4118e25e8b&scene=21#wechat_redirect)
 
 [Activity、View、Window的理解](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488456&idx=1&sn=4136c0a098ca71583534fb203738accc&chksm=96cdb285a1ba3b93ab39b5e4f06fcb31dc4a7974a859caeae47dfd812cb53f88614936c63e2e&scene=21#wechat_redirect)
 
-[Android打包之多版本、多环境、多渠道    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488433&idx=1&sn=f424f31a9d721281df423fb67fbc211c&chksm=96cdb2fca1ba3beaf5530e48401173640e763be5e7d7963f4351e163e9a5f250da143e1299a4&scene=21#wechat_redirect)
+[Android打包之多版本、多环境、多渠道    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488433&idx=1&sn=f424f31a9d721281df423fb67fbc211c&chksm=96cdb2fca1ba3beaf5530e48401173640e763be5e7d7963f4351e163e9a5f250da143e1299a4&scene=21#wechat_redirect)
 
-[图解ConcurrentHashMap    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488667&idx=1&sn=9f17d205c9deff7b571c3280ca2b1e10&chksm=96cdb5d6a1ba3cc0d70f61d5883123e84e992b9e1f2139aa909c3f3d517ece4bb363d00a1c74&scene=21#wechat_redirect)
+[图解ConcurrentHashMap    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488667&idx=1&sn=9f17d205c9deff7b571c3280ca2b1e10&chksm=96cdb5d6a1ba3cc0d70f61d5883123e84e992b9e1f2139aa909c3f3d517ece4bb363d00a1c74&scene=21#wechat_redirect)
 
-[Android性能优化之如何避免Overdraw   ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488633&idx=1&sn=67178270527b135eb9bffab88da3f727&chksm=96cdb534a1ba3c221143548960c377dd47ce068311a5f84316dee4332afa37b59130e9ab1341&scene=21#wechat_redirect)
+[Android性能优化之如何避免Overdraw   ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488633&idx=1&sn=67178270527b135eb9bffab88da3f727&chksm=96cdb534a1ba3c221143548960c377dd47ce068311a5f84316dee4332afa37b59130e9ab1341&scene=21#wechat_redirect)
 
-[ConstraintLayout 详细使用教程    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488786&idx=1&sn=9267a368eb61a36c0a4980e05f86302e&chksm=96cdb45fa1ba3d49f45598e44af6e28ef755699eec0f289d700f1894de649347db0677d01513&scene=21#wechat_redirect)
+[ConstraintLayout 详细使用教程    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488786&idx=1&sn=9267a368eb61a36c0a4980e05f86302e&chksm=96cdb45fa1ba3d49f45598e44af6e28ef755699eec0f289d700f1894de649347db0677d01513&scene=21#wechat_redirect)
 
-[你不知道的App启动优化方案 ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488730&idx=1&sn=5c5b7f9f42c95933680769ef3636759d&chksm=96cdb597a1ba3c811d4e773673a69e84cf0371d44427fca7133bc25fff4b804aab0aea0db11f&scene=21#wechat_redirect)
+[你不知道的App启动优化方案 ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488730&idx=1&sn=5c5b7f9f42c95933680769ef3636759d&chksm=96cdb597a1ba3c811d4e773673a69e84cf0371d44427fca7133bc25fff4b804aab0aea0db11f&scene=21#wechat_redirect)
 
-[用Lottie把启动界面动起来    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247489401&idx=1&sn=9eecc9faa9d2dc0ce8bae6d7c45885a9&chksm=96cdb634a1ba3f227af9e3f995da5c305bb23b55e22f5b4cdf0bd996998407910869b30e5d5e&scene=21#wechat_redirect)
+[用Lottie把启动界面动起来    ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247489401&idx=1&sn=9eecc9faa9d2dc0ce8bae6d7c45885a9&chksm=96cdb634a1ba3f227af9e3f995da5c305bb23b55e22f5b4cdf0bd996998407910869b30e5d5e&scene=21#wechat_redirect)
 
 [Kotlin初探](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484179&idx=1&sn=aef8a3fdf69547c666aa79849ff3fe14&chksm=96cda25ea1ba2b48493130a07011211964f92007ee8f07942c10ab74e8242c36b6220a959a02&scene=21#wechat_redirect)
 
@@ -370,36 +371,35 @@
 
 [Android开发之Handler的前世今生](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247483998&idx=1&sn=03cb1942533247ac23876448fdf1b39a&chksm=96cda313a1ba2a050f8cc2325e36b468f620d3d167d9f0dbc3108127c5ba16d14dc83cabc3c6&scene=21#wechat_redirect)
 
-[Android：深入剖析 Retrofit 2.0 源码](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485679&idx=1&sn=cdf5785ae5a63af9b7eec9f068ea4b96&chksm=96cda9a2a1ba20b4f91db6985c24696ec1ad710f06d4d9692e35cec25caf19b2c1bbc76111e6&scene=21#wechat_redirect)  
-
+[Android：深入剖析 Retrofit 2.0 源码](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485679&idx=1&sn=cdf5785ae5a63af9b7eec9f068ea4b96&chksm=96cda9a2a1ba20b4f91db6985c24696ec1ad710f06d4d9692e35cec25caf19b2c1bbc76111e6&scene=21#wechat_redirect)
 
 [AsyncTask? AsyncTask串行and并行？](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485540&idx=1&sn=9bc2ff88f96e55e34e804077456dc211&chksm=96cda929a1ba203f39a6918367a3e1a423db54086d2b6c3a18c65400f7b521dcd101bc2f386d&scene=21#wechat_redirect)
 
 [你一定会用到的RxJava常用操作符](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484203&idx=1&sn=6c98747e0c2d3bd4a7001d2db45df6d8&chksm=96cda266a1ba2b7086f38adb26135009a59dd42c58be4f9c60ed0e56b37952b2d5919173d783&scene=21#wechat_redirect)
 
-[我打赌你一定没搞明白的Activity启动模式 ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488588&idx=1&sn=3f7c59654835ec8d560610ba97d10fc0&chksm=96cdb501a1ba3c173c0f2e173ad131c27a0fbd5bdca0d8245822ae440562c8822ba1aaf3324a&scene=21#wechat_redirect)
+[我打赌你一定没搞明白的Activity启动模式 ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488588&idx=1&sn=3f7c59654835ec8d560610ba97d10fc0&chksm=96cdb501a1ba3c173c0f2e173ad131c27a0fbd5bdca0d8245822ae440562c8822ba1aaf3324a&scene=21#wechat_redirect)
 
 [看我逆向小米rom层应用做碎片化适配](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486906&idx=1&sn=d6f473abffdea7b2ece6f6bb1f72e084&chksm=96cdacf7a1ba25e19569f1baf9f956139c2b03140012b96e77802a79383a15f9f2872d8a6864&scene=21#wechat_redirect)
 
 [APP从启动到主页经历了哪些过程吗？](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487014&idx=1&sn=ce2e5378d0dd8a8bc6b85358a8aaa47c&chksm=96cdaf6ba1ba267de98ac3aeba61809e18f9005bb82e384a782d2abbda2dd785846298d17124&scene=21#wechat_redirect)
 
-[深度分析：Google Play列表滑动效果  ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486700&idx=1&sn=a1160460e5e8fe4171de73f7775a2c8d&chksm=96cdada1a1ba24b74141193b1d9b99a0d59b67d4bbb81fb53ba142658359d4d145bd123bbd31&scene=21#wechat_redirect)
+[深度分析：Google Play列表滑动效果  ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486700&idx=1&sn=a1160460e5e8fe4171de73f7775a2c8d&chksm=96cdada1a1ba24b74141193b1d9b99a0d59b67d4bbb81fb53ba142658359d4d145bd123bbd31&scene=21#wechat_redirect)
 
 [Android 搭建属于你的技术堆栈](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487307&idx=1&sn=7390a991f738f9537d3c853883a1c272&chksm=96cdae06a1ba271081da48dadf02bc77d1782b79ffb9503f95c78eb856a6afb150179f475c3d&scene=21#wechat_redirect)
 
-[Android 项目最新架构   ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487442&idx=2&sn=768e9cc22bd5b7f739e5fc95b6796b02&chksm=96cdae9fa1ba27895a3162bc106377657e2ca35d619ab4d9a984ebdd0d576f314417de2ac50b&scene=21#wechat_redirect)
+[Android 项目最新架构   ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487442&idx=2&sn=768e9cc22bd5b7f739e5fc95b6796b02&chksm=96cdae9fa1ba27895a3162bc106377657e2ca35d619ab4d9a984ebdd0d576f314417de2ac50b&scene=21#wechat_redirect)
 
-[双语言（Java与Kotlin）5种单例模式  ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247489158&idx=1&sn=9a72afd00f16607ed673b9750278cdad&chksm=96cdb7cba1ba3edd39f0076abc3dbc4473bdb3b64c06b978a574fc15b9e050f2790e1d0ed960&scene=21#wechat_redirect)
+[双语言（Java与Kotlin）5种单例模式  ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247489158&idx=1&sn=9a72afd00f16607ed673b9750278cdad&chksm=96cdb7cba1ba3edd39f0076abc3dbc4473bdb3b64c06b978a574fc15b9e050f2790e1d0ed960&scene=21#wechat_redirect)
 
 [Jenkins实现自动化打包并集成fir平台](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487305&idx=1&sn=e9bdff7cb91b0eabbe67ec965f3be660&chksm=96cdae04a1ba2712a459d2494abed3c32e97223300acf7288f73c10ce264a4efbd7157041ba1&scene=21#wechat_redirect)
 
-[Android 那些你不可错过的好书 ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486946&idx=1&sn=64339a8d8f92fe3b448ec0b5b52e49d1&chksm=96cdacafa1ba25b9927872e77c3e2577349ed23cecf2f798f4ee9dc38e39e6336bda14f5e006&scene=21#wechat_redirect)
+[Android 那些你不可错过的好书 ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486946&idx=1&sn=64339a8d8f92fe3b448ec0b5b52e49d1&chksm=96cdacafa1ba25b9927872e77c3e2577349ed23cecf2f798f4ee9dc38e39e6336bda14f5e006&scene=21#wechat_redirect)
 
-[30多个Android开发者超赞的工具 ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487835&idx=1&sn=3b8ddd7fd4c52e1a4d6e5c1e601d91d7&chksm=96cdb016a1ba3900b81f3d26126312549e678f1a309b9c5ea018c753a504eae3be01a5699483&scene=21#wechat_redirect)
+[30多个Android开发者超赞的工具 ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487835&idx=1&sn=3b8ddd7fd4c52e1a4d6e5c1e601d91d7&chksm=96cdb016a1ba3900b81f3d26126312549e678f1a309b9c5ea018c753a504eae3be01a5699483&scene=21#wechat_redirect)
 
-[一文解决Android View滑动冲突](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484662&idx=1&sn=7b8a8831b37975936a9ea95c7a54d52a&chksm=96cda5bba1ba2cad32081316ad0771aab42fa64782f7b2c726acc2bb5809fb04f4ef7088ab29&scene=21#wechat_redirect)
+[一文解决Android View滑动冲突](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484662&idx=1&sn=7b8a8831b37975936a9ea95c7a54d52a&chksm=96cda5bba1ba2cad32081316ad0771aab42fa64782f7b2c726acc2bb5809fb04f4ef7088ab29&scene=21#wechat_redirect)
 
-[一文读懂Android View事件分发机制](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484615&idx=1&sn=d34d4035e6ecf03abbead56cd9eafa4c&chksm=96cda58aa1ba2c9c5663ff1f3e6a2ef72a64db81c813c74b7ebbc389fbcbb0ce3b3eaefe85a5&scene=21#wechat_redirect)
+[一文读懂Android View事件分发机制](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484615&idx=1&sn=d34d4035e6ecf03abbead56cd9eafa4c&chksm=96cda58aa1ba2c9c5663ff1f3e6a2ef72a64db81c813c74b7ebbc389fbcbb0ce3b3eaefe85a5&scene=21#wechat_redirect)
 
 [拆 JakeWharton 系列之 Picasso](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486163&idx=1&sn=8449c537e5bc0238e0425966c48740d9&chksm=96cdab9ea1ba2288d9f6a860e054518f62555d31072d0a6a4d2ca551c45c20d2b60ff6e6028c&scene=21#wechat_redirect)
 
@@ -411,20 +411,20 @@
 
 [Android黑科技③:干大事不择手段](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485214&idx=1&sn=989542ebf42258e2747f83913c65ea9b&chksm=96cda653a1ba2f4524bb293dd2a5bc903a30740fbacad2de848a62f7f7ea30ae677bd046ce8d&scene=21#wechat_redirect)
 
-[Android studio常用插件之行云流水coding  
+[Android studio常用插件之行云流水coding    
 ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486384&idx=1&sn=dff859c691a26bb79fd0eab9d6a9c4da&chksm=96cdaafda1ba23ebd5acfed4d78b586750db811aa1c890bb6d6aeb54eff15db08d585a499c47&scene=21#wechat_redirect)
 
-[熟练这些，才知道 Android studio 高效  ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488398&idx=1&sn=ef11d223341039f3b3a91688d7e0fa3d&chksm=96cdb2c3a1ba3bd514f0c0b14caa53db54fa4a4fb48d69c4c4470a6d120a1cc43e60ff30ae0c&scene=21#wechat_redirect)
+[熟练这些，才知道 Android studio 高效  ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488398&idx=1&sn=ef11d223341039f3b3a91688d7e0fa3d&chksm=96cdb2c3a1ba3bd514f0c0b14caa53db54fa4a4fb48d69c4c4470a6d120a1cc43e60ff30ae0c&scene=21#wechat_redirect)
 
-[Android Studio 3.0的性能分析工具  ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487907&idx=1&sn=202a662ccf28a9b00d7daf2067eb22d6&chksm=96cdb0eea1ba39f8ffaa465278f9d8b0cf9658e76423b9c184b1fabe5d3d6784978460c5921e&scene=21#wechat_redirect)
+[Android Studio 3.0的性能分析工具  ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487907&idx=1&sn=202a662ccf28a9b00d7daf2067eb22d6&chksm=96cdb0eea1ba39f8ffaa465278f9d8b0cf9658e76423b9c184b1fabe5d3d6784978460c5921e&scene=21#wechat_redirect)
 
 [Android Studio插件集合\(IDE通用\)（上）](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487640&idx=1&sn=3752d389f908a6116341a03e6f3c6730&chksm=96cdb1d5a1ba38c3698e67f35a96af2f8f823ab548ac249a024f1e8549e76846746deeeaf239&scene=21#wechat_redirect)
 
 [Android Studio插件集合\(IDE通用\)（下）](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487717&idx=1&sn=ea07b2546f47af16f2f6bae0ec8c092b&chksm=96cdb1a8a1ba38be457a7590e4135dd47f8366021838c6f7a7b1cb24b6ed313ec03eef22002d&scene=21#wechat_redirect)
 
-[Android Studio 你不知道的调试技巧 ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487401&idx=1&sn=94b2e5ca0b2dcf79ef3423e7cdb5564f&chksm=96cdaee4a1ba27f28be60d33f334afd5b7c9037f32c0b45065876c20c09d655fa41c060caec2&scene=21#wechat_redirect)
+[Android Studio 你不知道的调试技巧 ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247487401&idx=1&sn=94b2e5ca0b2dcf79ef3423e7cdb5564f&chksm=96cdaee4a1ba27f28be60d33f334afd5b7c9037f32c0b45065876c20c09d655fa41c060caec2&scene=21#wechat_redirect)
 
-[如何使用android studio插件提高效率 ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488705&idx=1&sn=c1df7454a24867daad4f8d96207204df&chksm=96cdb58ca1ba3c9a6106bacb0a3ee85ba442b0bab5fae9e2ecbe181a5a2c4e6b1ede609ec798&scene=21#wechat_redirect)
+[如何使用android studio插件提高效率 ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488705&idx=1&sn=c1df7454a24867daad4f8d96207204df&chksm=96cdb58ca1ba3c9a6106bacb0a3ee85ba442b0bab5fae9e2ecbe181a5a2c4e6b1ede609ec798&scene=21#wechat_redirect)
 
 [Android Studio 实用小技巧](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485764&idx=1&sn=f816c73c1bc0d024d877f5f5371488b7&chksm=96cda809a1ba211faf50e83386c40d74bc71a24bd420f22cffda6a3d62a64ded6b5695a20d59&scene=21#wechat_redirect)
 
@@ -456,13 +456,13 @@
 
 [（已拿offer）腾讯/百度/今日头条/美团2017Android开发实习生面经](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822790&idx=1&sn=801199ba18f6c14cf82d5d8b01621270&chksm=80b78c18b7c0050eacc29c74905998317a97526cd000b19d16be448abbafc095fda8f58e0623&scene=21#wechat_redirect)
 
-[Facebook面经记  ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488337&idx=2&sn=cdf09c45bafd09b07687cefa6149cc5d&chksm=96cdb21ca1ba3b0a2a04368f63de02db89c499614de0d1c22d042f671f31ffe3b539e6bad3dd&scene=21#wechat_redirect)
+[Facebook面经记  ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488337&idx=2&sn=cdf09c45bafd09b07687cefa6149cc5d&chksm=96cdb21ca1ba3b0a2a04368f63de02db89c499614de0d1c22d042f671f31ffe3b539e6bad3dd&scene=21#wechat_redirect)
 
-[2017年4月美团Android面试总结 ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484320&idx=1&sn=032fa88c05c03916e0a176efb95bce27&chksm=96cda2eda1ba2bfb3776e8afb8a97b8f3c4ab23c30d6aada6406bf4ea89d8cff34d4c3293c4b&scene=21#wechat_redirect)
+[2017年4月美团Android面试总结 ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484320&idx=1&sn=032fa88c05c03916e0a176efb95bce27&chksm=96cda2eda1ba2bfb3776e8afb8a97b8f3c4ab23c30d6aada6406bf4ea89d8cff34d4c3293c4b&scene=21#wechat_redirect)
 
 [Android 面试题整理](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488476&idx=1&sn=d709ea84e78670c248f226942b8dd563&chksm=96cdb291a1ba3b870d4aa5345f47d1bd743836d59e09f0ba1fe0da41c68332d29ef414ae266b&scene=21#wechat_redirect)
 
-[2017 Android秋招面试总结  ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488310&idx=1&sn=b8b428c9e516c5579aa37f4f6cad2bfd&chksm=96cdb27ba1ba3b6d86e2d649cf2514da496d94af81c53e61d6fb53e0cd35791cf91521bca814&scene=21#wechat_redirect)
+[2017 Android秋招面试总结  ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488310&idx=1&sn=b8b428c9e516c5579aa37f4f6cad2bfd&chksm=96cdb27ba1ba3b6d86e2d649cf2514da496d94af81c53e61d6fb53e0cd35791cf91521bca814&scene=21#wechat_redirect)
 
-[2017年Android求职回顾 ](#)
+[2017年Android求职回顾 ](#)
 
