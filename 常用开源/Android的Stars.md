@@ -436,6 +436,8 @@ emoji
 
 [Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)
 
+[l123456789jy/Lazy](https://github.com/l123456789jy/Lazy)
+
 其它
 
 [MZCretin /WifiTransfer-master](https://github.com/MZCretin/WifiTransfer-master)                  Android下WIFI隔空apk安装
