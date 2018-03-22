@@ -30,7 +30,7 @@
 
 [icindy /wxParse](https://github.com/icindy/wxParse)                             微信小程序富文本解析自定义组件，支持HTML及markdown解析
 
-[MyGitHubFork /WebBasicCommonDemos](https://github.com/MyGitHubFork/WebBasicCommonDemos)
+[MyGitHubFork /WebBasicCommonDemos](https://github.com/MyGitHubFork/WebBasicCommonDemos)                           html、css、javascript、ajax、weex、vue.js、less、webpack等前端学习基础知识
 
 [Bilibili /flv.js](https://github.com/Bilibili/flv.js)
 
