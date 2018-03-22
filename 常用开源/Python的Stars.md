@@ -92,5 +92,7 @@
 
 [jtoy /awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
 
+[vnpy /vnpy](https://github.com/vnpy/vnpy)                                         基于python的开源量化交易平台开发框架
+
 
 
