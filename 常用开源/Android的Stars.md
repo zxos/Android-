@@ -40,6 +40,8 @@
 
 [mcxiaoke/android-volley](https://github.com/mcxiaoke/android-volley)
 
+[square/retrofit](https://github.com/square/retrofit)
+
 下载
 
 [lingochamp /FileDownloader](https://github.com/lingochamp/FileDownloader)
@@ -55,6 +57,10 @@ Rx
 [AndroidKnife/RxBus](https://github.com/AndroidKnife/RxBus)
 
 [Piasy/RxAndroidAudio](https://github.com/Piasy/RxAndroidAudio)
+
+[ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
+
+[ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
 
 fragment
 
@@ -72,9 +78,13 @@ fragment
 
 [JakeWharton/NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
 
+[XunMengWinter/CircularAnim](https://github.com/XunMengWinter/CircularAnim)
+
 异步
 
-[koush /AndroidAsync](https://github.com/koush/AndroidAsync)
+[koush/AndroidAsync](https://github.com/koush/AndroidAsync)
+
+[google/agera](https://github.com/google/agera)
 
 webView相关
 
@@ -99,6 +109,10 @@ webView相关
 [Tencent /wcdb](https://github.com/Tencent/wcdb)
 
 [LitePalFramework/LitePal](https://github.com/LitePalFramework/LitePal)
+
+[j256/ormlite-android](https://github.com/j256/ormlite-android)
+
+[greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)
 
 UI框架
 
@@ -149,6 +163,10 @@ UI框架
 [xmuSistone /AnimRichEditor](https://github.com/xmuSistone/AnimRichEditor)
 
 [sendtion /XRichText](https://github.com/sendtion/XRichText)
+
+[wasabeef/richeditor-android](https://github.com/wasabeef/richeditor-android)
+
+[zzhoujay/RichText](https://github.com/zzhoujay/RichText)
 
 通知
 
@@ -282,6 +300,10 @@ emoji
 
 [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
 
+[google/dagger](https://github.com/google/dagger)
+
+[meikoz/Basic](https://github.com/meikoz/Basic)
+
 其它
 
 [MZCretin /WifiTransfer-master](https://github.com/MZCretin/WifiTransfer-master)                  Android下WIFI隔空apk安装
@@ -319,6 +341,8 @@ emoji
 [JakeWharton/scalpel](https://github.com/JakeWharton/scalpel)
 
 [square/spoon](https://github.com/square/spoon)
+
+[facebook/stetho](https://github.com/facebook/stetho)
 
 服务器
 
@@ -388,6 +412,8 @@ emoji
 
 [johannilsson/android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh)
 
+[dinuscxj/RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)
+
 recyclerView
 
 [wasabeef /recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
@@ -418,9 +444,13 @@ TextView
 
 [chenBingX/SuperTextView](https://github.com/chenBingX/SuperTextView)
 
+[robinhood/ticker](https://github.com/robinhood/ticker)
+
 ImageView
 
 [bm-x/PhotoView](https://github.com/bm-x/PhotoView)
+
+[Cutta/GifView](https://github.com/Cutta/GifView)
 
 checkbox
 
@@ -454,6 +484,7 @@ ViewPager
 
 [rubensousa/ViewPagerCards](https://github.com/rubensousa/ViewPagerCards)
 
+[chengdazhi/DecentBanner](https://github.com/chengdazhi/DecentBanner)
 
 Navigation
 
@@ -501,7 +532,7 @@ Toast
 
 [PhilJay /MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 
-SeekBar
+SeekBar&loading
 
 [woxingxiao /BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar)
 
@@ -510,6 +541,12 @@ SeekBar
 [feeeei/CircleSeekbar](https://github.com/feeeei/CircleSeekbar)
 
 [timqi/SectorProgressView](https://github.com/timqi/SectorProgressView)
+
+[aliab/circular-music-progressbar](https://github.com/aliab/circular-music-progressbar)
+
+[dinuscxj/LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable)
+
+[52inc/Scoops](https://github.com/52inc/Scoops)
 
 键盘
 
@@ -534,6 +571,10 @@ SeekBar
 [DavidPizarro/PickerUI](https://github.com/DavidPizarro/PickerUI)
 
 [Bigkoo/Android-PickerView](https://github.com/Bigkoo/Android-PickerView)
+
+[helloJp/WheelView](https://github.com/helloJp/WheelView)
+
+
 
 评分条
 
@@ -593,9 +634,19 @@ SeekBar
 
 [HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror)                   镜子
 
+[oubowu/MarqueeLayoutLibrary](https://github.com/oubowu/MarqueeLayoutLibrary)                   一个支持四个方向循环滚动的自定义控件
+
+[jackpocket/android_scratchoff](https://github.com/jackpocket/android_scratchoff)               刮图
+
+[qifengdeqingchen/SeatTable](https://github.com/qifengdeqingchen/SeatTable)                 电影票在线选座
+
 ---
 
 ### 完整项目
+
+[TakWolf/CNode-Material-Design](https://github.com/TakWolf/CNode-Material-Design)           CNode 社区第三方 Android 客户端，原生 App，Material Design 风格，支持夜间模式。
+
+[jianliaoim/talk-os](https://github.com/jianliaoim/talk-os)
 
 [JessYanCoding/MVPArms](https://github.com/JessYanCoding/MVPArms)
 
@@ -644,6 +695,10 @@ Kotlin
 [nickbutcher /AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground)
 
 samples
+
+[captain-miao/AndroidAgeraTutorial](https://github.com/captain-miao/AndroidAgeraTutorial)
+
+[kaushikgopal/RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
 
 [googlesamples/android-architecture](https://github.com/googlesamples/android-architecture)
 
