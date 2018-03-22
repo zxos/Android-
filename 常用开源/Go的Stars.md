@@ -1,5 +1,9 @@
 # Go
 
+[google /go-github](https://github.com/google/go-github)
+
+[cockroachdb /cockroach](https://github.com/cockroachdb/cockroach)
+
 [golang /go](https://github.com/golang/go)
 
 [golang /mobile](https://github.com/golang/mobile)
