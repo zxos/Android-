@@ -18,5 +18,7 @@
 
 [icindy /wxParse](https://github.com/icindy/wxParse)                             微信小程序富文本解析自定义组件，支持HTML及markdown解析
 
+[Bilibili /flv.js](https://github.com/Bilibili/flv.js)
+
 
 
