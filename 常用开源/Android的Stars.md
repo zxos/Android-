@@ -332,6 +332,8 @@ IM
 
 [chrisjenx /Calligraphy](https://github.com/chrisjenx/Calligraphy)
 
+[smart-fun/SmartFonts](https://github.com/smart-fun/SmartFonts)
+
 文件选择器
 
 [iPaulPro /aFileChooser](https://github.com/iPaulPro/aFileChooser)
@@ -516,6 +518,8 @@ emoji
 
 [weixin/WeIndex](https://github.com/weixin/WeIndex)                     微信相关资源汇总索引
 
+[brianway/java-learning](https://github.com/brianway/java-learning)                 旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web
+
 ---
 
 ### UI控件
@@ -561,6 +565,8 @@ recyclerView
 [dinuscxj/PullZoomRecyclerView](https://github.com/dinuscxj/PullZoomRecyclerView)
 
 [elye/loaderviewlibrary](https://github.com/elye/loaderviewlibrary)
+
+[xuehuayous/WrapRecyclerView](https://github.com/xuehuayous/WrapRecyclerView)
 
 列表
 
@@ -770,9 +776,17 @@ SeekBar&loading
 
 [helloJp/WheelView](https://github.com/helloJp/WheelView)
 
+[jingchenUSTC/TimePicker](https://github.com/jingchenUSTC/TimePicker)
+
+[code-troopers/android-betterpickers](https://github.com/code-troopers/android-betterpickers)
+
+[zaaach/CityPicker](https://github.com/zaaach/CityPicker)
+
 评分条
 
 [ome450901/SimpleRatingBar](https://github.com/ome450901/SimpleRatingBar)
+
+[codemybrainsout/smart-app-rate](https://github.com/codemybrainsout/smart-app-rate)
 
 卡片View
 
@@ -843,6 +857,10 @@ SeekBar&loading
 ---
 
 ### 完整项目
+
+[Yalantis/ToDoList](https://github.com/Yalantis/ToDoList)
+
+[izzyleung/ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify)
 
 [wuyinlei/MyHearts](https://github.com/wuyinlei/MyHearts)
 
@@ -962,3 +980,6 @@ samples
 
 [facebook/react-native](https://github.com/facebook/react-native)
 
+[ruanyf/react-demos](https://github.com/ruanyf/react-demos)
+
+[facebook/react](https://github.com/facebook/react)
