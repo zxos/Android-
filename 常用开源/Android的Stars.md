@@ -48,6 +48,8 @@
 
 [ArthurHub/Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)
 
+[shaohui10086/AdvancedLuban](https://github.com/shaohui10086/AdvancedLuban)
+
 网络
 
 [Tamicer /Novate](https://github.com/Tamicer/Novate)                                               Android网络框架，基于Retrofit和RxJava打造的链式网络库, 支持okhttp的调用风格，又兼容Retrofit API，并支持rxJava链式操作
@@ -63,6 +65,8 @@
 [mcxiaoke/android-volley](https://github.com/mcxiaoke/android-volley)
 
 [square/retrofit](https://github.com/square/retrofit)
+
+[jeasonlzy/okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo)
 
 下载
 
@@ -488,6 +492,8 @@ emoji
 
 [GcsSloop/AndroidNote](https://github.com/GcsSloop/AndroidNote)
 
+[XXApple/AndroidLibs](https://github.com/XXApple/AndroidLibs)
+
 ---
 
 ### UI控件
@@ -618,7 +624,7 @@ ViewPager
 
 [Devlight/InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)
 
-Navigation
+Navigation&menu
 
 [Devlight /NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)
 
@@ -641,6 +647,10 @@ Navigation
 [mzule/FantasySlide](https://github.com/mzule/FantasySlide)
 
 [SimonVT /android-menudrawer](https://github.com/SimonVT/android-menudrawer)
+
+[Hitomis/CircleMenu](https://github.com/Hitomis/CircleMenu)
+
+[dongjunkun/DropDownMenu](https://github.com/dongjunkun/DropDownMenu)               一个实用的多条件筛选菜单
 
 FabButton
 
@@ -741,6 +751,8 @@ SeekBar&loading
 [AAkira/ExpandableLayout](https://github.com/AAkira/ExpandableLayout)
 
 [ShamylZakariya/FlyoutMenus](https://github.com/ShamylZakariya/FlyoutMenus)
+
+[githubwing/ThreeDLayout](https://github.com/githubwing/ThreeDLayout)                       让你的view拥有3D效果！
 
 其他
 
@@ -895,4 +907,6 @@ samples
 [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp)
 
 [poberwong/mdcc-client](https://github.com/poberwong/mdcc-client)
+
+[facebook/react-native](https://github.com/facebook/react-native)
 
