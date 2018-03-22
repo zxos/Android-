@@ -1,5 +1,7 @@
 # Go
 
+[avelino /awesome-go](https://github.com/avelino/awesome-go)
+
 [ivpusic /neo](https://github.com/ivpusic/neo)
 
 [devfeel /dotweb](https://github.com/devfeel/dotweb)
