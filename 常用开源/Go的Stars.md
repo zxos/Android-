@@ -2,6 +2,8 @@
 
 [exercism /go](https://github.com/exercism/go)
 
+[lxn /walk](https://github.com/lxn/walk)
+
 [hyper0x /goc2p](https://github.com/hyper0x/goc2p)
 
 [golang /net](https://github.com/golang/net)
