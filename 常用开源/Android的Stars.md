@@ -160,6 +160,8 @@ fragment
 
 [florent37/ExpectAnim](https://github.com/florent37/ExpectAnim)
 
+[airbnb/lottie-android](https://github.com/airbnb/lottie-android)
+
 异步
 
 [koush/AndroidAsync](https://github.com/koush/AndroidAsync)
@@ -798,6 +800,8 @@ Navigation&menu
 
 [Aspsine/FragmentNavigator](https://github.com/Aspsine/FragmentNavigator)
 
+[Ajian-studio/GABottleLoading](https://github.com/Ajian-studio/GABottleLoading)
+
 FloatingButton
 
 [Krupen /FabulousFilter](https://github.com/Krupen/FabulousFilter)
@@ -813,6 +817,8 @@ Toast
 [soarcn /UndoBar](https://github.com/soarcn/UndoBar)                                         底部Toast
 
 [pyricau/frenchtoast](https://github.com/pyricau/frenchtoast)
+
+[GrenderG/Toasty](https://github.com/GrenderG/Toasty)
 
 表格统计图等
 
@@ -986,6 +992,12 @@ SeekBar&loading
 
 ### 完整项目
 
+[sealtalk/sealtalk-android](https://github.com/sealtalk/sealtalk-android)
+
+[aa112901/remusic](https://github.com/aa112901/remusic)
+
+[Bilibili/boxing](https://github.com/Bilibili/boxing)
+
 [smuyyh/SprintNBA](https://github.com/smuyyh/SprintNBA)
 
 [chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare)
@@ -1139,3 +1151,11 @@ samples
 [attentiveness/reading](https://github.com/attentiveness/reading)
 
 [fbsamples/f8app](https://github.com/fbsamples/f8app)
+
+[MarnoDev/react-native-eyepetizer](https://github.com/MarnoDev/react-native-eyepetizer)
+
+[airbnb/lottie-react-native](https://github.com/airbnb/lottie-react-native)
+
+[alinz/example-react-native-redux](https://github.com/alinz/example-react-native-redux)
+
+[FormidableLabs/react-animations](https://github.com/FormidableLabs/react-animations)
