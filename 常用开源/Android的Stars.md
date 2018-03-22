@@ -120,6 +120,10 @@ fragment
 
 [Yellow5A5/ActSwitchAnimTool](https://github.com/Yellow5A5/ActSwitchAnimTool)
 
+[thunderrise/android-TNRAnimationHelper](https://github.com/thunderrise/android-TNRAnimationHelper)
+
+[ImmortalZ/TransitionHelper](https://github.com/ImmortalZ/TransitionHelper)
+
 异步
 
 [koush/AndroidAsync](https://github.com/koush/AndroidAsync)
@@ -508,6 +512,8 @@ emoji
 
 [GeekLiB/Lee-VR-Source](https://github.com/GeekLiB/Lee-VR-Source)                   VR 开发者必备资源汇总
 
+[Dev-XYS/Algorithms](https://github.com/Dev-XYS/Algorithms)                     全面的算法代码仓库
+
 ---
 
 ### UI控件
@@ -668,6 +674,8 @@ Navigation&menu
 
 [dongjunkun/DropDownMenu](https://github.com/dongjunkun/DropDownMenu)               一个实用的多条件筛选菜单
 
+[Yalantis/SearchFilter](https://github.com/Yalantis/SearchFilter)
+
 FloatingButton
 
 [Krupen /FabulousFilter](https://github.com/Krupen/FabulousFilter)
@@ -727,6 +735,20 @@ SeekBar&loading
 [prolificinteractive /material-calendarview](https://github.com/prolificinteractive/material-calendarview)
 
 [square/android-times-square](https://github.com/square/android-times-square)
+
+[henry-newbie/CalendarView](https://github.com/henry-newbie/CalendarView)
+
+[dalong982242260/AndroidCalendar](https://github.com/dalong982242260/AndroidCalendar)
+
+[JZXiang/TimePickerDialog](https://github.com/JZXiang/TimePickerDialog)
+
+[borax12/MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker)
+
+[Tibolte/AgendaCalendarView](https://github.com/Tibolte/AgendaCalendarView)
+
+[BurnieLau/Time-Selector](https://github.com/BurnieLau/Time-Selector)
+
+[dengshiwei/CalendarComponent](https://github.com/dengshiwei/CalendarComponent)
 
 颜色选择器
 
@@ -815,6 +837,8 @@ SeekBar&loading
 ---
 
 ### 完整项目
+
+[wuyinlei/MyHearts](https://github.com/wuyinlei/MyHearts)
 
 [Werb/GankWithZhihu](https://github.com/Werb/GankWithZhihu)             阅读类
 
