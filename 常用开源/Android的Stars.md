@@ -1065,3 +1065,5 @@ samples
 [ruanyf/react-demos](https://github.com/ruanyf/react-demos)
 
 [facebook/react](https://github.com/facebook/react)
+
+[gaearon/redux-thunk](https://github.com/gaearon/redux-thunk)
