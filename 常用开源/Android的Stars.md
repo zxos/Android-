@@ -86,6 +86,8 @@ webView相关
 
 [pwnall /chromeview](https://github.com/pwnall/chromeview)
 
+[pedant/safe-java-js-webview-bridge](https://github.com/pedant/safe-java-js-webview-bridge)
+
 数据库
 
 [objectbox /objectbox-java](https://github.com/objectbox/objectbox-java)
@@ -125,6 +127,10 @@ UI框架
 [PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice)
 
 [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
+
+[Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
+
+[Bilibili/DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)
 
 照相
 
@@ -185,6 +191,8 @@ UI框架
 热更新
 
 [TinkerPatch /tinkerpatch-sdk](https://github.com/TinkerPatch/tinkerpatch-sdk)
+
+[AlanCheen/AndFixDemo](https://github.com/AlanCheen/AndFixDemo)
 
 内存泄漏
 
@@ -296,6 +304,12 @@ emoji
 
 [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
 
+图标
+
+[material-design-icons](https://github.com/google/material-design-icons)
+
+[theDazzler/droidicon](https://github.com/theDazzler/droidicon)
+
 开发组件
 
 [Tencent /RapidView](https://github.com/Tencent/RapidView)
@@ -372,6 +386,8 @@ emoji
 
 [Maxwin-z/XListView-Android](https://github.com/Maxwin-z/XListView-Android)
 
+[johannilsson/android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh)
+
 recyclerView
 
 [wasabeef /recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
@@ -381,6 +397,8 @@ recyclerView
 [hongyangAndroid/baseAdapter](https://github.com/hongyangAndroid/baseAdapter)
 
 [ZhaoKaiQiang/ParticleLayout](https://github.com/ZhaoKaiQiang/ParticleLayout)                               左滑粒子效果
+
+[CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 
 列表
 
@@ -436,6 +454,7 @@ ViewPager
 
 [rubensousa/ViewPagerCards](https://github.com/rubensousa/ViewPagerCards)
 
+
 Navigation
 
 [Devlight /NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)
@@ -464,6 +483,9 @@ FabButton
 
 [futuresimple/android-floating-action-button](https://github.com/futuresimple/android-floating-action-button)
 
+loading
+
+[ybq/Android-SpinKit](https://github.com/ybq/Android-SpinKit)
 
 Toast
 
@@ -622,6 +644,8 @@ Kotlin
 [nickbutcher /AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground)
 
 samples
+
+[googlesamples/android-architecture](https://github.com/googlesamples/android-architecture)
 
 [googlesamples/android-testing](https://github.com/googlesamples/android-testing)
 
