@@ -614,6 +614,7 @@ recyclerView
 
 [xuehuayous/WrapRecyclerView](https://github.com/xuehuayous/WrapRecyclerView)
 
+[HoneyNeutrons/RecyclerViewUndoSwipe](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe)
 
 列表
 
@@ -740,6 +741,8 @@ Navigation&menu
 [dongjunkun/DropDownMenu](https://github.com/dongjunkun/DropDownMenu)               一个实用的多条件筛选菜单
 
 [Yalantis/SearchFilter](https://github.com/Yalantis/SearchFilter)
+
+[Nightonke/BoomMenu](https://github.com/Nightonke/BoomMenu)
 
 FloatingButton
 
