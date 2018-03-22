@@ -514,6 +514,8 @@ emoji
 
 [Dev-XYS/Algorithms](https://github.com/Dev-XYS/Algorithms)                     全面的算法代码仓库
 
+[weixin/WeIndex](https://github.com/weixin/WeIndex)                     微信相关资源汇总索引
+
 ---
 
 ### UI控件
@@ -617,6 +619,8 @@ button
 [ChadCSong/ShineButton](https://github.com/ChadCSong/ShineButton)
 
 [uin3566/AllAngleExpandableButton](https://github.com/uin3566/AllAngleExpandableButton)
+
+[czy1121/badgebutton](https://github.com/czy1121/badgebutton)               带有徽标(数字，小红点)的按钮
 
 switch
 
@@ -723,6 +727,8 @@ SeekBar&loading
 [ldoublem/RingProgress](https://github.com/ldoublem/RingProgress)
 
 [hHotBitmapGG/RingProgressBar](https://github.com/HotBitmapGG/RingProgressBar)
+
+[DreaminginCodeZH/MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)
 
 键盘
 
