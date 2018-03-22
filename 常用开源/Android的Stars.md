@@ -606,6 +606,10 @@ emoji
 
 [phodal/ideabook](https://github.com/phodal/ideabook)                       一个全栈增长工程师的练手项目集
 
+[cctanfujun/android-tips-tricks-cn](https://github.com/cctanfujun/android-tips-tricks-cn)
+
+[lizhangqu/CoreLink](https://github.com/lizhangqu/CoreLink)
+
 ---
 
 ### UI控件
