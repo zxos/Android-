@@ -129,7 +129,7 @@
 
 [测试框架Robolectric3.0：数据篇](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485426&idx=1&sn=6f53ab0ed5368aef7c284e3239a90253&chksm=96cda6bfa1ba2fa90a886b77cf6ecdc97c2ee5d17fe8f10b7c293c1e5e91fa2e8021dd89626e&scene=21#wechat_redirect)
 
-美团外卖Android平台化架构演进实践
+[美团外卖Android平台化架构演进实践](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651747704&idx=1&sn=93c4a5c76b78bc998fa0dab1fdd4547d)
 
 ---
 
@@ -411,7 +411,7 @@
 
 [Android黑科技③:干大事不择手段](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485214&idx=1&sn=989542ebf42258e2747f83913c65ea9b&chksm=96cda653a1ba2f4524bb293dd2a5bc903a30740fbacad2de848a62f7f7ea30ae677bd046ce8d&scene=21#wechat_redirect)
 
-[Android studio常用插件之行云流水coding    
+[Android studio常用插件之行云流水coding      
 ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486384&idx=1&sn=dff859c691a26bb79fd0eab9d6a9c4da&chksm=96cdaafda1ba23ebd5acfed4d78b586750db811aa1c890bb6d6aeb54eff15db08d585a499c47&scene=21#wechat_redirect)
 
 [熟练这些，才知道 Android studio 高效  ](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247488398&idx=1&sn=ef11d223341039f3b3a91688d7e0fa3d&chksm=96cdb2c3a1ba3bd514f0c0b14caa53db54fa4a4fb48d69c4c4470a6d120a1cc43e60ff30ae0c&scene=21#wechat_redirect)
