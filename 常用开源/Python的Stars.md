@@ -48,6 +48,8 @@
 
 [tensorflow /tensorflow](https://github.com/tensorflow/tensorflow)
 
+[tensorflow /models](https://github.com/tensorflow/models)
+
 学习资料
 
 [exacity /deeplearningbook-chinese](#)
