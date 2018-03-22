@@ -1,5 +1,9 @@
 # Go
 
+[silenceper /wechat](https://github.com/silenceper/wechat)
+
+[WhiteBlue /bilibili-sdk-go](https://github.com/WhiteBlue/bilibili-sdk-go)
+
 [Terry-Mao /goim](https://github.com/Terry-Mao/goim)
 
 [astaxie /build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
