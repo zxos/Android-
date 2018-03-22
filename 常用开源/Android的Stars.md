@@ -324,6 +324,8 @@ emoji
 
 [google/guava](https://github.com/google/guava)
 
+[Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
+
 其它
 
 [MZCretin /WifiTransfer-master](https://github.com/MZCretin/WifiTransfer-master)                  Android下WIFI隔空apk安装
@@ -483,6 +485,10 @@ ImageView
 [bm-x/PhotoView](https://github.com/bm-x/PhotoView)
 
 [Cutta/GifView](https://github.com/Cutta/GifView)
+
+dialog
+
+[afollestad/material-dialogs](https://github.com/afollestad/material-dialogs)
 
 checkbox
 
