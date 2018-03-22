@@ -2,6 +2,8 @@
 
 [exercism /go](https://github.com/exercism/go)
 
+[hyper0x /goc2p](https://github.com/hyper0x/goc2p)
+
 [golang /net](https://github.com/golang/net)
 
 [golang /tools](https://github.com/golang/tools)
@@ -85,6 +87,4 @@
 [syncthing /syncthing](https://github.com/syncthing/syncthing)
 
 [kubernetes /kubernetes](https://github.com/kubernetes/kubernetes)
-
-
 
