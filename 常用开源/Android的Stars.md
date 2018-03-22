@@ -80,6 +80,8 @@
 
 [Tencent/mars](https://github.com/Tencent/mars)
 
+[hongyangAndroid/okhttputils](https://github.com/hongyangAndroid/okhttputils)
+
 下载
 
 [lingochamp /FileDownloader](https://github.com/lingochamp/FileDownloader)
@@ -155,6 +157,8 @@ fragment
 [asyl/ArcAnimator](https://github.com/asyl/ArcAnimator)
 
 [lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations)
+
+[florent37/ExpectAnim](https://github.com/florent37/ExpectAnim)
 
 异步
 
@@ -455,6 +459,10 @@ emoji
 [l123456789jy/Lazy](https://github.com/l123456789jy/Lazy)
 
 [hongyangAndroid/AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)               Android屏幕适配方案
+
+支付
+
+[mayubao/Android-Pay](https://github.com/mayubao/Android-Pay)
 
 其它
 
@@ -872,6 +880,8 @@ SeekBar&loading
 
 [codbking/CalendarExaple](https://github.com/codbking/CalendarExaple)
 
+[loonggg/WeekCalendar](https://github.com/loonggg/WeekCalendar)
+
 颜色选择器
 
 [QuadFlask /colorpicker](https://github.com/QuadFlask/colorpicker)
@@ -975,6 +985,8 @@ SeekBar&loading
 ---
 
 ### 完整项目
+
+[smuyyh/SprintNBA](https://github.com/smuyyh/SprintNBA)
 
 [chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare)
 
