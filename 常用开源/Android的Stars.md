@@ -116,6 +116,10 @@ fragment
 
 [danielzeller/Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-)
 
+[ghuiii/AnimationWithoutCode](https://github.com/ghuiii/AnimationWithoutCode)
+
+[Yellow5A5/ActSwitchAnimTool](https://github.com/Yellow5A5/ActSwitchAnimTool)
+
 异步
 
 [koush/AndroidAsync](https://github.com/koush/AndroidAsync)
@@ -257,6 +261,8 @@ UI框架
 [iammert/MaterialIntroView](https://github.com/iammert/MaterialIntroView)
 
 [TangoAgency/material-intro-screen](https://github.com/TangoAgency/material-intro-screen)
+
+[codemybrainsout/ahoy-onboarding](https://github.com/codemybrainsout/ahoy-onboarding)
 
 插件或组件
 
@@ -500,6 +506,8 @@ emoji
 
 [lidong1665/AndroidRapidLibrary](https://github.com/lidong1665/AndroidRapidLibrary)
 
+[GeekLiB/Lee-VR-Source](https://github.com/GeekLiB/Lee-VR-Source)                   VR 开发者必备资源汇总
+
 ---
 
 ### UI控件
@@ -680,6 +688,8 @@ Toast
 
 [ZuYun/Jgraph](https://github.com/ZuYun/Jgraph)
 
+[xurui1995/Radar](https://github.com/xurui1995/Radar)                   雷达图
+
 SeekBar&loading
 
 [woxingxiao /BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar)
@@ -699,6 +709,8 @@ SeekBar&loading
 [ybq/Android-SpinKit](https://github.com/ybq/Android-SpinKit)
 
 [ldoublem/RingProgress](https://github.com/ldoublem/RingProgress)
+
+[hHotBitmapGG/RingProgressBar](https://github.com/HotBitmapGG/RingProgressBar)
 
 键盘
 
