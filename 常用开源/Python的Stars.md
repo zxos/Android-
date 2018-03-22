@@ -88,5 +88,7 @@
 
 [kevinhughes27 /TensorKart](https://github.com/kevinhughes27/TensorKart)
 
+[francistao /LearningNotes](https://github.com/francistao/LearningNotes)
+
 
 
