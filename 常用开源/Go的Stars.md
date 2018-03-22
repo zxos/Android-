@@ -6,6 +6,14 @@
 
 [hyper0x /goc2p](https://github.com/hyper0x/goc2p)
 
+[google /gxui](https://github.com/google/gxui)
+
+[visualfc /goqt](https://github.com/visualfc/goqt)
+
+[go-qml /qml](https://github.com/go-qml/qml)
+
+[therecipe /qt](https://github.com/therecipe/qt)
+
 [golang /net](https://github.com/golang/net)
 
 [golang /tools](https://github.com/golang/tools)
