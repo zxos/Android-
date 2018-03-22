@@ -94,5 +94,7 @@
 
 [vnpy /vnpy](https://github.com/vnpy/vnpy)                                         基于python的开源量化交易平台开发框架
 
+[jobbole /awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
+
 
 
