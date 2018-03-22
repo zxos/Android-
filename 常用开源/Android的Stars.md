@@ -268,6 +268,8 @@ UI框架
 
 [AlanCheen/AndFixDemo](https://github.com/AlanCheen/AndFixDemo)
 
+[Tencent/tinker](https://github.com/Tencent/tinker)
+
 内存泄漏
 
 [square/leakcanary](https://github.com/square/leakcanary)
