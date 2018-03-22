@@ -68,6 +68,8 @@
 
 [jeasonlzy/okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo)
 
+[facebook/network-connection-class](https://github.com/facebook/network-connection-class)
+
 下载
 
 [lingochamp /FileDownloader](https://github.com/lingochamp/FileDownloader)
@@ -524,6 +526,8 @@ emoji
 
 [brianway/java-learning](https://github.com/brianway/java-learning)                 旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web
 
+[wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+
 ---
 
 ### UI控件
@@ -700,6 +704,8 @@ FloatingButton
 
 [UFreedom/FloatingView](https://github.com/UFreedom/FloatingView)
 
+[JoaquimLey/faboptions](https://github.com/JoaquimLey/faboptions)
+
 Toast
 
 [soarcn /UndoBar](https://github.com/soarcn/UndoBar)                                         底部Toast
@@ -860,9 +866,15 @@ SeekBar&loading
 
 [baoyachi/StepView](https://github.com/baoyachi/StepView)                   订单流程图
 
+[GcsSloop/ViewSupport](https://github.com/GcsSloop/ViewSupport)
+
 ---
 
 ### 完整项目
+
+[chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare)
+
+[DiyCodes/code_news](https://github.com/DiyCodes/code_news)
 
 [Yalantis/ToDoList](https://github.com/Yalantis/ToDoList)
 
