@@ -46,6 +46,8 @@
 
 [caffe2 /caffe2](https://github.com/caffe2/caffe2)
 
+[tensorflow /tensorflow](https://github.com/tensorflow/tensorflow)
+
 学习资料
 
 [exacity /deeplearningbook-chinese](#)
@@ -69,6 +71,4 @@
 [MorvanZhou /tutorials](https://github.com/MorvanZhou/tutorials)
 
 [jikexueyuanwiki /tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
-
-
 
