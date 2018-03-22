@@ -270,6 +270,8 @@ UI框架
 
 [Tencent/tinker](https://github.com/Tencent/tinker)
 
+[kot32go/dynamic-load-view](https://github.com/kot32go/dynamic-load-view)                   能够动态加载外部apk中的View以及资源，能够热修复线上View，以及模块化更新。
+
 内存泄漏
 
 [square/leakcanary](https://github.com/square/leakcanary)
@@ -762,6 +764,8 @@ SeekBar&loading
 
 ### 完整项目
 
+[hefuyicoder/ZhihuDaily](https://github.com/hefuyicoder/ZhihuDaily)
+
 [JustWayward/BookReader](https://github.com/JustWayward/BookReader)                     "任阅" 网络小说阅读器，追书推荐收藏、书籍/标签检索、模拟翻书的翻页效果、缓存书籍、日夜间模式、书签、txt/pdf/epub书籍阅读、Wifi传书~
 
 [lguipeng/Notes](https://github.com/lguipeng/Notes)
@@ -867,4 +871,6 @@ samples
 [stoneWeb /elm-react-native](https://github.com/stoneWeb/elm-react-native)
 
 [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp)
+
+[poberwong/mdcc-client](https://github.com/poberwong/mdcc-client)
 
