@@ -68,3 +68,7 @@
 
 [MorvanZhou /tutorials](https://github.com/MorvanZhou/tutorials)
 
+[jikexueyuanwiki /tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
+
+
+
