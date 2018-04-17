@@ -8,7 +8,7 @@
 public class MyBinder extends Binder {
 
     private MyService service;
-    private OnListener listener;
+    private OnListener listener;        
 
     public void msgFromService(String str) {
         listener.onTest(str);
@@ -17,7 +17,7 @@ public class MyBinder extends Binder {
     interface OnListener{
         void onTest(String str);
     }
-    
+
     public void activityToService(String str){
         service.msgFromAct(str);
     }
@@ -35,30 +35,24 @@ public class MyBinder extends Binder {
 2。创建Service类
 
 ```
-public class MyBinder extends Binder {
+public class MyService extends Service {
 
-    private MyService service;
-    private OnListener listener;
 
-    public void msgFromService(String str) {
-        listener.onTest(str);
-    }
+    private MyBinder mBinder = new MyBinder(this);
 
-    interface OnListener{
-        void onTest(String str);
-    }
-
-    public MyBinder(MyService service){
-        this.service = service;
-    }
-
-    public void setListener(OnListener listener){
-        this.listener = listener;
+    @Nullable
+    @Override
+    public IBinder onBind(Intent intent) {
+        return mBinder;
     }
 
 
-    public void activityToService(String str){
-        service.msgFromAct(str);
+    public void msgFromService(String str){
+        mBinder.msgFromService(str);
+    }
+
+    public void msgFromAct(String str){
+        Log.e("MyService", "信息来自Activity "+ str);
     }
 }
 ```
@@ -93,13 +87,22 @@ public class MyActivity extends AppCompatActivity{
 
     public void test(){
         mBinder.activityToService("测试");
-    
+
     }
 
 }
 ```
 
+总结
 
+```
+Service往Activity传数据
+
+Activity往Service传数据
+使用接口回调，在Activity中的binder设置监听等待Service传数据
+
+
+```
 
 
 
