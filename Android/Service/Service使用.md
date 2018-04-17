@@ -7,8 +7,8 @@
 ```
 public class MyBinder extends Binder {
 
-    private MyService service;
-    private OnListener listener;        
+    private MyService service;                //绑定的Service实例，用于在Activity中调用
+    private OnListener listener;              //监听来自Service的动作
 
     public void msgFromService(String str) {
         listener.onTest(str);
@@ -97,10 +97,19 @@ public class MyActivity extends AppCompatActivity{
 
 ```
 Service往Activity传数据
-
-Activity往Service传数据
 使用接口回调，在Activity中的binder设置监听等待Service传数据
 
+Activity往Service传数据
+binder中保存Service使用，再Activity调用binder方法，让binder调用service方法
+```
+
+* AIDL
+
+对比Binder，AIDL相关类仅又aidl文件生成，其他操作基本一致
+
+1。AIDL文件
+
+```
 
 ```
 
