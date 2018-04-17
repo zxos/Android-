@@ -107,9 +107,33 @@ binder中保存Service使用，再Activity调用binder方法，让binder调用se
 
 对比Binder，AIDL相关类仅又aidl文件生成，其他操作基本一致
 
-1。AIDL文件
+AIDL文件
 
 ```
+-----IMyAidllnterface-----
+相当于原来需要继承的binder类，但继承时应为extends IMyAidlInterface.Stub
+
+package com.zxos.myservicedemo;
+
+import com.zxos.myservicedemo.IMyListener;
+
+interface IMyAidlInterface {
+
+    void setListener(IMyListener listener);
+
+    void activityToService(String str);
+}
+
+
+----IMyListener-----
+相当的于原来回调接口
+
+package com.zxos.myservicedemo;
+
+interface IMyListener {
+
+    void serviceToActivity(String str);
+}
 
 ```
 
