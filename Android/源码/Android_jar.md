@@ -4,7 +4,7 @@
 
 \[accessibilityservice\]
 
-\|-\[accounts\]
+\[accounts\]
 
 \|-\[animation\]
 
