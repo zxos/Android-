@@ -48,5 +48,14 @@
 
 #### accessibilityservice
 
+```
+android.accessibilityservice
+    |-AccessibilityButtonController
+    |-AccessibilityService
+    |-AccessibilityServiceInfo
+    |-FingerprintGestureController
+    |-GestureDescription
+```
+
 
 
