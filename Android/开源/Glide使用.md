@@ -1,5 +1,7 @@
 ### Glide使用
 
+[版本V4中文文档](https://muyangmin.github.io/glide-docs-cn/)
+
 配置
 
 ```
@@ -16,7 +18,8 @@ dependencies {
 }
 
 
-kotlin
+--kotlin--
+
 apply plugin: 'kotlin-kapt'
 dependencies {
   compile 'com.github.bumptech.glide:glide:4.6.1'
